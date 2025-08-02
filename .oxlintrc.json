@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "oxc/approx-constant": "warn",
+    "no-plusplus": "off"
+  }
+}
