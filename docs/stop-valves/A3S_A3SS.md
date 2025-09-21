@@ -1,0 +1,40 @@
+
+
+# 波纹管密封A3S和A3SS截止阀
+
+![波纹管密封A3S和A3SS截止阀](/d/file/stop-valves/9549ae85d902596b1d0d32a22d2b8e3b.jpg)
+
+![波纹管密封A3S和A3SS截止阀1](/d/file/stop-valves/9549ae85d902596b1d0d32a22d2b8e3b.jpg)
+
+# 波纹管密封A3S和A3SS截止阀
+
+波纹管截止阀，螺纹或承插焊连接，可应用于蒸汽、气体、液体、冷凝水和水系统。
+
+**部分产品和服务只在特定地区提供.**
+
+## 斯派莎克A3S截止阀标准
+
+本产品完全符合欧洲压力设备指令97/23/EC。  
+波纹管疲劳寿命符合ISO15761。
+
+## 斯派莎克A3S截止阀阀座泄漏
+
+阀座密封符合API 598和DIN3230 B01。
+
+## 斯派莎克A3S截止阀订购备件
+
+请按上表中描述订购，并标明阀的型号及口径。  
+例如： 1-维修组件加上1-阀体垫片，用于斯派莎克1"A3S 截止阀，BSP螺纹连接。
+
+-   [产品介绍](javascript:navactive(1);)
+-   [技术信息](javascript:navactive(2);)
+-   [安装和维修指南](javascript:navactive(3);)
+
+-   TITLE_REF NO.__LANGUAGE_
+-   No records to display.
+
+-   TITLE_REF NO.__LANGUAGE_
+-   [A3S和A3SS 波纹管密封截止阀](/d/pdf/TI-P132-09-A3S和A3SS%20波纹管密封截止阀.pdf)_TI-P132-09__Chinese_
+
+-   TITLE_REF NO.__LANGUAGE_
+-   No records to display.

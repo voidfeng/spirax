@@ -1,0 +1,38 @@
+
+
+# Fig12 Y型过滤器
+
+![Fig12 Y型过滤器](/d/file/strainers/f3dfd52e353b866605d3cb9ea0799fa5.jpg)
+
+![Fig12 Y型过滤器1](/d/file/strainers/f3dfd52e353b866605d3cb9ea0799fa5.jpg)
+
+# Fig12 Y型过滤器
+
+斯派莎克Fig12过滤器，球墨铸铁材质，螺纹连接。标准不锈钢 过滤网0.8mm孔径。另有其它孔径和目数及合金过滤网可供选择。根据需要过滤器阀帽上可钻螺纹孔连接排污或排放阀。
+
+**部分产品和服务只在特定地区提供.**
+
+## 斯派莎克FIG12过滤器口径和管道连接
+
+½", ¾", 1", 1¼", 1½", 2", 2½",3",BSP 或 NPT螺纹连接。
+
+## 斯派莎克FIG12过滤器安装
+
+斯派莎克FIG12过滤器应按壳体上的流动方向水平安装，应用于蒸汽或气 体的水平管道上时，过滤器阀体应保持水平面，而在液体 系统中，阀体应为垂直向下位置。为方便维护和更换，过 滤器上下游应安装合适的截止阀。安装前取出所有的保护 件，缓慢打开截止阀直至达到正常工况并检查是否泄漏。
+
+## 斯派莎克FIG12过滤器订购说明
+
+斯派莎克Fig12过滤器DN25，EN 1092 PN16法兰连接， 0.8mm孔径不锈钢过滤网。
+
+-   [产品介绍](javascript:navactive(1);)
+-   [技术信息](javascript:navactive(2);)
+-   [安装和维修指南](javascript:navactive(3);)
+
+-   TITLE_REF NO.__LANGUAGE_
+-   No records to display.
+
+-   TITLE_REF NO.__LANGUAGE_
+-   [Fig12过滤器 球墨铸铁材质](/d/pdf/TI-P163-01-Fig12%20球墨铸铁过滤器.pdf)_TI-P163-01__Chinese_
+
+-   TITLE_REF NO.__LANGUAGE_
+-   [FIG1,FIG12过滤器](/d/pdf/IM-S60-17-FIG1,FIG12过滤器.pdf)_IM-S60-17__Chinese_

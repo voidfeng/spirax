@@ -1,0 +1,40 @@
+
+
+# Fig33 Y型过滤器
+
+![Fig33 Y型过滤器](/d/file/strainers/e03f153684c36721a9e63a4fa7c2ccca.jpg)
+
+![Fig33 Y型过滤器1](/d/file/strainers/e03f153684c36721a9e63a4fa7c2ccca.jpg)
+
+# Fig33 Y型过滤器
+
+斯派莎克Fig33过滤器为Y形、铸铁材质，法兰连接。标准不锈钢过滤网：DN15至DN80为0.8mm孔径，DN100至DN200为1.6mm孔径。另有其它孔径和目数及Monel合金过滤网可供选择。根据需要过滤器阀帽上可钻螺纹孔连接排污阀或排放阀。
+
+**部分产品和服务只在特定地区提供.**
+
+## 斯派莎克FIG33过滤器口径和管道连接
+
+DN15, 20, 25, 32, 40, 50, 65, 80, 100, 125, 150和200；  
+标准法兰EN1092 PN16, AS 2129 TableF；  
+ANSI 150(DN15和DN20)ANSI 125 (DN25至DN200)。
+
+## 斯派莎克FIG33过滤器安装
+
+FIG33过滤器应按阀体上流向箭头所示安装在水平或流向向下的 垂直管道上。应用于蒸汽或气体的水平管道上时，过滤器阀体应保持水平面位置，而在液体系统中阀体应为垂直向 下位置。为方便维修和更换，过滤器上下游应安装合适的 截止阀。
+
+## 斯派莎克FIG33过滤器订购说明
+
+斯派莎克Fig33过滤器DN25，EN 1092 PN16法兰连接， 0.8mm孔径不锈钢过滤网。
+
+-   [产品介绍](javascript:navactive(1);)
+-   [技术信息](javascript:navactive(2);)
+-   [安装和维修指南](javascript:navactive(3);)
+
+-   TITLE_REF NO.__LANGUAGE_
+-   No records to display.
+
+-   TITLE_REF NO.__LANGUAGE_
+-   [Fig33Y型过滤器](/d/pdf/TI-S60-03-Fig33%20铸铁过滤器.pdf)_TI-S60-03__Chinese_
+
+-   TITLE_REF NO.__LANGUAGE_
+-   [FIG3,FIG7,FIG33过滤器](/d/pdf/IM-S60-18-FIG3,7,33过滤器.pdf)_IM-S60-18__Chinese_

@@ -1,0 +1,342 @@
+html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input,abbr,article,aside,command,details,figcaption,figure,footer,header,hgroup,mark,meter,nav,output,progress,section,summary,time { margin: 0; padding: 0; }
+HTML BODY {
+	MARGIN:0em;  PADDING:0em; TEXT-ALIGN:center;FONT-FAMILY:"Arial","ËÎÌå";font-size: 12px;color:#525353;background: #ececec url(/skin/web/images/bg.png) repeat fixed;min-width: 1041px;}
+
+A {	COLOR:black; TEXT-DECORATION:none;color:#333333;-webkit-font-smoothing: antialiased;}
+
+A:hover {
+	COLOR:#CC0000; TEXT-DECORATION: underline;
+}
+
+.menu{height: 34px;line-height: 280%;font-family: verdana, sans-serif;font-size: 0.85em;width: 100%;margin: 0 auto;text-shadow: 0 3px 6px rgba(0,0,0,.1);z-index: 1000;background-color: #13233b;background-color: #0d1b2f;background-image: -moz-linear-gradient(top,#091527,#13233b);background-image: -ms-linear-gradient(top,#091527,#13233b);background-image: -webkit-gradient(linear,0 0,0 100%,from(#091527),to(#13233b));background-image: -webkit-linear-gradient(top,#091527,#13233b);background-image: -o-linear-gradient(top,#091527,#13233b);background-image: linear-gradient(top,#091527,#13233b);background-repeat: repeat-x;filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#091527',endColorstr='#13233b',GradientType=0);}
+.menu ul{list-style: none;width:80%;margin: 0 auto;}
+.menu ul li{float: left;min-width: 95px;white-space: nowrap;}
+.menu ul li a{color:white;font-size: 15px;}
+.menu ul {list-style-type: none;}
+.menu ul li {float:left;position:relative;}
+.menu ul li a, .menu ul li a:visited {z-index:1000;}
+* html .menu ul li a, .menu ul li a:visited {width:149px;width:139px;}
+.menu ul ul{list-style: none;position: absolute;left: 0;top: 34px;margin: 0;padding: 0;display: none;float: left;width: 210px;-webkit-border-bottom-left-radius: 5px;-webkit-border-bottom-right-radius: 5px;z-index: 1;background-color: rgb(250,213,246);background: -webkit-linear-gradient(rgb(222,258,248), rgb(199,242,233)) repeat scroll 0 0 padding-box transparent;background: -moz-linear-gradient(rgb(222,258,292), rgb(199,242,233)) repeat scroll 0 0 padding-box transparent;box-shadow: 0 1px 10px rgba(0,0,0,1);}
+.menu ul li span{width: 17px;height: 35px;float:right;background-color:white;background: url(/skin/web/images/valve.png) scroll 0px -860px;}
+
+/*.menu ul li ul {background-color: rgb(250,213,246);background: -webkit-linear-gradient(rgb(222,258,292), rgb(199,242,233)) repeat scroll 0 0 padding-box transparent;background: -moz-linear-gradient(rgb(222,258,292), rgb(199,242,233)) repeat scroll 0 0 padding-box transparent;border-radius: 0 0 3px 3px;height: 0;opacity: 0;overflow: hidden;padding: 0;position: absolute;visibility: hidden;width: 210px;z-index: 1;-webkit-transition: all .5s;-moz-transition: all .5s;-ms-transition: all .5s;-o-transition: all .5s;transition: all .5s;box-shadow: 0 1px 10px rgba(0,0,0,1);}
+.menu ul li:hover ul {height: 330px;margin-top: 0\9;opacity: 1;visibility: visible;}
+.menu ul li:hover ul li ul {display: none;}
+.menu ul li:hover ul li a.drop {background:#c9c9a7;}*/
+.menu ul ul a{border-top: 1px solid rgba(68,111,153,.3);;box-shadow: 0 1px 0 #FFFFFF inset;color:#444;}
+.menu ul ul a:hover{color:black;background-color:rgb(194,226,224);}
+.menu ul ul li a {display:block;height:auto;line-height:160%;padding:5px 10px;width:85px;text-align: left;font-size:14px;}
+.fixedMenu{position: fixed;top: 0;opacity: .9;height: 34px;line-height: 280%;font-family: verdana, sans-serif;font-size: 0.85em;width: 100%;margin: 0 auto;text-shadow: 0 3px 6px rgba(0,0,0,.1);z-index: 1000;background-color: #13233b;background-color: #0d1b2f;background-image: -moz-linear-gradient(top,#091527,#13233b);background-image: -ms-linear-gradient(top,#091527,#13233b);background-image: -webkit-gradient(linear,0 0,0 100%,from(#091527),to(#13233b));background-image: -webkit-linear-gradient(top,#091527,#13233b);background-image: -o-linear-gradient(top,#091527,#13233b);background-image: linear-gradient(top,#091527,#13233b);background-repeat: repeat-x;filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#091527',endColorstr='#13233b',GradientType=0);}
+.fixedMenu ul{list-style: none;width:80%;margin: 0 auto;min-width: 810px;}
+.fixedMenu ul li{float: left;width:10%;min-width: 95px;}
+.fixedMenu ul li a{color:white;font-size: 15px;}
+.fixedMenu ul {list-style-type: none;}
+.fixedMenu ul li {float:left;position:relative;}
+.fixedMenu ul li a, .menu ul li a:visited {z-index:1000;}
+* html .fixedMenu ul li a, .menu ul li a:visited {width:149px;width:139px;}
+.fixedMenu ul li ul {display: none;box-shadow: 0 1px 3px rgba(0,0,0,.35);}
+.fixedMenu ul li:hover ul {display: block;position: absolute;left: -22px;width: 271px;z-index: 1000;border-radius: 2px;background-color:white;}
+.fixedMenu ul li:hover ul li ul {display: none;}
+.fixedMenu ul li:hover ul li a {display:block;background: white;color:#555;height:auto;line-height:160%;padding:5px 10px;width:116px;border-bottom: 1px solid #dadada;text-align: left;border-radius: 2px;font-size:14px;}
+.fixedMenu ul li:hover ul li a.drop {background:#c9c9a7;}
+.fixedMenu ul li:hover ul li a:hover {box-shadow: inset 0px 0px 2px #ccc;color: #000;text-decoration: none;}
+.fixedMenu ul li:hover ul li:hover ul {display:block;position:absolute;left:150px;top:0;width:150px;}
+.fixedMenu ul li:hover ul li:hover ul.left {left:-150px;}
+.placehoder-active{height: 34px;
+line-height: 280%;
+font-family: verdana, sans-serif;
+font-size: 0.85em;
+width: 100%;
+margin: 0 auto;
+text-shadow: 0 3px 6px rgba(0,0,0,.1);
+z-index: 1000;
+background-color: #0d1b2f;
+background-image: -webkit-linear-gradient(top,#091527,#13233b);
+background-image: -o-linear-gradient(top,#091527,#13233b);
+background-repeat: repeat-x;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#091527',endColorstr='#13233b',GradientType=0);}
+.allvalve{background: url(/skin/web/images/valve.png) scroll 0px -190px;height: 24px;margin: 0 auto;padding-top: 8px;}
+.allvalve .allvalve-center{width:1000px;margin:0 auto;}
+.allvalve .allvalve-center a{font-size: 13px;padding: 0 4px;}
+.index-main{width: 80%;margin: 0 auto;background-color: white;box-shadow: 0 1px 3px #BCBCBC;}
+.left{float: left;width: 210px;margin-top: 5px;}
+.left .brands{width: 210px;background-color: #eff;}
+.left .brands h2{background: url(/skin/web/images/valve.png) no-repeat scroll 0px 0px;width: 210px;height: 26px;margin: 0;}
+.left .brands h2 span{display:none}
+.left .brands ul{padding-top: 10px;text-align: left;margin-left: 15px;padding-bottom: 10px;}
+.left .brands ul li{height: 22px;
+background: url(/skin/web/images/valve.png) no-repeat scroll 0px -50px;border-radius: 2px;width: 178px;margin-top: 3px;}
+.left .brands ul li:hover{height: 22px;background: url(/skin/web/images/valve.png) no-repeat scroll 0px -27px;border-radius: 2px;width: 178px;margin-top: 3px;}
+.left .brands ul li a{color:white;margin-left: 20px;line-height: 200%;}
+
+
+/*         HuanDengPian         */
+li,ul{margin:0;padding:0;list-style: none;}
+body{margin-left:0px;margin-top:0px;background:#eee; text-align:center;}
+li img{vertical-align:bottom;border:0px}
+.dhooo_tab{border-top: 1px solid #3f5a81;margin: 0px auto;position: relative;height: 430px;width: 100%;padding-top: 20px;background: url(/skin/web/img/bg_hdp3.png);border-bottom: 2px solid #fff;margin-bottom: 12px;box-shadow: inset 0 0 170px rgba(0,0,0,.2);}
+.tab_btn li.hot {background: #fff;color: #333;font-weight: bold;cursor: default;}
+.tab_btn li{width: 15px;float: left;background-color: #999;margin-left: 5px;border-radius: 100px;box-shadow: 0 1px 5px #333;}
+.tab_btn{overflow: hidden;height: 28px;margin-left: 46%;margin-top: 400px;position: absolute;z-index: 999;}
+.tab_btn_num{position:absolute; right:50px;bottom:15px;}
+.tab_btn_num li{width:20px;height:20px;background: #CC3300;border:2px solid #993300; overflow:hidden; color:#fff; filter:alpha(opacity=80);opacity:0.8;float:left;cursor:default; font-size:12px;line-height:20px; margin:0px 5px; font-family:Arial;}
+.tab_btn_num li.hot{background:#FFCC00; color:#993300; border:2px solid #FF0000; }
+.shell{width:1000%; height:100%; }
+/*.shell li{float:left; width:11%; height:100%; }*/
+.shell li {width: 10%;height: 375px;position: relative;float: left;overflow: hidden;}
+/*.shell li img{width:100%;height:300px;}*/
+.shell li img {height: 375px;position: absolute;left: 50%;margin-left: -50%;}
+.main{height: 375px;overflow: hidden;text-align: left;font-size: 12px;width: 80%;margin: 0 auto;box-shadow: 0 0px 23px #000;max-width: 1280px;}
+.main .shell ul li a{top:0px; left:0px;}
+.index-contact{background-image: url(/skin/web/lxwmico.jpg);height: 54px;width: 209px;margin-top: 10px;}
+.index-feedback{background-image: url(/skin/web/khfkico.jpg);width: 209px;height: 59px;}
+.right{float: left;width: 780px;}
+.right .index-about h2{background: url(/skin/web/gsjjico.jpg);height: 31px;margin: 0;}
+.right .index-about h2 span{display:none;}
+
+/*         Contente/article Page        */
+.content{width:80%;margin: 0 auto;background-color: white;box-shadow: 0 1px 3px #BCBCBC;border-top-right-radius: 3px;border-top-left-radius: 3px;}
+.content .c-left{margin-top: 16px;width:24.3%;padding-bottom: 10px;float: left;border-right: 1px solid rgb(213,218,220);border-bottom: 1px solid rgb(213,218,220);white-space: nowrap;overflow: hidden;}
+.content .c-main{width:75.5%;float: right;margin: 16px 0 38px 0;}
+.left-products h2{height: 36px;margin: 0px;background: url(/skin/web/images/valve.png) scroll 0px -788px;text-align: left;color: white;-webkit-font-smoothing: antialiased;padding-left: 12px;line-height: 190%;border-top-left-radius: 3px;text-shadow: 0 1px 0 rgba(0,0,0,.4);border-radius: 3px 3px 0 0;}
+.left-products h2 a{color:white;}
+.all-pd h2 a{color:white;}
+.left-products ul{text-align:left;line-height: 250%;font-size: 14px;}
+.left-products ul li{height: 30px;padding-left:10px;margin-left: 10px;border-bottom: 1px dashed rgb(224,224,224);}
+.left-products ul li:hover{background-color: rgb(250,250,250);}
+.all-pd{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;margin-top: 20px;border-radius: 3px;}
+.all-pd h2{background: url(/skin/web/images/valve.png) 0px -788px;height: 36px;margin: 0px;text-align: left;color: white;-webkit-font-smoothing: antialiased;padding-left: 12px;line-height: 190%;border-top-left-radius: 3px;text-shadow: 0 1px 0 rgba(0,0,0,.4);}
+.all-pd ul{text-align:left;line-height: 250%;font-size: 14px;}
+.all-pd ul li{height: 30px;margin: 0 10px;padding: 0 10px;border-bottom: 1px dashed rgb(224,224,224);overflow: hidden;}
+.all-pd ul li:hover{background-color: rgb(250,250,250);}
+.c-main .place{height: 24px;text-align: left;line-height: 250%;margin-left: 15px;color: #999;}
+.place a{color:#999;}
+.c-main .place ul{clear:both;}
+.c-main .place nav ul a{color:white;}
+.c-main .place nav ul li{float: left;margin: 4px;font-size: 14px;padding: 0 5px;background-color: rgb(116,136,154);text-shadow: 0 1px 0 rgba(0,0,0,.4);border-radius: 3px;background-image: -webkit-gradient(linear,0 0,0 100%,from(rgb(121,141,158)),to(rgb(110,130,148)));}
+.c-main .place img{width: 146px;height: 97px;position: absolute;left: 50%;margin-left: -73px;}
+.c-main .title{background-color: rgb(226,230,233);line-height: 300%;text-align: left;padding-left: 20px;margin-left: 12px;box-shadow: 0 0 4px rgb(226,230,233);text-shadow: 1px 1px 0 rgba(255,255,255,.7);}
+.c-main .pic{width: 60%;margin:2%;position: relative;float: left;overflow: hidden;height: 322px;border: 1px solid rgb(153,171,185);padding-bottom: 12px;}
+.c-main .pic b{position: absolute;bottom: 0px;width: 100%;margin-left: -50%;}
+.c-main .pic img{padding: 1px;width: 484px;height: 322px;position: absolute;left: 50%;margin-left: -243px;}
+.c-main .pic span{color: red;font-size: 14px;}
+.c-main .mtitle{padding-top: 32px;margin-left:64%;font-size: 12px;text-align: left;line-height: 180%;}
+.c-main .mtitle span{font-weight: bold;font-size: 16px;}
+.c-main .mtitle .call{background: url(/skin/web/images/valve.png) scroll 0px -827px;color: white;height: 29px;padding-left: 38px;padding-top: 3px;margin: 2px 0 5px 0;font-size: 16px;line-height: 160%;text-shadow: 3px 2px 1px #444;border-radius: 3px 0 0 3px;box-shadow: 0 1px 1px #BCBCBC;}
+.c-main .mtitle .mail{color: white;height: 27px;padding-left: 54px;padding-top: 5px;font-size: 14px;line-height: 150%;background: url(/skin/web/images/valve.png) scroll 0px -827px;border-radius: 3px 0 0 3px;box-shadow: 0 1px 1px #BCBCBC;text-shadow: 3px 2px 1px #444;}
+.c-main .sdetail{clear: both;margin-top: 68px;margin-left: 10px;text-align: initial;width:98%;}
+.c-main .sdetail h2{text-align: left;background-color: rgb(240,242,243);height: 25px;line-height: 180%;padding-left: 10px;border: 1px solid rgb(240,242,243);color: #000;box-shadow: 0 0 4px rgba(240,242,243,.3);font-size: 16px;width:96%;}
+.tab-r2 table{text-indent: initial;font-size: 12px;line-height: initial;color: initial;border-collapse: collapse;width:98%;}
+table tr:nth-child(odd){background:rgb(252,252,252);}
+.tab-r2 h3{border-left: 8px solid rgb(116,136,154);text-indent: 6px;margin: 16px 0;padding-top: 1px;font-size: 18px;}
+caption{font-size: 16px;padding: 6px;}
+.c-main .detail{clear: both;text-align: left;text-indent: 2em;font-size: 14px;line-height: 180%;color: #000;font-family: "Helvetica Neue",Helvetica,Arial,"Microsoft YaHei","Hiragino Sans GB","Hiragino Kaku Gothic Pro",sans-serif;word-break: break-all;width: 96%;padding: 2%;}
+.c-main .detail table{text-indent: initial;font-size: 12px;line-height: initial;color: initial;border-collapse: collapse;width: 98%;}
+.c-main .detail h2{text-align: left;background-color: rgb(240,242,243);height: 25px;line-height: 180%;padding-left: 10px;border: 1px solid rgb(240,242,243);text-indent: 0em;font-size: 14px;box-shadow: 0 0 4px rgba(240,242,243,.3);width: 96%;}
+.c-main .tab-r2 p{margin:6px 0;line-height: 200%;color: rgb(82,82,82);text-indent: 2em;}
+.c-main .handle{text-align: left;line-height: 200%;margin: 10px 0 10px 20px;}
+.c-main .handle a{color:#256EB1;}
+.other-pd ul{float: left;width:23.6%;margin-bottom: 20px;margin-right:1%;text-indent: 0em;text-align: center;box-shadow: 0 1px 1px rgba(0,0,0,0.075);border: 1px solid #ddd;border-radius: 4px;height: 175px;overflow: hidden;}
+.other-pd ul:hover{border: 1px solid rgb(93,111,126);box-shadow: 0 1px 4px rgba(93,111,126,0.25);}
+.other-pd ul li{margin-top: 10px;margin: 3px;position: relative;float: left;overflow: hidden;width: 100%;height: 163px;}
+.other-pd ul li img{width: 208px;height: 129px;position: absolute;left: 50%;margin-left: -103px;}
+.other-pd ul li span{bottom: 0px;position: absolute;width: 100%;margin-left: -50%;line-height:120%;}
+.smallNav{border: 1px solid rgb(116,136,154);border-left: 28px solid rgb(116,136,154);box-shadow: inset 0px 0px 8px #ccc;margin: 0 50% 3% 3%;font-size: 16px;}
+.smallNav a{color: rgb(56,76,94);}
+.detail-content{width:98%;}
+.sdetail-content{margin:12px;}
+.other-pd{float:left;width:98%;margin: 15px 0;}
+.tab-r1{text-align:left;margin:2%;font-size: 14px;color: black;display: none;clear: both;}
+.tab-r1 h3{font-size: 18px;margin: 30px 0 10px;}
+.tab-r2{text-align:left;margin:2%;font-size: 14px;color: black;display: none;clear: both;line-height: 150%;}
+.detail h3{font-size: 18px;margin: 0px 0 10px;}
+.nav-tabs{clear: both;border-bottom: 1px solid #ddd;float: left;margin: 32px 10px;width: 96%;font-size: 16px;height: 26px;padding-left: 26px;font-weight: bolder;color: black;}
+.nav-tabs li{float:left;}
+.nav-tabs li a{padding: 9px 12px;}
+.nav-tabs li a:hover{padding: 9px 12px;color:black;text-decoration: none;background-color: rgb(238,238,238);border-radius: 4px 4px 0 0;}
+.nav-active{border: 1px solid rgb(221,221,221);border-bottom-color: white;border-radius: 4px 4px 0 0;padding: 9px 12px;}
+.nav-noactive{border: 1px solid rgb(255,255,255);border-bottom-color: white;border-radius: 4px 4px 0 0;padding: 9px 12px;border-bottom: rgb(225,225,225);}
+.shop-sm{background-color: rgb(238,245,237);border-radius: 5px;padding: 8px 19px;text-indent: 0em;line-height: 150%;color: #555;margin-top: 38px;}
+.article-bottom a{margin-right:5px;}
+/*---------------top/head---------------*/
+/*---------------top/head---------------*/
+.container h1{width: 500px;float: left;}
+.header-r{width:32%;float: right;margin-top: 32px;}
+.header-r-t{float:right;}
+.header-r-b{float: right;margin-top: 12px;color: #e0f0ff;-webkit-font-smoothing: antialiased;text-shadow: 0 3px 6px rgba(0,0,0,.32);}
+.header-r-b input{color: rgb(84,101,118);}
+.header-r-b button{border: 1px solid rgb(89,108,123);background-color: rgb(89,108,123);color: white;border-radius: 2px;box-shadow: 0 1px 3px #777;}
+.header-r-t a{margin-left: 10px;text-shadow: 0 3px 6px rgba(0,0,0,.32);color: #e0f0ff;}
+.header-r-t a:hover{color:black;margin-left: 10px;TEXT-DECORATION: underline;top:0;left:0;}
+
+/*---------------end/footer---------------*/
+/*---------------end/footer---------------*/
+footer{clear: both;color: white;height: 159px;margin-top: 100px;}
+.foot-nav{clear: both;background: url(/skin/web/images/footer_bg.jpg) center top repeat-x;color: white;height: 159px;}/*´ýÉ¾*/
+.foot-menu{height: 34px;color: rgb(54,95,169);margin: 0 auto;text-align: center;border-bottom: 1px solid #AAA;}
+.foot-menu a{color: #333;font-size: 12px;line-height: 34px;padding: 0 4px;text-shadow: 0 1px 0 #fff;}
+address{height: 100px;color: #999;text-align: left;line-height: 180%;text-shadow: 0 1px 0 #fff;margin: 8px 10% 0 0;float: right;}
+.foot-text{height: 100px;color: white;margin-top: 14px;margin-left:68%;text-align: left;line-height: 180%;}
+.foot-bottom{height: 120px;border-top: 1px solid white;}
+.foot-left{float: left;margin: 33px 0 0 12%;background: url(/skin/web/img/footer_bg.png);width: 266px;height: 53px;}
+.foot-left span{display: none;}
+
+/*---------------top---------------*/
+/*---------------top---------------*/
+header{height: 152px;background: url(/skin/web/images/valve.png) scroll 0px -586px;border-bottom: 1px solid #777;}
+.container{width: 80%;margin-left: auto;margin-right: auto;padding-top: 25px;}
+.container h1{margin: 0 auto;}
+.container h1 a{display: block;background: url(/skin/web/images/logo.png) no-repeat;width: 500px;height: 93px;text-indent: -9999px;margin-top:25px;}
+/*---------------search------------*/
+/*---------------search------------*/
+.search{margin: 20px 0 0 1px;}
+.search input{width: 135px;height: 20px;padding-top: 2px;padding-left: 6px;border: 0px;border: #CCC solid 1px;background: #FFF;color: #888;margin-left: 3px;float:left;}
+.search button{cursor: pointer;width: 72px;height: 24px;font-size: 0px;color: #fafafa;border: 0px;background: url(/skin/web/images/valve.png) no-repeat 0px -299px;}
+.fgx{height: 10px;overflow: hidden;clear: both;margin: 4px auto;padding-top: 10px;}
+
+/*---------------Public------------*/
+/*---------------Public------------*/
+.command{font: 0px/0px sans-serif;clear: both;display: block;}
+.pagination li{border: 1px solid #CCDFF2;padding: 4px 8px;margin: auto 1px;vertical-align: middle;background-color: rgb(90,108,124);line-height: 100%;float: left;}
+.pagination li a{color:white;}
+.pagination span{float: none;}
+.pagination em{border: 1px solid rgb(152,153,153);padding: 4px 8px;margin: auto 1px;vertical-align: middle;background-color: rgb(90,108,124);line-height: 100%;float: none;width: 5px;}
+.pagination .pageJump{padding: 0;border: none;background-color: rgb(255,255,255);}
+.pt{height: 38px;text-align: left;width:78.6%;margin: 8px auto;background-color: white;border-radius: 3px;background-image: -webkit-linear-gradient(top,#fff,#f5f5f5);background-image: -o-linear-gradient(top,#fff,#f5f5f5);font-size: 14px;line-height: 280%;border: 1px solid #ddd;padding-left: 16px;text-shadow: 1px 2px 0 #fff;}
+.pt span{float: right;padding-right: 16px;}
+
+/*---------------PD-list------------*/
+/*---------------PD-list------------*/
+.pd-list ul li{-webkit-border-radius: 4px;-moz-border-radius: 4px;-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.075);-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.075);box-shadow: 0 1px 1px rgba(0,0,0,0.075);border-radius: 4px;padding:0.7%;margin:0.65%;position: relative;float: left;overflow: hidden;width: 21.4%;height: 126px;border: 1px solid rgb(153,171,185);}
+.pd-list ul li:hover{border: 1px solid rgb(93,111,126);box-shadow: 0 1px 4px rgba(93,111,126,0.25);}
+.pd-list ul li a:hover{top:0;left:0;}
+.caption{margin-top: -6px;text-align: center;line-height: 130%;color: black;bottom: 0px;left: 0px;position: absolute;width: 100%;height: 35px;font-size:14px;font-weight:100;}
+.pagination{clear:both;margin-right: 35px;float: right;margin-top: 6px;}
+.pagination .thisclass{border: 1px solid #CCDFF2;padding: 4px 8px;margin: auto 1px;vertical-align: middle;background-color: rgb(90,108,124);line-height: 100%;float: left;width: 5px;}
+.pagination li{float:left;}
+.channel-header{width: 80%;margin:20px auto 16px auto;}
+.channel-header img{border-radius: 4px;}
+
+
+/*---------------DDDDDDD------------*/
+/*---------------DDDDDDD------------*/
+.d-main{width:80%;margin: 0 auto;background-color: white;}
+.d-main .c-left{width:19.9%;float:left;border-right: 1px solid rgb(213,218,220);margin-top: 22px;}
+.d-mains{float:left;background-color:white;border-radius: 3px 3px 0 0;width:100%;box-shadow: 0 1px 3px #BCBCBC;}
+.d-nav{border-top: 1px solid rgb(200,200,238);border-bottom: 1px solid rgb(200,200,238);height: 26px;text-align: left;font-size: 14px;line-height: 180%;padding-left: 10px;background-color: rgb(240,240,255);box-shadow: 0 0 4px rgba(233,244,254,.3);}
+.d-r{width:78%;padding: 8px;float:left;}
+.map{margin-left:12px;}
+.d-r h6{font-size: 22px;text-align: left;margin: 20px 0 8px 2.5%;color: black;border-bottom: 1px solid rgb(187,187,187);}
+.d-r p{text-indent: 2em;color: rgb(51, 51, 51);font-family: tahoma, Helvetica, arial, ËÎÌå, sans-serif;font-size: 14px;line-height: 28px;text-align: left;margin: 0 26px;}
+.contact_tb{font-size:12px;width:80%;border-spacing: 0;color:#333333;line-height:18px;margin: 18px 0 18px 10%;text-align: left;}
+th{padding: 8px;border: 1px solid rgb(214,214,214);background-color: rgb(232,232,240);}
+td{padding:8px;border: 1px solid rgb(214,214,214);}
+td span{color:#333333;font-size:12px}
+.small-title{background-color: rgb(233,244,254);height: 37px;line-height: 300%;text-align: left;padding-left: 20px;margin-left: 12px;box-shadow: 0 0 4px rgba(233,244,254,.3);}
+.small-title h5{font-size: 130%;}
+.con-add{text-align: left;color: black;margin-left: 2%;line-height: 140%;}
+.con-add td{border:0;width: 300px;}
+
+
+/*---------------SHOU YE------------*/
+/*---------------SHOU YE------------*/
+.first {text-align: left;float: left;margin-top: 20px;background: url(/skin/web/images/bgline1.gif) no-repeat bottom;padding-bottom: 10px;width:100%;}
+.first .f-l{float:left;width: 50%;}
+.first .f-l h2{float: left;background: url(/skin/web/img/valve_jpg.png) no-repeat 0 0;width: 86px;height: 112px;margin-left: 24px;}
+.first .f-l h2 span{display:none;}
+.first .f-l h6{float: right;margin: 16px 26px;color: #256EB1;}
+.first .f-l ul{float:left;margin-left: 20px;width: 68%;}
+.first .f-l ul li{height: 28px;line-height: 28px;padding-left: 16px;background: url(/skin/web/images/valve.png) -10px -412px no-repeat;border-bottom: 1px #D3D3D3 dotted;overflow: hidden;}
+.first .f-r{float:left;width:50%;}
+.first .f-r h2{float: left;background: url(/skin/web/img/valve_jpg.png) no-repeat -86px 0;width: 86px;height: 112px;margin-left: 8px;}
+.first .f-r h2 span{display:none;}
+.first .f-r h6{float: right;margin: 16px 7%;color: #256EB1;}
+.first .f-r ul{float:left;margin-left: 20px;width:70%;}
+.first .f-r ul li{height: 28px;line-height: 28px;padding-left: 16px;background: url(/skin/web/images/valve.png) -10px -412px no-repeat;border-bottom: 1px #D3D3D3 dotted;overflow: hidden;}
+
+.second{clear: both;text-align: left;float: left;margin-top: 20px;padding-bottom: 10px;}
+.second .s-l{float:left;width:50%;}
+.second .s-l h2{float: left;background: url(/skin/web/img/valve_jpg.png) no-repeat 0 -111px;width: 86px;height: 112px;margin-left: 24px;}
+.second .s-l h2 span{display:none;}
+.second .s-l h6{float: right;margin: 16px;color: #256EB1;}
+.second .s-l ul{float:left;margin-left: 20px;}
+.second .s-l ul li{height: 28px;line-height: 28px;padding-left: 16px;background: url(/skin/web/images/valve.png) -10px -412px no-repeat;border-bottom: 1px #D3D3D3 dotted;overflow: hidden;width: 332px;}
+.second .s-r{float:left;width:50%;}
+.second .s-r h2{float: left;background: url(/skin/web/img/valve_jpg.png) no-repeat -86px -111px;width: 86px;height: 112px;margin-left: 8px;}
+.second .s-r h2 span{display:none;}
+.second .s-r h6{float: right;margin: 16px;color: #256EB1;}
+.second .s-r ul{float:left;margin-left: 20px;}
+.second .s-r ul li{height: 28px;line-height: 28px;padding-left: 16px;background: url(/skin/web/images/valve.png) -10px -412px no-repeat;border-bottom: 1px #D3D3D3 dotted;overflow: hidden;width: 346px;}
+.second p{margin-left: 120px;margin-right: 18px;text-indent: 2em;line-height: 150%;}
+.lianxi-icon{line-height: 150%;margin: 24px 18px 0 138px;}
+
+.fourth{clear:both;height: 310px;}
+.fourth h2{text-align: left;height: 26px;font-size: 16px;padding: 7px 0 0 16px;background: url(/skin/web/images/valve.png) scroll 0px -152px;overflow: hidden;border-top-left-radius: 4px;border-top-right-radius: 4px;text-shadow: 0 1px 0 rgba(0,0,0,.4);}
+.fourth a{color: white;line-height: 140%;}
+.fourth ul{width: 96%;margin: 1.5% auto 0 2.3%;}
+.fourth ul li{margin: 0.3%;position: relative;float: left;overflow: hidden;width: 19%;height: 113px;border: 1px solid rgb(153,171,185);}
+.fourth ul li:hover{margin: 0.3%;position: relative;float: left;overflow: hidden;width: 19%;height: 113px;border:1px solid rgb(204,0,0);}
+.fourth ul li a{color:black;}
+.fourth ul li h3{bottom: 98px;line-height: 1630%;font-size: 13px;font-weight: 100;}
+.fourth ul li .p-title{bottom: 0px;position: absolute;width: 100%;}
+.brand-img1{width: 200%;height: 98px;position: absolute;left: 50%;margin-left: -100%;background: url(/skin/web/img/valve_jpg.png) no-repeat 50% -223px;}
+.brand-img2{width: 200%;height: 98px;position: absolute;left: 50%;margin-left: -100%;background: url(/skin/web/img/valve_jpg.png) no-repeat 50% -321px;}
+.brand-img3{width: 200%;height: 98px;position: absolute;left: 50%;margin-left: -100%;background: url(/skin/web/img/valve_jpg.png) no-repeat 50% -419px;}
+
+.brand-img4{width: 200%;height: 98px;position: absolute;left: 50%;margin-left: -100%;background: url(/skin/web/img/valve_jpg.png) no-repeat 50% -517px;}
+
+.brand-img5{width: 200%;height: 98px;position: absolute;left: 50%;margin-left: -100%;background: url(/skin/web/img/valve_jpg.png) no-repeat 50% -615px;}
+
+.brand-img6{width: 200%;height: 98px;position: absolute;left: 50%;margin-left: -100%;background: url(/skin/web/img/valve_jpg.png) no-repeat 50% -713px;}
+.brand-img7{width: 200%;height: 98px;position: absolute;left: 50%;margin-left: -100%;background: url(/skin/web/img/valve_jpg.png) no-repeat 50% -811px;}
+.brand-img8{width: 200%;height: 98px;position: absolute;left: 50%;margin-left: -100%;background: url(/skin/web/img/valve_jpg.png) no-repeat 50% -909px;}
+.brand-img9{width: 200%;height: 98px;position: absolute;left: 50%;margin-left: -100%;background: url(/skin/web/img/valve_jpg.png) no-repeat 50% -1007px;}
+
+.brand-img10{width: 200%;height: 98px;position: absolute;left: 50%;margin-left: -100%;background: url(/skin/web/img/valve_jpg.png) no-repeat 50% -1105px;}
+
+.fifth{clear:both;height: 350px;}
+.fifth h2{text-align: left;height: 26px;font-size: 16px;padding: 7px 0 0 16px;background: url(/skin/web/images/valve.png) scroll 0px -152px;overflow: hidden;border-top-left-radius: 4px;border-top-right-radius: 4px;text-shadow: 0 1px 0 rgba(0,0,0,.4);}
+.fifth a{color: white;line-height: 140%;}
+.fifth img{width: 146px;height: 97px;position: absolute;left: 50%;margin-left: -73px;}
+.fifth ul{float: left;width: 96%;margin: 1.5% 25px;}
+.fifth ul li{margin:0.5% 0.3%;position: relative;float: left;overflow: hidden;width: 19%;height: 130px;border: 1px solid rgb(153,171,185);}
+.fifth ul li:hover{margin:0.5% 0.3%;position: relative;float: left;overflow: hidden;width: 19%;height: 130px;border: 1px solid rgb(204,0,0);}
+.fifth ul li a{color:black;}
+.fifth .c-title{bottom: 0px;position: absolute;width: 100%;}
+.fifth h5{line-height: 1800%;font-weight: 100;font-size:13px;}
+
+.sixth{text-align: left;height: 50px;padding: 0;width:80%;padding-bottom: 20px;background: #FFF url(/skin/web/images/valve.png) repeat-x 0px -440px;margin:0 auto;box-shadow: 0 1px 3px #BCBCBC;}
+.sixth span{color: #999;font-weight: 100;line-height: 600%;}
+.sixth .mainlink {padding: 5px 20px 0 30px;}
+.sixth .mainlink a {margin-right: 8px;line-height: 24px;color:#888;}
+.sixth h6{background: url(/skin/web/images/valve.png) no-repeat 0px -570px;height: 16px;margin: -24px 0 0 10px; }
+.sixth h6 span{display:none;}
+
+
+/*---------------WEN ZHANG------------*/
+/*---------------WEN ZHANG------------*/
+#fb{text-align: left;margin: 12px 0 30px 34px;}
+
+
+/*---------------WEN ZHANG List------------*/
+/*---------------WEN ZHANG List------------*/
+.txt-list{width: 98%;float: left;}
+.txt-list ul li a{color: rgb(84,101,118);float: left;}
+.txt-list span{color: #999;float: right;}
+.txt-list p{float: left;margin: 0;text-indent: 2em;color: black;border-bottom: 1px dotted #ddd;}
+
+/*-----------------Search*------------------*/
+.result_content{width:80%;background-color: white;margin: 0 auto;text-align: left;}
+.rc-son{float: left;margin: 0 auto;background-color: white;box-shadow: 0 1px 3px #BCBCBC;border-top-right-radius: 3px;border-top-left-radius: 3px;width: 100%;}
+.rc-son a{color: rgb(84,101,118);}
+.rc-son ul{margin: 20px;}
+.rc-son ul li{border-bottom: 1px dotted #ddd;margin: 14px 0;}
+.rc-son ul h3{font-size: 18px;margin: 3px 0;}
+.rc-son .sidebar{float: right;width: 25%;margin: 2%;}
+.rc-son .resultlist{float:left;width:70%;border-right: 1px solid #ddd;}
+.search_header{background-color: white;border-radius: 3px;margin: 20px auto;width: 630px;height: 36px;box-shadow: 0 2px 2px rgba(0,0,0,.09);}
+.search_header .search_box{background: url(/skin/web/images/valve.png) no-repeat 14px -298px;}
+.search_header .searchbox{background-color: white;border-radius: 3px;margin: 20px auto;height: 32px;}
+.search_header input{margin: 8px 1%;width: 62%;border: none;font-size: 18px;outline: 0;margin-left: 3%;}
+.search_header button{height: 36px;width: 15%;font-size: 16px;float: right;border-radius: 0px 3px 3px 0px;border: none;color: #555;text-shadow: 0 1px 0 #ddd;}
+.resultlist b{float: right;color: #000;}

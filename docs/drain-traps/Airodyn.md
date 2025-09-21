@@ -1,0 +1,48 @@
+
+
+# Airodyn 压缩空气疏水阀
+
+![Airodyn 压缩空气疏水阀](/d/file/drain-traps/f340825adcd38c43d9e093a7491acbde.jpg)
+
+![Airodyn 压缩空气疏水阀1](/d/file/drain-traps/f340825adcd38c43d9e093a7491acbde.jpg)
+
+# Airodyn 压缩空气疏水阀
+
+斯派莎克的Airdyn为热动力型压缩空气疏水阀。外表面经ENP抗氧化处理。
+
+碟片的一侧为带有一划痕横向外的平面,碟片的另 一侧有一加工的环型槽。 Airodyn供货时将带有环型槽的一侧面向阀座,适用于干净 的操作系统。 如果系统比较肮脏,则使用合适的扳手松开阀帽,反转碟 片使用泄流划痕的面向阀座。旋紧阀帽,无需使用垫片, 但应涂上防高温的油脂。 拧紧阀帽至合适的扭矩,不要使用活动板手应防止阀帽的 扭环。如果用于极端肮脏的环境,应加深划痕的深度或者 增加划痕数(最多至3个划痕)。
+
+**部分产品和服务只在特定地区提供.**
+
+## 斯派莎克Airodyn疏水阀简介
+
+斯派莎克的Airdyn为热动力型压缩空气疏水阀。外表面经ENP抗氧化处理。
+
+## 斯派莎克Airodyn疏水阀选项
+
+Airody S可提供高精度碟片用于高洁净应用。
+
+## 斯派莎克Airodyn疏水阀标准
+
+本产品完全符合欧洲的压力设备指令97/23/EC。
+
+## 斯派莎克Airodyn疏水阀证书
+
+该产品可提供证书EN 10204 3.1。 注:如需证书请在订购时注明。
+
+## 斯派莎克Airodyn疏水阀口径和管道连接
+
+1⁄2"螺纹BSP或NPT。 3⁄4" 螺纹NPT。
+
+-   [产品介绍](javascript:navactive(1);)
+-   [技术信息](javascript:navactive(2);)
+-   [安装和维修指南](javascript:navactive(3);)
+
+-   TITLE_REF NO.__LANGUAGE_
+-   No records to display.
+
+-   TITLE_REF NO.__LANGUAGE_
+-   [Airodyn 压缩空气疏水阀](/d/pdf/TI-P610-05-Airodyn%20压缩空气疏水阀.pdf)_TI-P610-05__Chinese_
+
+-   TITLE_REF NO.__LANGUAGE_
+-   No records to display.

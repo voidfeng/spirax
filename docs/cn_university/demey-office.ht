@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="GBK">
+<title>大米的办公室| - 斯派莎克阀门（中国）有限公司</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="/skin/cn/arm.css" type="text/css" rel="stylesheet" />
+<!--[if lt IE 9]><script src="/skin/web/js/html5shiv.js"></script><![endif]-->
+</head>
+<body>
+<header>
+	<div class="w user"><ul><li><a href="#">注册</a></li><li><a href="#">登录</a></li></ul></div>
+	<div class="w head">
+		<a href="/"><img src="/skin/cn/logo.gif" alt="斯派莎克阀门（中国）有限公司"></a>
+		<div id="tools">
+					<p>全球</p><select name="langId" class="text" onchange="location.href=this.value;"><option value="http://www.armstronginternational.com/de/home">Deutsch</option><option value="http://www.armstronginternational.com/home">English</option><option value="http://www.armstronginternational.com/en-IN/home">English (India)</option><option value="http://www.armstronginternational.com/es/home">Espa&#241;ol</option><option value="http://www.armstronginternational.com/fr/home">Fran&#231;ais</option><option value="http://www.armstronginternational.com/zh/home" selected="">简体中文</option></select>	
+					<form method="post" action="/plus/search.php">
+					<form  name="formsearch" action="/plus/search.php">
+						<div id="customsearch"><input name="q" size="14" type="text" class="search-keyword" id="txtSearch" value="搜索网站" onfocus="if(this.value=='搜索网站'){this.value='';}"  onblur="if(this.value==''){this.value='搜索网站';}" />
+						<input type="image" src="/skin/cn/search.gif" id="searchbox_submit" value="" class="image"></div>
+					</form>
+                    <div class="social_media">
+                    	<a href="https://www.facebook.com/pages/Armstrong-International/136495786393939"><img src="/skin/cn/facebook.jpg" alt="Facebook"></a>
+                    	<a href="http://www.linkedin.com/company/760674?trk=NUS_CMPY_TWIT"><img src="/skin/cn/linkedin.jpg" alt="LinkedIn"></a>
+                    	<a href="https://twitter.com/ArmstrongIntl"><img src="/skin/cn/twitter.jpg" alt="Twitter"></a>
+                    	<a href="https://www.youtube.com/ArmstrongIntl"><img src="/skin/cn/youtube.jpg" alt="YouTube"></a>
+                    </div>
+				</div>
+	</div>
+<div class="w navcontain">		
+<ul class="menu">
+<li class="leaf"><a href="/cn_applications/index.html" title="">行业和应用</a></li>
+<li class="leaf"><a href="/cn_products-services/" title="">产品及服务</a></li>
+<li class="leaf"><a href="/cn_training/" title="">培训</a></li>
+<li class="leaf"><a href="/cn_university/" title="">蒸汽学院</a></li>
+<li class="leaf first "><a href="/cn_about/" title="">关于我们</a></li>
+<li class="leaf last "><a href="/cn_about/contact.html" title="">联系我们</a></li>
+</ul>
+</div>
+</header><br class="clear">
+<div class="w pt"><a href='/plus/list.php?tid=1'>首页</a> > <a href='/cn_university/'>蒸汽学院</a> > <a href='/cn_university/demey-office.ht'>大米的办公室</a> </div>
+<div class="w mainwrap">
+	<div class="main-left">
+		<ul>
+			<LI><a href='/university/zxf1.html'>蒸汽系统学院</a></LI>
+		<li><a style=color:#FFB30F href=/cn_university/demey-office.ht>大米的办公室</a></li>
+			<LI><a href='/cn_university/daxuetushuguan/list_277_1.html'>大学图书馆</a></LI>
+		</ul>
+	</div>
+	<div class="main">
+			<img alt="" height="493" src="/skin/office.jpg" usemap="#Map" width="600" /><br />
+<p style="font-size:12px;">
+	请进！请进！在我的办公室随便点击！</p>
+<p style="font-size:12px;">
+	<br />
+	我的门几乎总是打开的，随便您怎么想。请随意浏览我的办公室。您会发现各种有关斯派莎克和斯派莎克大学的有趣信息的链接，网站上有些什么，您的学生状态，甚至一些有关我，您的谦虚的教授鲜为人知的事实。<br />
+	&nbsp;</p>
+<p style="font-size:12px;">
+	如果您有具体的问题，或对某个特定主题感兴趣，这很好！您知道您需要什么！把握机会！只要在搜索框中输入关键字，就可以找到您可以了解更多信息的位置列表。</p>
+<map name="Map"><area alt="" coords="155,270,164,260,180,252,203,254,224,265,226,275,211,280,212,283,205,291,197,293,193,286,186,285,185,292,183,298,183,302,173,303,169,303,163,299,167,286,171,276,166,278,157,277" href="#TEL" shape="poly" /> <area alt="armstrong steam university" coords="18,149,39,148,63,150,87,152,89,153,98,147,109,141,134,146,135,192,99,190,65,188,51,190,22,190" href="#armstrong steam university" shape="poly" /> <area alt="Products Information" coords="161,309,161,338,168,343,192,348,217,346,250,347,288,349,310,345,349,348,354,343,353,289,338,286,318,289,317,290,315,301,289,304,286,292,276,289,267,289,266,297,252,296,241,293,226,297,222,291,214,287,200,293,189,289,181,306" href="#Products" shape="poly" /> <area alt="trap valve station" coords="447,344,526,345,532,334,546,331,536,323,547,319,535,314,547,312,535,301,528,290,514,272,488,275,459,269,452,283,445,283,438,293,429,300,430,308,423,314,430,321,424,326,439,327,432,330,446,332" href="#trap valve station" shape="poly" /> <area alt="Demey's Bio" coords="291,65,297,74,298,85,295,96,290,104,290,116,283,126,272,131,272,144,276,153,280,163,299,174,312,188,324,217,330,232,340,241,345,249,340,256,335,263,333,274,326,275,319,270,307,266,300,263,224,261,190,251,179,204,181,188,187,177,184,169,175,159,163,151,167,142,171,145,194,140,199,145,204,157,208,171,214,194,218,199,233,187,245,172,254,168,260,161,259,149,257,136,246,131,237,120,238,109,228,104,229,92,249,85,244,75,243,69,237,62,232,52,240,48,250,39,254,31,266,31,283,37,289,49,282,56" href="#Demey's Bio" shape="poly" /> <area alt="Humidification" coords="42,17,41,96,120,97,122,18" href="#Humidification" shape="poly" /></map>
+		</div>
+	</div>
+</div>
+<footer class="w foot">
+<nav class="foot-menu"><a href="/sitemap.html" title="网站地图">网站地图</a><a href="/baidu.xml" target="_blank">百度地图</a><a href="/google.xml" target="_blank">谷歌地图</a><a href="/rss.xml" target="_blank">RSS</a></nav>
+<div class="foot-copy"><p>&#169; 2014 SpiraxSarco International, Inc.</p></div>
+</footer>
+</body>
+</html>

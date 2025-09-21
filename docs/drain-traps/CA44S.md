@@ -1,0 +1,43 @@
+
+
+# CA44与CA44S 碳钢材质空气和气体系统疏水阀
+
+![CA44与CA44S 碳钢材质空气和气体系统疏水阀](/d/file/drain-traps/c54c34c34d499ceec49562b67e745092.jpg)
+
+![CA44与CA44S 碳钢材质空气和气体系统疏水阀1](/d/file/drain-traps/c54c34c34d499ceec49562b67e745092.jpg)
+
+# CA44与CA44S 碳钢材质空气和气体系统疏水阀
+
+CA44浮球疏水阀,用于空气和气体系统疏水。碳钢阀体,不锈钢内部件。可提供带软阀锥的C A44和带带金属阀锥的 CA44S,均为水平安装,法兰连接。阀盖钻1/2” BSP螺孔以连接平衡管。如需提供1/2" NPT螺纹孔,请在订货时注明。 阀体和阀盖逐渐由具有TüV认证的厂家生产。一体法兰设计可在线维修。
+
+**部分产品和服务只在特定地区提供.**
+
+## 斯派莎克CA44S疏水阀可供选择
+
+CA44疏水阀-带软阀锥 CA44S疏水阀-带金属阀锥
+
+## 斯派莎克CA44S疏水阀可选项
+
+阀盖底部可钻1⁄2" BSP或NPT螺纹孔以便安装排放阀。如需要,请在下单时注明。
+
+## 斯派莎克CA44S疏水阀口径和管道连接
+
+CA44疏水阀 DN15和DN20 CA44S疏水阀 DN15, DN20和DN25 标准法兰为EN 1092 PN40,法兰间距符合EN 26554 (Series 1)。 也可提供ASME (ANSI) B16.5 Class 150,Class 300 和JIS/KS 20,法兰间距符合EN 26554(Series 1)。 也可提供钻螺栓孔的ASME (ANSI) B16.5 Class 150,Class 300法兰,法兰间距符合EN 26554(Series 1)。 PN及JIS/KS法兰连接的产品带BSP平衡口,ASME(ANSI)法兰连接的产品带NPT平衡口。 ASME(ANSI)/JIS/KS法兰的产品供货时,带螺栓孔以方便连接对法兰。ASME(ANSI)法兰带有UNC螺纹,JIS/KS带米制 螺纹。
+
+## 斯派莎克CA44S疏水阀安装
+
+疏水阀应按阀体上流向箭头,水平安装在低于排水点的位 置,以确保浮球臂自由垂直升降。此浮球式疏水阀用于空气和气体系统的的优点之一是无需 泄放孔即可正常工作。但为防止空气或气体气锁,需要装 有单独的平衡管。 确保平衡管连接到疏水阀上游。 平衡管对产品的正确工作非常重要。 为方便维护,建议在平衡管靠近疏水阀盖处安装活接。
+
+-   [产品介绍](javascript:navactive(1);)
+-   [技术信息](javascript:navactive(2);)
+-   [安装和维修指南](javascript:navactive(3);)
+
+-   TITLE_REF NO.__LANGUAGE_
+-   No records to display.
+
+-   TITLE_REF NO.__LANGUAGE_
+-   [CA44与CA44S 碳钢材质空气和气体系统疏水阀 DN15-DN25](/d/pdf/TI-P148-02-CA44与CA44S%20碳钢材质空气和气体系统疏水阀%20%20DN15-DN25.pdf)_TI-P148-02__Chinese_
+-   [CA44S 碳钢空气和气体疏水阀 DN40-DN50](/d/pdf/TI-P148-03-CA44S%20碳钢空气和气体疏水阀%20DN40-DN50.pdf)_TI-P148-03__Chinese_
+
+-   TITLE_REF NO.__LANGUAGE_
+-   No records to display.
