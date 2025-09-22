@@ -96,7 +96,7 @@
   flex: 1;
 }
 
-.VPNavBarMenu.menu > a, 
+.VPNavBarMenu.menu > a,
 .VPNavBarMenu.menu > div {
   margin-right: 20px;
 }
@@ -214,8 +214,9 @@
 
 /* 自定义全局样式 */
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
-    'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family:
+    -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', sans-serif;
 }
 .doc-extend-content-change {
   width: 100vw;
@@ -241,7 +242,7 @@ body {
     max-width: 688px;
   }
 }
-@media (min-width: 1280px) {  
+@media (min-width: 1280px) {
   .doc-extend-content-change .doc-extend-content-change__content {
     max-width: 930px;
   }
@@ -328,7 +329,7 @@ body {
     padding: 68px var(--content-padding) 0 !important;
   }
   .VPLocalNav {
-    top: calc(var(--vp-nav-height) + 36px) !important; 
+    top: calc(var(--vp-nav-height) + 36px) !important;
   }
 }
 
@@ -336,7 +337,7 @@ body {
   .VPDoc {
     padding: 68px var(--content-padding) 128px;
   }
-  
+
   .VPNavBarMenu .VPNavBarMenuGroup:nth-last-child(3) {
     display: none !important;
   }
@@ -346,11 +347,11 @@ body {
   .custom-top-bar {
     display: none;
   }
-  
+
   .custom-layout .VPNav {
     top: 0;
   }
-  
+
   .custom-layout .VPContent {
     padding-top: 0;
   }
@@ -418,7 +419,7 @@ img:not(.custom-img) {
 }
 
 .dark .VPNavBarMenuLink:hover,
-.dark .VPNavBarMenu.menu .active{
+.dark .VPNavBarMenu.menu .active {
   color: var(--vp-c-text-2);
 }
 .dark .VPNavBarMenu.menu .active span::after {
