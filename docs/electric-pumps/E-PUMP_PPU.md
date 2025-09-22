@@ -1,12 +1,12 @@
+---
+layout: doc
+title: E-PUMP\_PPU 电泵 专于大排量\_高背压冷凝水回收
+imgs:
+  - /d/file/p/fa0be7e698da11888942106e96aada44.jpg
+  - /d/file/p/fa0be7e698da11888942106e96aada44.jpg
+---
 
-
-# E-PUMP\_PPU 电泵 专于大排量\_高背压冷凝水回收
-
-![E-PUMP_PPU 电泵 专于大排量_高背压冷凝水回收](/d/file/p/fa0be7e698da11888942106e96aada44.jpg)
-
-![E-PUMP_PPU 电泵 专于大排量_高背压冷凝水回收1](/d/file/p/fa0be7e698da11888942106e96aada44.jpg)
-
-# E-PUMP\_PPU 电泵 专于大排量\_高背压冷凝水回收
+# E-PUMP_PPU 电泵 专于大排量\_高背压冷凝水回收
 
 斯派莎克冷凝水回收装置设计用于处理热冷凝水,同时也 可将废蒸汽回收利用,通常用作锅炉给水或者工艺水供给。 在水温 98oC 扬程 50 米时,最高冷凝水处理量可达 60t/h。 每台装置有三个主要部分组成:水槽电泵及控制系统。 同时,可以根据客户需求,提供带废气回收功能的 EVC 选项。
 
@@ -32,19 +32,19 @@
 
 ## 斯派莎克E-PUMP电泵安装
 
-每台泵都有独立的吸入管,包括一个截止阀、一个过滤器 和一个弹性减震头。双泵排水口位于同一侧,分别安装一 个截止阀,用于维修维护时关断。同时,当系统压头小于 泵压头时,可调节该阀来增加系统压头,以减小可能的噪 音。  
-  
+每台泵都有独立的吸入管,包括一个截止阀、一个过滤器 和一个弹性减震头。双泵排水口位于同一侧,分别安装一 个截止阀,用于维修维护时关断。同时,当系统压头小于 泵压头时,可调节该阀来增加系统压头,以减小可能的噪 音。
+
 注:出厂不带保温。
 
--   [产品介绍](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品介绍](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_REF NO.__LANGUAGE_
--   [E-PUMP\_PPU\_电泵\_专于大排量\_高背压冷凝水回收](/d/pdf/E-PUMP_PPU_电泵_专于大排量_高背压冷凝水回收.pdf)_.__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [E-PUMP_PPU\_电泵\_专于大排量\_高背压冷凝水回收](/d/pdf/E-PUMP_PPU_电泵_专于大排量_高背压冷凝水回收.pdf)_.\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   [E系列冷凝水回收装置](/d/pdf/TI-P089-07-E系列冷凝水回收装置.pdf)_TI-P089-07__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [E系列冷凝水回收装置](/d/pdf/TI-P089-07-E系列冷凝水回收装置.pdf)_TI-P089-07\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   No records to display.
+- TITLE*REF NO.\_\_LANGUAGE*
+- No records to display.

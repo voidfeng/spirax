@@ -1,28 +1,29 @@
-
-
-# 球阀
-
-![球阀](/d/file/p/17f953d5ba4b37e9b37b7079d10eb42e.jpg)
-
-![球阀1](/d/file/p/17f953d5ba4b37e9b37b7079d10eb42e.jpg) ![球阀2](/d/file/p/881b4cc676ebbdf80df9fdb6ebe1a926.jpg)
+---
+layout: doc
+title: 球阀
+imgs:
+  - /d/file/p/17f953d5ba4b37e9b37b7079d10eb42e.jpg
+  - /d/file/p/17f953d5ba4b37e9b37b7079d10eb42e.jpg
+  - /d/file/p/881b4cc676ebbdf80df9fdb6ebe1a926.jpg
+---
 
 # 球阀
 
 斯派莎克提供高品质、性能可靠的球阀。产品系列齐全。最大口径可达DN200，最大压力62bar g@25℃，最高温度242℃@34bar g。同时提供各种不同材质和所有连接方式的选择。其高品质的密封性能可确保您的系统完全免除泄漏的烦恼，寿命长、免维修、结实坚固。
 
--   产品系列广泛，各种尺寸，材质和阀体设计条件，适合各种应用。
--   设计紧凑
--   1/4圈开关，便于运行及维护。
--   ISO 安装接口，安装快捷且便于与自动控制器适配。
--   扭矩较小，可配置小的气动执行器。
--   高流通量，低压降。
--   阀体防腐蚀，确保寿命长久。
+- 产品系列广泛，各种尺寸，材质和阀体设计条件，适合各种应用。
+- 设计紧凑
+- 1/4圈开关，便于运行及维护。
+- ISO 安装接口，安装快捷且便于与自动控制器适配。
+- 扭矩较小，可配置小的气动执行器。
+- 高流通量，低压降。
+- 阀体防腐蚀，确保寿命长久。
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [M10S球阀 DN¼"-DN2½"](/ball-valves/M10S.html "M10S球阀 DN¼")_Chinese_
+- TITLE*LANGUAGE*
+- [M10S球阀 DN¼"-DN2½"](/ball-valves/M10S.html 'M10S球阀 DN¼')_Chinese_

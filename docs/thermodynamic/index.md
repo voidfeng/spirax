@@ -1,30 +1,31 @@
-
-
-# 蒸汽热动力疏水阀
-
-![蒸汽热动力疏水阀](/d/file/p/8182ba76707f2072a3e492d01908e47e.jpg)
-
-![蒸汽热动力疏水阀1](/d/file/p/8182ba76707f2072a3e492d01908e47e.jpg) ![蒸汽热动力疏水阀2](/d/file/p/42ffb94722a73c44533d4d83df8af70b.jpg)
+---
+layout: doc
+title: 蒸汽热动力疏水阀
+imgs:
+  - /d/file/p/8182ba76707f2072a3e492d01908e47e.jpg
+  - /d/file/p/8182ba76707f2072a3e492d01908e47e.jpg
+  - /d/file/p/42ffb94722a73c44533d4d83df8af70b.jpg
+---
 
 # 蒸汽热动力疏水阀
 
 斯派莎克的热动力疏水阀结合了安全可靠、结构简单和效率高的特点，其最大工作压力可达250bar g。热动力疏水阀系列的用户遍及全世界的原因在于以下各项特点：
 
--   体积小、重量轻、流量大、抗冻结、抗水锤。
--   只有一个活动部件一个硬化的不锈钢碟片，具有很长的使用寿命。同时可具止回阀的功能。
--   间歇式喷放排水及迅速紧密的关闭，保证无泄漏。
--   可承受过热、水锤、冷冻、腐蚀性冷凝水。
--   碟片落入阀座时发出的“喀嚓”声，便于检测工作性能。
--   可用于过热蒸汽
--   有各种不同的型号，可选择螺纹、法兰、焊接等连接方式。
+- 体积小、重量轻、流量大、抗冻结、抗水锤。
+- 只有一个活动部件一个硬化的不锈钢碟片，具有很长的使用寿命。同时可具止回阀的功能。
+- 间歇式喷放排水及迅速紧密的关闭，保证无泄漏。
+- 可承受过热、水锤、冷冻、腐蚀性冷凝水。
+- 碟片落入阀座时发出的“喀嚓”声，便于检测工作性能。
+- 可用于过热蒸汽
+- 有各种不同的型号，可选择螺纹、法兰、焊接等连接方式。
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [热动力型蒸汽TD16和TD16F疏水阀](/thermodynamic/TD16F.html "热动力型蒸汽TD16和TD16F疏水阀")_Chinese_
--   [TD25和TD25F 热动力型蒸汽疏水阀](/thermodynamic/TD25F.html "TD25和TD25F 热动力型蒸汽疏水阀")_Chinese_
--   [BTD52L 热动力型蒸汽疏水阀](/thermodynamic/BTD52L.html "BTD52L 热动力型蒸汽疏水阀")_Chinese_
+- TITLE*LANGUAGE*
+- [热动力型蒸汽TD16和TD16F疏水阀](/thermodynamic/TD16F.html '热动力型蒸汽TD16和TD16F疏水阀')_Chinese_
+- [TD25和TD25F 热动力型蒸汽疏水阀](/thermodynamic/TD25F.html 'TD25和TD25F 热动力型蒸汽疏水阀')_Chinese_
+- [BTD52L 热动力型蒸汽疏水阀](/thermodynamic/BTD52L.html 'BTD52L 热动力型蒸汽疏水阀')_Chinese_

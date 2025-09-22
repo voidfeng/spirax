@@ -1,10 +1,10 @@
-
-
-# 控制阀
-
-![控制阀](/d/file/p/8bec53e2a6180f4cbff7093273a44376.jpg)
-
-![控制阀1](/d/file/p/8bec53e2a6180f4cbff7093273a44376.jpg)
+---
+layout: doc
+title: 控制阀
+imgs:
+  - /d/file/p/8bec53e2a6180f4cbff7093273a44376.jpg
+  - /d/file/p/8bec53e2a6180f4cbff7093273a44376.jpg
+---
 
 # 控制阀
 
@@ -16,9 +16,9 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [KE73 PN16二通控制阀（DN15-DN100）](/control-valves/KE73.html "KE73 PN16二通控制阀（DN15-DN100）")_Chinese_
+- TITLE*LANGUAGE*
+- [KE73 PN16二通控制阀（DN15-DN100）](/control-valves/KE73.html 'KE73 PN16二通控制阀（DN15-DN100）')_Chinese_

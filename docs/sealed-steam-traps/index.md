@@ -1,26 +1,23 @@
-
+---
+layout: doc
+title: 密封型疏水阀
+imgs:
+  - /d/file/p/6c7ec9cff167a7c043c4edcb94265a85.jpg
+  - /d/file/p/6c7ec9cff167a7c043c4edcb94265a85.jpg
+---
 
 # 密封型疏水阀
 
-![密封型疏水阀](/d/file/p/6c7ec9cff167a7c043c4edcb94265a85.jpg)
-
-![密封型疏水阀1](/d/file/p/6c7ec9cff167a7c043c4edcb94265a85.jpg)
-
-# 密封型疏水阀
-
-  
-  
-
--   全焊接结构避免蒸汽泄漏。
--   无需备件库存，减少维修成本。
--   结构紧凑重量轻，减少管道负载和安装成本。
--   全不锈钢结构，抗腐蚀。
+- 全焊接结构避免蒸汽泄漏。
+- 无需备件库存，减少维修成本。
+- 结构紧凑重量轻，减少管道负载和安装成本。
+- 全不锈钢结构，抗腐蚀。
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

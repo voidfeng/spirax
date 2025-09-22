@@ -1,10 +1,11 @@
-
-
-# 蒸汽倒吊桶疏水阀
-
-![蒸汽倒吊桶疏水阀](/d/file/p/2015-05-06/477ba471a9ac6eec59419bc44cc5e117.jpg)
-
-![蒸汽倒吊桶疏水阀1](/d/file/p/2015-05-06/477ba471a9ac6eec59419bc44cc5e117.jpg) ![蒸汽倒吊桶疏水阀2](/d/file/p/2015-05-06/840053ac41047334757063dec0fb3c5e.jpg)
+---
+layout: doc
+title: 蒸汽倒吊桶疏水阀
+imgs:
+  - /d/file/p/2015-05-06/477ba471a9ac6eec59419bc44cc5e117.jpg
+  - /d/file/p/2015-05-06/477ba471a9ac6eec59419bc44cc5e117.jpg
+  - /d/file/p/2015-05-06/840053ac41047334757063dec0fb3c5e.jpg
+---
 
 # 蒸汽倒吊桶疏水阀
 
@@ -16,9 +17,9 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

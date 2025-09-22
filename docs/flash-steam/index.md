@@ -1,10 +1,10 @@
-
-
-# 闪蒸罐
-
-![闪蒸罐](/d/file/p/90249ffac615907377b4d59636e9ca3b.jpg)
-
-![闪蒸罐1](/d/file/p/90249ffac615907377b4d59636e9ca3b.jpg)
+---
+layout: doc
+title: 闪蒸罐
+imgs:
+  - /d/file/p/90249ffac615907377b4d59636e9ca3b.jpg
+  - /d/file/p/90249ffac615907377b4d59636e9ca3b.jpg
+---
 
 # 闪蒸罐
 
@@ -12,9 +12,9 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

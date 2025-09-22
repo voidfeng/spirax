@@ -1,10 +1,10 @@
-
-
-# 压缩空气疏水阀
-
-![压缩空气疏水阀](/d/file/p/18b25888c6c8cc134097b79ebd49d4d5.jpg)
-
-![压缩空气疏水阀1](/d/file/p/18b25888c6c8cc134097b79ebd49d4d5.jpg)
+---
+layout: doc
+title: 压缩空气疏水阀
+imgs:
+  - /d/file/p/18b25888c6c8cc134097b79ebd49d4d5.jpg
+  - /d/file/p/18b25888c6c8cc134097b79ebd49d4d5.jpg
+---
 
 # 压缩空气疏水阀
 
@@ -12,10 +12,10 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [Airodyn 压缩空气疏水阀](/drain-traps/Airodyn.html "Airodyn 压缩空气疏水阀")_Chinese_
--   [CA44与CA44S 碳钢材质空气和气体系统疏水阀](/drain-traps/CA44S.html "CA44与CA44S 碳钢材质空气和气体系统疏水阀")_Chinese_
+- TITLE*LANGUAGE*
+- [Airodyn 压缩空气疏水阀](/drain-traps/Airodyn.html 'Airodyn 压缩空气疏水阀')_Chinese_
+- [CA44与CA44S 碳钢材质空气和气体系统疏水阀](/drain-traps/CA44S.html 'CA44与CA44S 碳钢材质空气和气体系统疏水阀')_Chinese_

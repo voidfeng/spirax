@@ -1,10 +1,11 @@
-
-
-# 定位器，控制器和感应器
-
-![定位器，控制器和感应器](/d/file/p/9d34e128fecc83f0bc683fcc2b1907a7.jpg)
-
-![定位器，控制器和感应器1](/d/file/p/9d34e128fecc83f0bc683fcc2b1907a7.jpg) ![定位器，控制器和感应器2](/d/file/p/c1e7933156b9374cb97644428ded7e7b.jpg)
+---
+layout: doc
+title: 定位器，控制器和感应器
+imgs:
+  - /d/file/p/9d34e128fecc83f0bc683fcc2b1907a7.jpg
+  - /d/file/p/9d34e128fecc83f0bc683fcc2b1907a7.jpg
+  - /d/file/p/c1e7933156b9374cb97644428ded7e7b.jpg
+---
 
 # 定位器，控制器和感应器
 
@@ -12,11 +13,11 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [电/气 EP5定位器](/pcas/EP5.html "电/气 EP5定位器")_Chinese_
--   [电/气 本安型 ISP5定位器](/pcas/ISP5.html "电/气 本安型 ISP5定位器")_Chinese_
--   [自动排水型高效 FR20A压缩空气调节器](/pcas/FR20A.html "自动排水型高效 FR20A压缩空气调节器")_Chinese_
+- TITLE*LANGUAGE*
+- [电/气 EP5定位器](/pcas/EP5.html '电/气 EP5定位器')_Chinese_
+- [电/气 本安型 ISP5定位器](/pcas/ISP5.html '电/气 本安型 ISP5定位器')_Chinese_
+- [自动排水型高效 FR20A压缩空气调节器](/pcas/FR20A.html '自动排水型高效 FR20A压缩空气调节器')_Chinese_

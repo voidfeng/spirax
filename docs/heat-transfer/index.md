@@ -1,10 +1,10 @@
-
-
-# 换热产品解决方案
-
-![换热产品解决方案](/d/file/p/09f1d64be5b8e12b7a42c37b2dfde506.jpg)
-
-![换热产品解决方案1](/d/file/p/09f1d64be5b8e12b7a42c37b2dfde506.jpg)
+---
+layout: doc
+title: 换热产品解决方案
+imgs:
+  - /d/file/p/09f1d64be5b8e12b7a42c37b2dfde506.jpg
+  - /d/file/p/09f1d64be5b8e12b7a42c37b2dfde506.jpg
+---
 
 # 换热产品解决方案
 
@@ -12,10 +12,10 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   Quickheat换热机组
+- Quickheat换热机组
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*
 
--   蒸汽换热机组
+- 蒸汽换热机组
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*

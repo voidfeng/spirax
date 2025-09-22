@@ -1,10 +1,10 @@
-
-
-# IN25M蒸汽喷射器
-
-![IN25M蒸汽喷射器](/d/file/steam-injectors/198f2e9f8a315340d8b89069cf4ce40d.jpg)
-
-![IN25M蒸汽喷射器1](/d/file/steam-injectors/198f2e9f8a315340d8b89069cf4ce40d.jpg)
+---
+layout: doc
+title: IN25M蒸汽喷射器
+imgs:
+  - /d/file/steam-injectors/198f2e9f8a315340d8b89069cf4ce40d.jpg
+  - /d/file/steam-injectors/198f2e9f8a315340d8b89069cf4ce40d.jpg
+---
 
 # IN25M蒸汽喷射器
 
@@ -16,29 +16,29 @@
 
 ## 斯派莎克IN25M喷射器主要特点
 
--   全不锈钢材质
--   锅炉给水加热和除氧的理想应用
--   水和其它流体的有效的蒸汽加热
--   加热、混合和循环
--   无运动部件
--   紧凑的设计
--   噪声和振动最小化
+- 全不锈钢材质
+- 锅炉给水加热和除氧的理想应用
+- 水和其它流体的有效的蒸汽加热
+- 加热、混合和循环
+- 无运动部件
+- 紧凑的设计
+- 噪声和振动最小化
 
 ## 斯派莎克IN25M喷射器安装注意事项
 
 IN25M喷射器安装在水箱中较低的位置，最好是位于中线，水平喷射蒸汽。管道可以在水箱内，也可以在水箱外。蒸汽管道必须固定良好，防止振动和水箱壁的应力。建议在螺纹接口使用合适的粘合剂。  
 管道的口径与喷射器的口径相同，例如，IN25M的喷射器使用25mm的管道。
 
--   [产品介绍](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品介绍](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_REF NO.__LANGUAGE_
--   [蒸汽喷射器](/d/pdf/SB-P401-02-蒸汽喷射器.pdf)_SB-P401-02__Chinese_
--   [锅炉控制系统](/d/pdf/SB-GAB-02-锅炉控制系统.pdf)_SB-GAB-02__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [蒸汽喷射器](/d/pdf/SB-P401-02-蒸汽喷射器.pdf)_SB-P401-02\_\_Chinese_
+- [锅炉控制系统](/d/pdf/SB-GAB-02-锅炉控制系统.pdf)_SB-GAB-02\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   [蒸汽喷射器IN15、IN25M、IN40M](/d/pdf/TI-P401-05-蒸汽喷射器IN15、IN25M、IN40M.pdf)_TI-P401-05__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [蒸汽喷射器IN15、IN25M、IN40M](/d/pdf/TI-P401-05-蒸汽喷射器IN15、IN25M、IN40M.pdf)_TI-P401-05\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   [IN15,IN25M和IN40M蒸汽喷射器](/d/pdf/IM-P401-27-IN15,IN25M和IN40M蒸汽喷射器.pdf)_IM-P401-27__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [IN15,IN25M和IN40M蒸汽喷射器](/d/pdf/IM-P401-27-IN15,IN25M和IN40M蒸汽喷射器.pdf)_IM-P401-27\_\_Chinese_

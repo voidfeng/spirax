@@ -1,10 +1,11 @@
-
-
-# 密封波纹管截止阀
-
-![密封波纹管截止阀](/d/file/p/c7e5cd84c0c51f909273c14750f4ed90.jpg)
-
-![密封波纹管截止阀1](/d/file/p/c7e5cd84c0c51f909273c14750f4ed90.jpg) ![密封波纹管截止阀2](/d/file/p/bae7375751f779c022a222776fc3a466.jpg)
+---
+layout: doc
+title: 密封波纹管截止阀
+imgs:
+  - /d/file/p/c7e5cd84c0c51f909273c14750f4ed90.jpg
+  - /d/file/p/c7e5cd84c0c51f909273c14750f4ed90.jpg
+  - /d/file/p/bae7375751f779c022a222776fc3a466.jpg
+---
 
 # 密封波纹管截止阀
 
@@ -14,14 +15,14 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [波纹管密封A3S和A3SS截止阀](/stop-valves/A3S_A3SS.html "波纹管密封A3S和A3SS截止阀")_Chinese_
--   [波纹管密封BSA1T截止阀](/stop-valves/BSA1T.html "波纹管密封BSA1T截止阀")_Chinese_
--   [波纹管密封BSA2T截止阀](/stop-valves/BSA2T.html "波纹管密封BSA2T截止阀")_Chinese_
--   [波纹管密封BSA3T截止阀](/stop-valves/BSA3T.html "波纹管密封BSA3T截止阀")_Chinese_
--   [波纹管密封BSA6T截止阀](/stop-valves/BSA6T.html "波纹管密封BSA6T截止阀")_Chinese_
--   [Spirax SafeBloc DBB3 双流双关波纹管密封截止阀](/stop-valves/DBB3.html "Spirax SafeBloc DBB3 双流双关波纹管密封截止阀")_Chinese_
+- TITLE*LANGUAGE*
+- [波纹管密封A3S和A3SS截止阀](/stop-valves/A3S_A3SS.html '波纹管密封A3S和A3SS截止阀')_Chinese_
+- [波纹管密封BSA1T截止阀](/stop-valves/BSA1T.html '波纹管密封BSA1T截止阀')_Chinese_
+- [波纹管密封BSA2T截止阀](/stop-valves/BSA2T.html '波纹管密封BSA2T截止阀')_Chinese_
+- [波纹管密封BSA3T截止阀](/stop-valves/BSA3T.html '波纹管密封BSA3T截止阀')_Chinese_
+- [波纹管密封BSA6T截止阀](/stop-valves/BSA6T.html '波纹管密封BSA6T截止阀')_Chinese_
+- [Spirax SafeBloc DBB3 双流双关波纹管密封截止阀](/stop-valves/DBB3.html 'Spirax SafeBloc DBB3 双流双关波纹管密封截止阀')_Chinese_

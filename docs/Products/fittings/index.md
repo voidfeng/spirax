@@ -1,10 +1,10 @@
-
-
-# 管道附件
-
-![管道附件](/d/file/p/082ac1807e07dc7340ce3fb5e485fcd0.jpg)
-
-![管道附件1](/d/file/p/082ac1807e07dc7340ce3fb5e485fcd0.jpg)
+---
+layout: doc
+title: 管道附件
+imgs:
+  - /d/file/p/082ac1807e07dc7340ce3fb5e485fcd0.jpg
+  - /d/file/p/082ac1807e07dc7340ce3fb5e485fcd0.jpg
+---
 
 # 管道附件
 
@@ -12,72 +12,72 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   密封波纹管截止阀
+- 密封波纹管截止阀
 
--   TITLE_LANGUAGE_
--   [波纹管密封A3S和A3SS截止阀](/stop-valves/A3S_A3SS.html "波纹管密封A3S和A3SS截止阀")_Chinese_
--   [波纹管密封BSA1T截止阀](/stop-valves/BSA1T.html "波纹管密封BSA1T截止阀")_Chinese_
--   [波纹管密封BSA2T截止阀](/stop-valves/BSA2T.html "波纹管密封BSA2T截止阀")_Chinese_
--   [波纹管密封BSA3T截止阀](/stop-valves/BSA3T.html "波纹管密封BSA3T截止阀")_Chinese_
--   [波纹管密封BSA6T截止阀](/stop-valves/BSA6T.html "波纹管密封BSA6T截止阀")_Chinese_
--   [Spirax SafeBloc DBB3 双流双关波纹管密封截止阀](/stop-valves/DBB3.html "Spirax SafeBloc DBB3 双流双关波纹管密封截止阀")_Chinese_
+- TITLE*LANGUAGE*
+- [波纹管密封A3S和A3SS截止阀](/stop-valves/A3S_A3SS.html '波纹管密封A3S和A3SS截止阀')_Chinese_
+- [波纹管密封BSA1T截止阀](/stop-valves/BSA1T.html '波纹管密封BSA1T截止阀')_Chinese_
+- [波纹管密封BSA2T截止阀](/stop-valves/BSA2T.html '波纹管密封BSA2T截止阀')_Chinese_
+- [波纹管密封BSA3T截止阀](/stop-valves/BSA3T.html '波纹管密封BSA3T截止阀')_Chinese_
+- [波纹管密封BSA6T截止阀](/stop-valves/BSA6T.html '波纹管密封BSA6T截止阀')_Chinese_
+- [Spirax SafeBloc DBB3 双流双关波纹管密封截止阀](/stop-valves/DBB3.html 'Spirax SafeBloc DBB3 双流双关波纹管密封截止阀')_Chinese_
 
--   球阀
+- 球阀
 
--   TITLE_LANGUAGE_
--   [M10S球阀 DN¼"-DN2½"](/ball-valves/M10S.html "M10S球阀 DN¼")_Chinese_
+- TITLE*LANGUAGE*
+- [M10S球阀 DN¼"-DN2½"](/ball-valves/M10S.html 'M10S球阀 DN¼')_Chinese_
 
--   止回阀
+- 止回阀
 
--   TITLE_LANGUAGE_
--   [DCV3止回阀 碟片式](/check-valves/DCV3.html "DCV3止回阀 碟片式")_Chinese_
--   [LCV3 升降式止回阀](/check-valves/LCV3.html "LCV3 升降式止回阀")_Chinese_
+- TITLE*LANGUAGE*
+- [DCV3止回阀 碟片式](/check-valves/DCV3.html 'DCV3止回阀 碟片式')_Chinese_
+- [LCV3 升降式止回阀](/check-valves/LCV3.html 'LCV3 升降式止回阀')_Chinese_
 
--   排空气阀
+- 排空气阀
 
--   TITLE_LANGUAGE_
--   [AE30、AE30A、AE30B和AE30C液体系统自动排空阀](/air-valves/AE30.html "AE30、AE30A、AE30B和AE30C液体系统自动排空阀")_Chinese_
+- TITLE*LANGUAGE*
+- [AE30、AE30A、AE30B和AE30C液体系统自动排空阀](/air-valves/AE30.html 'AE30、AE30A、AE30B和AE30C液体系统自动排空阀')_Chinese_
 
--   真空破坏器
+- 真空破坏器
 
--   TITLE_LANGUAGE_
--   [VB14破真空器 黄铜](/vacuum-breakers/VB14.html "VB14破真空器 黄铜")_Chinese_
--   [VB21破真空器 不锈钢](/vacuum-breakers/VB21.html "VB21破真空器 不锈钢")_Chinese_
+- TITLE*LANGUAGE*
+- [VB14破真空器 黄铜](/vacuum-breakers/VB14.html 'VB14破真空器 黄铜')_Chinese_
+- [VB21破真空器 不锈钢](/vacuum-breakers/VB21.html 'VB21破真空器 不锈钢')_Chinese_
 
--   过滤器
+- 过滤器
 
--   TITLE_LANGUAGE_
--   [Fig33 Y型过滤器](/strainers/FIG33.html "Fig33 Y型过滤器")_Chinese_
--   [Fig12 Y型过滤器](/strainers/FIG12.html "Fig12 Y型过滤器")_Chinese_
+- TITLE*LANGUAGE*
+- [Fig33 Y型过滤器](/strainers/FIG33.html 'Fig33 Y型过滤器')_Chinese_
+- [Fig12 Y型过滤器](/strainers/FIG12.html 'Fig12 Y型过滤器')_Chinese_
 
--   压力表
+- 压力表
 
--   TITLE_LANGUAGE_
--   [带虹吸管和旋塞阀的BSP/NPT及洁净型压力表](/products/yalibiao.html "带虹吸管和旋塞阀的BSP/NPT及洁净型压力表")_Chinese_
+- TITLE*LANGUAGE*
+- [带虹吸管和旋塞阀的BSP/NPT及洁净型压力表](/products/yalibiao.html '带虹吸管和旋塞阀的BSP/NPT及洁净型压力表')_Chinese_
 
--   观视镜
+- 观视镜
 
--   TITLE_LANGUAGE_
--   [SG13观视镜，黄铜材质](/sight-glasses/SG13.html "SG13观视镜，黄铜材质")_Chinese_
--   [SG253观视镜](/sight-glasses/SG253.html "SG253观视镜")_Chinese_
+- TITLE*LANGUAGE*
+- [SG13观视镜，黄铜材质](/sight-glasses/SG13.html 'SG13观视镜，黄铜材质')_Chinese_
+- [SG253观视镜](/sight-glasses/SG253.html 'SG253观视镜')_Chinese_
 
--   泄压阀
+- 泄压阀
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*
 
--   消音器
+- 消音器
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*
 
--   汽水混合站
+- 汽水混合站
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*
 
--   汽水分离器
+- 汽水分离器
 
--   TITLE_LANGUAGE_
--   [S1汽水分离器，球墨铸铁材质](/separators/S1.html "S1汽水分离器，球墨铸铁材质")_Chinese_
--   [S12 球墨铸铁汽水分离器（螺纹连接）](/separators/S12.html "S12 球墨铸铁汽水分离器（螺纹连接）")_Chinese_
--   [S13 球墨铸铁汽水分离器（法兰连接）](/separators/S13.html "S13 球墨铸铁汽水分离器（法兰连接）")_Chinese_
--   [S2 铸铁汽水分离器（螺纹连接）](/separators/S2.html "S2 铸铁汽水分离器（螺纹连接）")_Chinese_
--   [S3 铸铁汽水分离器（法兰连接）](/separators/S3.html "S3 铸铁汽水分离器（法兰连接）")_Chinese_
+- TITLE*LANGUAGE*
+- [S1汽水分离器，球墨铸铁材质](/separators/S1.html 'S1汽水分离器，球墨铸铁材质')_Chinese_
+- [S12 球墨铸铁汽水分离器（螺纹连接）](/separators/S12.html 'S12 球墨铸铁汽水分离器（螺纹连接）')_Chinese_
+- [S13 球墨铸铁汽水分离器（法兰连接）](/separators/S13.html 'S13 球墨铸铁汽水分离器（法兰连接）')_Chinese_
+- [S2 铸铁汽水分离器（螺纹连接）](/separators/S2.html 'S2 铸铁汽水分离器（螺纹连接）')_Chinese_
+- [S3 铸铁汽水分离器（法兰连接）](/separators/S3.html 'S3 铸铁汽水分离器（法兰连接）')_Chinese_

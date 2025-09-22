@@ -1,10 +1,11 @@
-
-
-# 蒸汽换热机组
-
-![蒸汽换热机组](/d/file/p/2f422e90d32ca66bf53a501175ced7c8.jpg)
-
-![蒸汽换热机组1](/d/file/p/2f422e90d32ca66bf53a501175ced7c8.jpg) ![蒸汽换热机组2](/d/file/p/0713b884f484aa1d10c80db55d622614.jpg)
+---
+layout: doc
+title: 蒸汽换热机组
+imgs:
+  - /d/file/p/2f422e90d32ca66bf53a501175ced7c8.jpg
+  - /d/file/p/2f422e90d32ca66bf53a501175ced7c8.jpg
+  - /d/file/p/0713b884f484aa1d10c80db55d622614.jpg
+---
 
 # 蒸汽换热机组
 
@@ -12,16 +13,16 @@
 
 主要特点为：
 
--   用于间接加热应用
--   流体的流量较大
--   安全、高效、卫生
--   根据您的需求可提供定制化的配置
+- 用于间接加热应用
+- 流体的流量较大
+- 安全、高效、卫生
+- 根据您的需求可提供定制化的配置
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

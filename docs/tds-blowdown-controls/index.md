@@ -1,23 +1,23 @@
-
-
-# TDS 排污控制
-
-![TDS 排污控制](/d/file/p/1d8b54e93bc580b77d4842d1ee0d00ae.jpg)
-
-![TDS 排污控制1](/d/file/p/1d8b54e93bc580b77d4842d1ee0d00ae.jpg)
+---
+layout: doc
+title: TDS 排污控制
+imgs:
+  - /d/file/p/1d8b54e93bc580b77d4842d1ee0d00ae.jpg
+  - /d/file/p/1d8b54e93bc580b77d4842d1ee0d00ae.jpg
+---
 
 # TDS 排污控制
 
 斯派莎克BCS系列自动TDS控制系统是实现锅炉水质控制的最佳途径。通过连续的检测锅炉水的TDS(含盐量)值，并将之与设定值相比较自动控制排污量大小，从而将TDS值控制在最佳范围。其特点是有效减少排污量，降低燃料能耗。
 
--   TDS 过高会导致设备生产出问题。
--   TDS 过低会导致燃料和水处理费用增加。
+- TDS 过高会导致设备生产出问题。
+- TDS 过低会导致燃料和水处理费用增加。
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

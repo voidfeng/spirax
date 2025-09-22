@@ -1,10 +1,11 @@
-
-
-# 凝结水回收机械泵
-
-![凝结水回收机械泵](/d/file/p/0dbbfe432e7f2b85fa0b1d85078e9e0c.jpg)
-
-![凝结水回收机械泵1](/d/file/p/0dbbfe432e7f2b85fa0b1d85078e9e0c.jpg) ![凝结水回收机械泵2](/d/file/p/707f851ca23715676e9456c34d986b2b.jpg)
+---
+layout: doc
+title: 凝结水回收机械泵
+imgs:
+  - /d/file/p/0dbbfe432e7f2b85fa0b1d85078e9e0c.jpg
+  - /d/file/p/0dbbfe432e7f2b85fa0b1d85078e9e0c.jpg
+  - /d/file/p/707f851ca23715676e9456c34d986b2b.jpg
+---
 
 # 凝结水回收机械泵
 
@@ -22,19 +23,19 @@ c：最重要的是节约预热锅炉给水的能量。
 
 主要特点如下：
 
--   特别设计用来回收冷凝水的自动泵。
--   采用蒸汽或压缩空气作为动力。
--   无需电机和液位开关，安装简单，是危险区域的理想选择。
--   泵可用于各种工况。
--   泵送高温冷凝水而不会产生气蚀，减少维护问题。
--   也可用于泵送其它工业流体。
+- 特别设计用来回收冷凝水的自动泵。
+- 采用蒸汽或压缩空气作为动力。
+- 无需电机和液位开关，安装简单，是危险区域的理想选择。
+- 泵可用于各种工况。
+- 泵送高温冷凝水而不会产生气蚀，减少维护问题。
+- 也可用于泵送其它工业流体。
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [APT10和APT14自动疏水阀泵](/pressure-powered-pumps/APT10-APT14.html "APT10和APT14自动疏水阀泵")_Chinese_
--   [MFP14-PPU 冷凝水泵](/pressure-powered-pumps/MFP14-PPU.html "MFP14-PPU 冷凝水泵")_Chinese_
+- TITLE*LANGUAGE*
+- [APT10和APT14自动疏水阀泵](/pressure-powered-pumps/APT10-APT14.html 'APT10和APT14自动疏水阀泵')_Chinese_
+- [MFP14-PPU 冷凝水泵](/pressure-powered-pumps/MFP14-PPU.html 'MFP14-PPU 冷凝水泵')_Chinese_

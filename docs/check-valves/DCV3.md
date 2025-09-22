@@ -1,10 +1,10 @@
-
-
-# DCV3止回阀 碟片式
-
-![DCV3止回阀 碟片式](/d/file/check-valves/535b51e7301c4b606dd163b758ff850f.jpg)
-
-![DCV3止回阀 碟片式1](/d/file/check-valves/535b51e7301c4b606dd163b758ff850f.jpg)
+---
+layout: doc
+title: DCV3止回阀 碟片式
+imgs:
+  - /d/file/check-valves/535b51e7301c4b606dd163b758ff850f.jpg
+  - /d/file/check-valves/535b51e7301c4b606dd163b758ff850f.jpg
+---
 
 # DCV3止回阀 碟片式
 
@@ -44,11 +44,11 @@ EPDNf软阀座，用于水系统。
 
 ## 斯派莎克DCV3止回阀介绍
 
-斯派莎克提供各种形式的止回阀，可有效的防止管道中流体回流。同时安装和维修简便。  
+斯派莎克提供各种形式的止回阀，可有效的防止管道中流体回流。同时安装和维修简便。
 
--   有效降低维护工作量
--   防止管道出现逆流
--   设计紧凑
+- 有效降低维护工作量
+- 防止管道出现逆流
+- 设计紧凑
 
 ## 斯派莎克DCV3止回阀说明
 
@@ -84,15 +84,15 @@ EPDNf软阀座，用于水系统。
 
 斯派莎克DCV3止回阀安装在两个管道阀兰之间。标准垫片，长螺拴或螺柱用于阀门两边。注:法兰，螺栓(或螺柱)，螺母或接口垫片，由安装人员提供。通常用力距拧紧阀兰螺栓时，按对角次序拧紧。
 
--   [产品介绍](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品介绍](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_REF NO.__LANGUAGE_
--   [DCV止回阀](/d/pdf/SB-S35-01-DCV止回阀.pdf)_SB-S35-01__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [DCV止回阀](/d/pdf/SB-S35-01-DCV止回阀.pdf)_SB-S35-01\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   [DCV3止回阀 碟片式](/d/pdf/TI-P134-50-DCV3%20碟片式止回阀.pdf)_TI-P134-50__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [DCV3止回阀 碟片式](/d/pdf/TI-P134-50-DCV3%20碟片式止回阀.pdf)_TI-P134-50\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   No records to display.
+- TITLE*REF NO.\_\_LANGUAGE*
+- No records to display.

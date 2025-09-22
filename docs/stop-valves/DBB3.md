@@ -1,10 +1,10 @@
-
-
-# Spirax SafeBloc DBB3 双流双关波纹管密封截止阀
-
-![Spirax SafeBloc DBB3 双流双关波纹管密封截止阀](/d/file/stop-valves/18ef9f2a9c1716edf882edcf9995252a.jpg)
-
-![Spirax SafeBloc DBB3 双流双关波纹管密封截止阀1](/d/file/stop-valves/18ef9f2a9c1716edf882edcf9995252a.jpg)
+---
+layout: doc
+title: Spirax SafeBloc DBB3 双流双关波纹管密封截止阀
+imgs:
+  - /d/file/stop-valves/18ef9f2a9c1716edf882edcf9995252a.jpg
+  - /d/file/stop-valves/18ef9f2a9c1716edf882edcf9995252a.jpg
+---
 
 # Spirax SafeBloc DBB3 双流双关波纹管密封截止阀
 
@@ -35,15 +35,15 @@ DN15, DN20, DN25, DN40, DN50, DN65, DN80 DN100法兰 EN 1092 PN40 ANSI B 16.5 Cl
 举例:1个DN25 Spirax SafeBlocTM DBB3双流双关波纹管密封截止阀,法兰连接PN40,泄压阀接口为DN15,法兰连接PN40。  
 注:泄压阀需要单独订购,例如:1个斯派莎克DN15 BSA3T波纹管密封截止阀,法兰连接PN40。
 
--   [产品介绍](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品介绍](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_REF NO.__LANGUAGE_
--   No records to display.
+- TITLE*REF NO.\_\_LANGUAGE*
+- No records to display.
 
--   TITLE_REF NO.__LANGUAGE_
--   [Spirax SafeBloc DBB3 双流双关波纹管密封截止阀](/d/pdf/TI-P184-08-Spirax%20SafeBloc%20DBB3%20双流双关波纹管密封截止阀.pdf)_TI-P184-08__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [Spirax SafeBloc DBB3 双流双关波纹管密封截止阀](/d/pdf/TI-P184-08-Spirax%20SafeBloc%20DBB3%20双流双关波纹管密封截止阀.pdf)_TI-P184-08\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   No records to display.
+- TITLE*REF NO.\_\_LANGUAGE*
+- No records to display.

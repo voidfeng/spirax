@@ -1,24 +1,24 @@
-
-
-# 液位控制
-
-![液位控制](/d/file/p/3aa2e2082ed715545858a3eeadf671f1.jpg)
-
-![液位控制1](/d/file/p/3aa2e2082ed715545858a3eeadf671f1.jpg)
+---
+layout: doc
+title: 液位控制
+imgs:
+  - /d/file/p/3aa2e2082ed715545858a3eeadf671f1.jpg
+  - /d/file/p/3aa2e2082ed715545858a3eeadf671f1.jpg
+---
 
 # 液位控制
 
 液位控制系统包括感应器，控制器，阀门或泵，控制方式为开关控制或比例控制。 安全精确地监测锅炉液位非常重要。
 
--   产品符合欧盟相关标准及规程
--   为您的员工提供安全的工作环境
--   减低锅炉房的风险
+- 产品符合欧盟相关标准及规程
+- 为您的员工提供安全的工作环境
+- 减低锅炉房的风险
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

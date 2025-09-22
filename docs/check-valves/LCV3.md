@@ -1,10 +1,10 @@
-
-
-# LCV3 升降式止回阀
-
-![LCV3 升降式止回阀](/d/file/check-valves/27bd3e5854d0c4ef9551337f25ec51b2.jpg)
-
-![LCV3 升降式止回阀1](/d/file/check-valves/27bd3e5854d0c4ef9551337f25ec51b2.jpg)
+---
+layout: doc
+title: LCV3 升降式止回阀
+imgs:
+  - /d/file/check-valves/27bd3e5854d0c4ef9551337f25ec51b2.jpg
+  - /d/file/check-valves/27bd3e5854d0c4ef9551337f25ec51b2.jpg
+---
 
 # LCV3 升降式止回阀
 
@@ -29,15 +29,15 @@ DN20, DN25, DN32, DN40, DN50, DN65, DN80和DN100
 请按箭头所示水平安装。  
 本产品可循环利用。处理得当不会造成环境危害。
 
--   [产品介绍](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品介绍](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_REF NO.__LANGUAGE_
--   No records to display.
+- TITLE*REF NO.\_\_LANGUAGE*
+- No records to display.
 
--   TITLE_REF NO.__LANGUAGE_
--   [LCV3, LCV4, LCV6和LCV7 升降式止回阀](/d/pdf/TI-P029-16-LCV3,%20LCV4,%20LCV6和LCV7%20升降式止回阀.pdf)_TI-P029-16__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [LCV3, LCV4, LCV6和LCV7 升降式止回阀](/d/pdf/TI-P029-16-LCV3,%20LCV4,%20LCV6和LCV7%20升降式止回阀.pdf)_TI-P029-16\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   No records to display.
+- TITLE*REF NO.\_\_LANGUAGE*
+- No records to display.

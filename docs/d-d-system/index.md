@@ -1,10 +1,10 @@
-
-
-# 减温减压系统
-
-![减温减压系统](/d/file/p/7b2c6cb452de9fe46fca33d66c1743a4.jpg)
-
-![减温减压系统1](/d/file/p/7b2c6cb452de9fe46fca33d66c1743a4.jpg)
+---
+layout: doc
+title: 减温减压系统
+imgs:
+  - /d/file/p/7b2c6cb452de9fe46fca33d66c1743a4.jpg
+  - /d/file/p/7b2c6cb452de9fe46fca33d66c1743a4.jpg
+---
 
 # 减温减压系统
 
@@ -20,9 +20,9 @@ SAD减温器最大流量调节比为50：1。适用于蒸汽和冷却水参数�
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

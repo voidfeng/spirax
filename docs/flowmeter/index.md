@@ -1,10 +1,10 @@
-
-
-# 流量计
-
-![流量计](/d/file/p/9c2bd080a8a4a2fc6ff46a671e89cb12.jpg)
-
-![流量计1](/d/file/p/9c2bd080a8a4a2fc6ff46a671e89cb12.jpg)
+---
+layout: doc
+title: 流量计
+imgs:
+  - /d/file/p/9c2bd080a8a4a2fc6ff46a671e89cb12.jpg
+  - /d/file/p/9c2bd080a8a4a2fc6ff46a671e89cb12.jpg
+---
 
 # 流量计
 
@@ -12,18 +12,18 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   流量计算机、显示装置和变送器
+- 流量计算机、显示装置和变送器
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*
 
--   Gilflo ILVA流量计
+- Gilflo ILVA流量计
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*
 
--   TFA流量计
+- TFA流量计
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*
 
--   TVA流量计
+- TVA流量计
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*

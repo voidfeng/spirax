@@ -1,10 +1,10 @@
-
-
-# Fig12 Y型过滤器
-
-![Fig12 Y型过滤器](/d/file/strainers/f3dfd52e353b866605d3cb9ea0799fa5.jpg)
-
-![Fig12 Y型过滤器1](/d/file/strainers/f3dfd52e353b866605d3cb9ea0799fa5.jpg)
+---
+layout: doc
+title: Fig12 Y型过滤器
+imgs:
+  - /d/file/strainers/f3dfd52e353b866605d3cb9ea0799fa5.jpg
+  - /d/file/strainers/f3dfd52e353b866605d3cb9ea0799fa5.jpg
+---
 
 # Fig12 Y型过滤器
 
@@ -24,15 +24,15 @@
 
 斯派莎克Fig12过滤器DN25，EN 1092 PN16法兰连接， 0.8mm孔径不锈钢过滤网。
 
--   [产品介绍](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品介绍](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_REF NO.__LANGUAGE_
--   No records to display.
+- TITLE*REF NO.\_\_LANGUAGE*
+- No records to display.
 
--   TITLE_REF NO.__LANGUAGE_
--   [Fig12过滤器 球墨铸铁材质](/d/pdf/TI-P163-01-Fig12%20球墨铸铁过滤器.pdf)_TI-P163-01__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [Fig12过滤器 球墨铸铁材质](/d/pdf/TI-P163-01-Fig12%20球墨铸铁过滤器.pdf)_TI-P163-01\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   [FIG1,FIG12过滤器](/d/pdf/IM-S60-17-FIG1,FIG12过滤器.pdf)_IM-S60-17__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [FIG1,FIG12过滤器](/d/pdf/IM-S60-17-FIG1,FIG12过滤器.pdf)_IM-S60-17\_\_Chinese_

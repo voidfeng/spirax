@@ -1,10 +1,10 @@
-
-
-# 冷凝水回收及热量回收
-
-![冷凝水回收及热量回收](/d/file/p/f7ced2f6ae7bd0ef3091e48099c7f4b3.jpg)
-
-![冷凝水回收及热量回收1](/d/file/p/f7ced2f6ae7bd0ef3091e48099c7f4b3.jpg)
+---
+layout: doc
+title: 冷凝水回收及热量回收
+imgs:
+  - /d/file/p/f7ced2f6ae7bd0ef3091e48099c7f4b3.jpg
+  - /d/file/p/f7ced2f6ae7bd0ef3091e48099c7f4b3.jpg
+---
 
 # 冷凝水回收及热量回收
 
@@ -14,13 +14,13 @@ http://www.spiraxsarco.org
 
 **部分产品和服务只在特定地区提供.**
 
--   凝结水回收机械泵
+- 凝结水回收机械泵
 
--   TITLE_LANGUAGE_
--   [APT10和APT14自动疏水阀泵](/pressure-powered-pumps/APT10-APT14.html "APT10和APT14自动疏水阀泵")_Chinese_
--   [MFP14-PPU 冷凝水泵](/pressure-powered-pumps/MFP14-PPU.html "MFP14-PPU 冷凝水泵")_Chinese_
+- TITLE*LANGUAGE*
+- [APT10和APT14自动疏水阀泵](/pressure-powered-pumps/APT10-APT14.html 'APT10和APT14自动疏水阀泵')_Chinese_
+- [MFP14-PPU 冷凝水泵](/pressure-powered-pumps/MFP14-PPU.html 'MFP14-PPU 冷凝水泵')_Chinese_
 
--   电泵
+- 电泵
 
--   TITLE_LANGUAGE_
--   [E-PUMP\_PPU 电泵 专于大排量\_高背压冷凝水回收](/electric-pumps/E-PUMP_PPU.html "E-PUMP_PPU 电泵 专于大排量_高背压冷凝水回收")_Chinese_
+- TITLE*LANGUAGE*
+- [E-PUMP_PPU 电泵 专于大排量\_高背压冷凝水回收](/electric-pumps/E-PUMP_PPU.html 'E-PUMP_PPU 电泵 专于大排量_高背压冷凝水回收')_Chinese_

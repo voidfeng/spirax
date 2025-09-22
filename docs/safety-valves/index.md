@@ -1,10 +1,10 @@
-
-
-# 安全阀
-
-![安全阀](/d/file/p/5b4b4c3eed371f100bf86e12624acaa8.jpg)
-
-![安全阀1](/d/file/p/5b4b4c3eed371f100bf86e12624acaa8.jpg)
+---
+layout: doc
+title: 安全阀
+imgs:
+  - /d/file/p/5b4b4c3eed371f100bf86e12624acaa8.jpg
+  - /d/file/p/5b4b4c3eed371f100bf86e12624acaa8.jpg
+---
 
 # 安全阀
 
@@ -14,18 +14,18 @@
 
 主要优点如下：
 
--   避免设备或周边环境的机械损坏
--   避免产品损坏
--   防止损坏环境.
--   防止人员受伤.
+- 避免设备或周边环境的机械损坏
+- 避免产品损坏
+- 防止损坏环境.
+- 防止人员受伤.
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [SV604安全阀 碳钢材质](/safety-valves/SV604.html "SV604安全阀 碳钢材质")_Chinese_
--   [SV607安全阀 球墨铸铁材质](/safety-valves/SV607.html "SV607安全阀 球墨铸铁材质")_Chinese_
--   [SV615安全阀 青铜材质 螺纹连接](/safety-valves/SV615.html "SV615安全阀 青铜材质 螺纹连接")_Chinese_
+- TITLE*LANGUAGE*
+- [SV604安全阀 碳钢材质](/safety-valves/SV604.html 'SV604安全阀 碳钢材质')_Chinese_
+- [SV607安全阀 球墨铸铁材质](/safety-valves/SV607.html 'SV607安全阀 球墨铸铁材质')_Chinese_
+- [SV615安全阀 青铜材质 螺纹连接](/safety-valves/SV615.html 'SV615安全阀 青铜材质 螺纹连接')_Chinese_

@@ -1,10 +1,12 @@
-
-
-# 过滤器
-
-![过滤器](/d/file/p/87a4d3412392f89e00f977049fb5f237.jpg)
-
-![过滤器1](/d/file/p/87a4d3412392f89e00f977049fb5f237.jpg) ![过滤器2](/d/file/p/e1a680b8b1961d2ec9375e25728928f2.jpg) ![过滤器3](/d/file/p/181b9007dfb78c90db5d2a417da57582.jpg)
+---
+layout: doc
+title: 过滤器
+imgs:
+  - /d/file/p/87a4d3412392f89e00f977049fb5f237.jpg
+  - /d/file/p/87a4d3412392f89e00f977049fb5f237.jpg
+  - /d/file/p/e1a680b8b1961d2ec9375e25728928f2.jpg
+  - /d/file/p/181b9007dfb78c90db5d2a417da57582.jpg
+---
 
 # 过滤器
 
@@ -16,10 +18,10 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [Fig33 Y型过滤器](/strainers/FIG33.html "Fig33 Y型过滤器")_Chinese_
--   [Fig12 Y型过滤器](/strainers/FIG12.html "Fig12 Y型过滤器")_Chinese_
+- TITLE*LANGUAGE*
+- [Fig33 Y型过滤器](/strainers/FIG33.html 'Fig33 Y型过滤器')_Chinese_
+- [Fig12 Y型过滤器](/strainers/FIG12.html 'Fig12 Y型过滤器')_Chinese_

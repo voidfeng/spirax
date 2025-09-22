@@ -1,23 +1,23 @@
-
-
-# 压力表
-
-![压力表](/d/file/p/029dbaffddb8da69340c62cb668af4cf.jpg)
-
-![压力表1](/d/file/p/029dbaffddb8da69340c62cb668af4cf.jpg)
+---
+layout: doc
+title: 压力表
+imgs:
+  - /d/file/p/029dbaffddb8da69340c62cb668af4cf.jpg
+  - /d/file/p/029dbaffddb8da69340c62cb668af4cf.jpg
+---
 
 # 压力表
 
 斯派莎克压力表有多种压力量程，表盘直径100毫米，单位是bar和Mpa。最大设计条件PN25，最大设 计温度217℃有两种类型可供选择：环形弯管和旋塞阀与U形弯管和旋塞阀。
 
--   精确
--   维护量低
+- 精确
+- 维护量低
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [带虹吸管和旋塞阀的BSP/NPT及洁净型压力表](/products/yalibiao.html "带虹吸管和旋塞阀的BSP/NPT及洁净型压力表")_Chinese_
+- TITLE*LANGUAGE*
+- [带虹吸管和旋塞阀的BSP/NPT及洁净型压力表](/products/yalibiao.html '带虹吸管和旋塞阀的BSP/NPT及洁净型压力表')_Chinese_

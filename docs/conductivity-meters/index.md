@@ -1,24 +1,25 @@
-
-
-# 电导率测量仪
-
-![电导率测量仪](/d/file/p/8a89b350e658567d0b6f22450ef2413d.jpg)
-
-![电导率测量仪1](/d/file/p/8a89b350e658567d0b6f22450ef2413d.jpg) ![电导率测量仪2](/d/file/p/84d1703feae58eb9fe1d8c8f430dcc76.jpg)
+---
+layout: doc
+title: 电导率测量仪
+imgs:
+  - /d/file/p/8a89b350e658567d0b6f22450ef2413d.jpg
+  - /d/file/p/8a89b350e658567d0b6f22450ef2413d.jpg
+  - /d/file/p/84d1703feae58eb9fe1d8c8f430dcc76.jpg
+---
 
 # 电导率测量仪
 
 用于测量锅炉水，锅炉给水和凝结水的导电率。由内置温度感应器的石墨电极和液晶数字显示组成。其另一独有特性是无需拆下安装于锅炉上的导电率感应器，即可检测其工作状况。
 
--   检查锅炉炉水
--   检查给水TDS值
--   校准控制仪表
+- 检查锅炉炉水
+- 检查给水TDS值
+- 校准控制仪表
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

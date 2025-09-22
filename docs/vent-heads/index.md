@@ -1,24 +1,24 @@
-
-
-# 排空帽
-
-![排空帽](/d/file/p/15efc7f16abb4fa43c8d5afab87a4029.jpg)
-
-![排空帽1](/d/file/p/15efc7f16abb4fa43c8d5afab87a4029.jpg)
+---
+layout: doc
+title: 排空帽
+imgs:
+  - /d/file/p/15efc7f16abb4fa43c8d5afab87a4029.jpg
+  - /d/file/p/15efc7f16abb4fa43c8d5afab87a4029.jpg
+---
 
 # 排空帽
 
 斯派莎克VHT型排空帽垂直安装于蒸汽通风管未端，用于向大气低速排放干蒸汽，从而防止周围设备腐蚀。VHT型排空帽主要用于排污罐，凝结水回收组合泵，锅炉给水槽和热水储槽等设备。不锈钢材质，接口口径50mm，80mm，100mm，150mm，200mm，250mm，300mm。
 
--   分离出冷凝水
--   安全排放出山蒸汽
--   不锈钢产品，安装后无需维护。
+- 分离出冷凝水
+- 安全排放出山蒸汽
+- 不锈钢产品，安装后无需维护。
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

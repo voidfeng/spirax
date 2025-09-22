@@ -1,10 +1,10 @@
-
-
-# Quickheat换热机组
-
-![Quickheat换热机组](/d/file/p/833ddb5a8cfef3a1bab9935b1dd1d9a4.jpg)
-
-![Quickheat换热机组1](/d/file/p/833ddb5a8cfef3a1bab9935b1dd1d9a4.jpg)
+---
+layout: doc
+title: Quickheat换热机组
+imgs:
+  - /d/file/p/833ddb5a8cfef3a1bab9935b1dd1d9a4.jpg
+  - /d/file/p/833ddb5a8cfef3a1bab9935b1dd1d9a4.jpg
+---
 
 # Quickheat换热机组
 
@@ -14,9 +14,9 @@ QUICKHEAT机组由于使用了创新的板壳式换热器作为其核心，耐�
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

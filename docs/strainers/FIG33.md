@@ -1,10 +1,10 @@
-
-
-# Fig33 Y型过滤器
-
-![Fig33 Y型过滤器](/d/file/strainers/e03f153684c36721a9e63a4fa7c2ccca.jpg)
-
-![Fig33 Y型过滤器1](/d/file/strainers/e03f153684c36721a9e63a4fa7c2ccca.jpg)
+---
+layout: doc
+title: Fig33 Y型过滤器
+imgs:
+  - /d/file/strainers/e03f153684c36721a9e63a4fa7c2ccca.jpg
+  - /d/file/strainers/e03f153684c36721a9e63a4fa7c2ccca.jpg
+---
 
 # Fig33 Y型过滤器
 
@@ -26,15 +26,15 @@ FIG33过滤器应按阀体上流向箭头所示安装在水平或流向向下的
 
 斯派莎克Fig33过滤器DN25，EN 1092 PN16法兰连接， 0.8mm孔径不锈钢过滤网。
 
--   [产品介绍](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品介绍](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_REF NO.__LANGUAGE_
--   No records to display.
+- TITLE*REF NO.\_\_LANGUAGE*
+- No records to display.
 
--   TITLE_REF NO.__LANGUAGE_
--   [Fig33Y型过滤器](/d/pdf/TI-S60-03-Fig33%20铸铁过滤器.pdf)_TI-S60-03__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [Fig33Y型过滤器](/d/pdf/TI-S60-03-Fig33%20铸铁过滤器.pdf)_TI-S60-03\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   [FIG3,FIG7,FIG33过滤器](/d/pdf/IM-S60-18-FIG3,7,33过滤器.pdf)_IM-S60-18__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [FIG3,FIG7,FIG33过滤器](/d/pdf/IM-S60-18-FIG3,7,33过滤器.pdf)_IM-S60-18\_\_Chinese_

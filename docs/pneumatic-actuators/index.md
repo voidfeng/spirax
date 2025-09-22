@@ -1,10 +1,10 @@
-
-
-# 气动执行器
-
-![气动执行器](/d/file/p/6598977739023288cf843940f64e0795.jpg)
-
-![气动执行器1](/d/file/p/6598977739023288cf843940f64e0795.jpg)
+---
+layout: doc
+title: 气动执行器
+imgs:
+  - /d/file/p/6598977739023288cf843940f64e0795.jpg
+  - /d/file/p/6598977739023288cf843940f64e0795.jpg
+---
 
 # 气动执行器
 
@@ -16,9 +16,9 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [BVA300 系列气动执行器用于Spirax Sarco 球阀](/pneumatic-actuators/BAV300.html "BVA300 系列气动执行器用于Spirax Sarco 球阀")_Chinese_
+- TITLE*LANGUAGE*
+- [BVA300 系列气动执行器用于Spirax Sarco 球阀](/pneumatic-actuators/BAV300.html 'BVA300 系列气动执行器用于Spirax Sarco 球阀')_Chinese_

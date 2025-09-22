@@ -1,10 +1,10 @@
-
-
-# MFP14-PPU 冷凝水泵
-
-![MFP14-PPU 冷凝水泵](/d/file/pressure-powered-pumps/8035ee340bf96398775eb59e29de6123.jpg)
-
-![MFP14-PPU 冷凝水泵1](/d/file/pressure-powered-pumps/8035ee340bf96398775eb59e29de6123.jpg)
+---
+layout: doc
+title: MFP14-PPU 冷凝水泵
+imgs:
+  - /d/file/pressure-powered-pumps/8035ee340bf96398775eb59e29de6123.jpg
+  - /d/file/pressure-powered-pumps/8035ee340bf96398775eb59e29de6123.jpg
+---
 
 # MFP14-PPU 冷凝水泵
 
@@ -28,8 +28,8 @@
 
 ## 斯派莎克MFP14冷凝水泵工作原理
 
-斯派莎克MFP14自动泵基于正排放原理工作  
-  
+斯派莎克MFP14自动泵基于正排放原理工作
+
 1.流体由进口止回阀进入泵体，使浮球升起。  
 2.泵体内残余的气/气体由开启的废弃/汽口排出，当泵体内充满水后，阀体翻转机构动作，打开动力气/汽进口阀，同事关闭废气/气阀，该快速翻转动作确保泵从进水冲程向排水冲程的迅速转换。  
 3.当泵体内压力超过背压时，流体推开出口止回阀，进入回收系统。  
@@ -38,34 +38,33 @@
 
 ## 斯派莎克MFP14冷凝水泵典型应用
 
-大气压下排除和回收冷凝水  
-  
+大气压下排除和回收冷凝水
+
 ◆ 各种温度控制设备的冷凝水回收  
 ◆ 泵送高温冷凝水至锅炉房水箱  
 ◆ HVAC 系统  
 ◆ 医院、宾馆和大楼建筑等  
 ◆ 一般工业应用  
-◆ 石油化工业的大流量冷凝水回收  
-  
-  
-从多组换热器中回收冷凝水  
-  
+◆ 石油化工业的大流量冷凝水回收
+
+从多组换热器中回收冷凝水
+
 ◆ MFP 14 组合泵可用于从多个换热器（或其它工艺设备）中回收冷凝水，无汽浊现象或机械密封问题；  
 ◆ 辅助开式闪蒸蒸汽回收器，减少、消除“小白龙”现象。
 
--   [产品介绍](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品介绍](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_REF NO.__LANGUAGE_
--   [【销售手册】MFP14-PPU冷凝水泵](/d/pdf/SB-P136-01-MFP14-PPU冷凝水泵.pdf)_SB-P136-01__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [【销售手册】MFP14-PPU冷凝水泵](/d/pdf/SB-P136-01-MFP14-PPU冷凝水泵.pdf)_SB-P136-01\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   [MFP14 双组合泵](/d/pdf/TI-CHN-07-MFP14%20双组合泵.pdf)_TI-CHN-07__Chinese_
--   [MFP14 三泵组合](/d/pdf/TI-CHN-08-MFP14%20三泵组合.pdf)_TI-CHN-08__Chinese_
--   [MFP14 单泵组合](/d/pdf/TI-P316-06-MFP14%20单泵组合.pdf)_TI-P316-06__Chinese_
--   [MFP14, MFP14S 和 MFP14SS 自动泵](/d/pdf/TI-P316-02-MFP14,%20MFP14S%20和%20MFP14SS%20自动泵.pdf)_TI-P316-02__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [MFP14 双组合泵](/d/pdf/TI-CHN-07-MFP14%20双组合泵.pdf)_TI-CHN-07\_\_Chinese_
+- [MFP14 三泵组合](/d/pdf/TI-CHN-08-MFP14%20三泵组合.pdf)_TI-CHN-08\_\_Chinese_
+- [MFP14 单泵组合](/d/pdf/TI-P316-06-MFP14%20单泵组合.pdf)_TI-P316-06\_\_Chinese_
+- [MFP14, MFP14S 和 MFP14SS 自动泵](/d/pdf/TI-P316-02-MFP14,%20MFP14S%20和%20MFP14SS%20自动泵.pdf)_TI-P316-02\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   [MFP14冷凝水回收泵组](/d/pdf/IM-P316-20-MFP14冷凝水回收泵组.pdf)_IM-P316-20__Chinese_
--   [MFP14，MFP14S和MFP14SS自动泵](/d/pdf/IM-P136-03-MFP14，MFP14S和MFP14SS自动泵.pdf)_IM-P136-03__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [MFP14冷凝水回收泵组](/d/pdf/IM-P316-20-MFP14冷凝水回收泵组.pdf)_IM-P316-20\_\_Chinese_
+- [MFP14，MFP14S和MFP14SS自动泵](/d/pdf/IM-P136-03-MFP14，MFP14S和MFP14SS自动泵.pdf)_IM-P136-03\_\_Chinese_

@@ -1,10 +1,10 @@
-
-
-# 洁净蒸汽发生器
-
-![洁净蒸汽发生器](/d/file/p/6b6a59fd91285223a3ddd46a6efb7171.jpg)
-
-![洁净蒸汽发生器1](/d/file/p/6b6a59fd91285223a3ddd46a6efb7171.jpg)
+---
+layout: doc
+title: 洁净蒸汽发生器
+imgs:
+  - /d/file/p/6b6a59fd91285223a3ddd46a6efb7171.jpg
+  - /d/file/p/6b6a59fd91285223a3ddd46a6efb7171.jpg
+---
 
 # 洁净蒸汽发生器
 
@@ -12,26 +12,26 @@ CSG洁净蒸汽发生器设计用于产生高品质的洁净蒸汽，满足洁�
 
 主要特点为：
 
--   参照EN285,HTM2031,FDA 相关要求的机组设计
--   高效换热
--   全自动压力，水位，排污控制系统
--   自动洁净蒸汽品质检测预留
--   所有部件均准确设计安装在一个结构紧凑的不锈钢框架上
--   所有洁净侧管件都是316，不锈钢材质
--   PLC 集成控制，斯派莎克整体解决方案
--   可接到远程控制系统
+- 参照EN285,HTM2031,FDA 相关要求的机组设计
+- 高效换热
+- 全自动压力，水位，排污控制系统
+- 自动洁净蒸汽品质检测预留
+- 所有部件均准确设计安装在一个结构紧凑的不锈钢框架上
+- 所有洁净侧管件都是316，不锈钢材质
+- PLC 集成控制，斯派莎克整体解决方案
+- 可接到远程控制系统
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品介绍](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品介绍](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_REF NO.__LANGUAGE_
--   [洁净蒸汽发生器](http://7xkry5.com1.z0.glb.clouddn.com/SB-P486-01-洁净蒸汽发生器.pdf)_SB-P486-01__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [洁净蒸汽发生器](http://7xkry5.com1.z0.glb.clouddn.com/SB-P486-01-洁净蒸汽发生器.pdf)_SB-P486-01\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   No records to display.
+- TITLE*REF NO.\_\_LANGUAGE*
+- No records to display.
 
--   TITLE_REF NO.__LANGUAGE_
--   No records to display.
+- TITLE*REF NO.\_\_LANGUAGE*
+- No records to display.

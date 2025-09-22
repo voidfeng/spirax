@@ -1,26 +1,27 @@
-
-
-# 流量计算机、显示装置和变送器
-
-![流量计算机、显示装置和变送器](/d/file/p/28a1b17b41a9fc669a8f86cd0a19a563.jpg)
-
-![流量计算机、显示装置和变送器1](/d/file/p/28a1b17b41a9fc669a8f86cd0a19a563.jpg) ![流量计算机、显示装置和变送器2](/d/file/p/ddfc37b980fdcd267172834587bce4f8.jpg)
+---
+layout: doc
+title: 流量计算机、显示装置和变送器
+imgs:
+  - /d/file/p/28a1b17b41a9fc669a8f86cd0a19a563.jpg
+  - /d/file/p/28a1b17b41a9fc669a8f86cd0a19a563.jpg
+  - /d/file/p/ddfc37b980fdcd267172834587bce4f8.jpg
+---
 
 # 流量计算机、显示装置和变送器
 
 我们可提供各种满足您需求的流量计算仪，流量显示器和压差变送器。
 
--   温度感应器
--   压力感应器
--   蒸汽和气体流量计算仪
--   蒸汽质量流量计算机
--   信号变送单元
+- 温度感应器
+- 压力感应器
+- 蒸汽和气体流量计算仪
+- 蒸汽质量流量计算机
+- 信号变送单元
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

@@ -1,10 +1,10 @@
-
-
-# 蒸汽双金属疏水阀
-
-![蒸汽双金属疏水阀](/d/file/p/eca060627eef5adcd317bf538e763f8a.jpg)
-
-![蒸汽双金属疏水阀1](/d/file/p/eca060627eef5adcd317bf538e763f8a.jpg)
+---
+layout: doc
+title: 蒸汽双金属疏水阀
+imgs:
+  - /d/file/p/eca060627eef5adcd317bf538e763f8a.jpg
+  - /d/file/p/eca060627eef5adcd317bf538e763f8a.jpg
+---
 
 # 蒸汽双金属疏水阀
 
@@ -14,9 +14,9 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [SM45双金属式蒸汽疏水阀](/bimetallic/SM45.html "SM45双金属式蒸汽疏水阀")_Chinese_
+- TITLE*LANGUAGE*
+- [SM45双金属式蒸汽疏水阀](/bimetallic/SM45.html 'SM45双金属式蒸汽疏水阀')_Chinese_

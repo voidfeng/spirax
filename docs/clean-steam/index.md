@@ -1,10 +1,10 @@
-
-
-# 洁净蒸汽产品
-
-![洁净蒸汽产品](/d/file/p/2e558838982ba5fcb02c6d1f5220b497.jpg)
-
-![洁净蒸汽产品1](/d/file/p/2e558838982ba5fcb02c6d1f5220b497.jpg)
+---
+layout: doc
+title: 洁净蒸汽产品
+imgs:
+  - /d/file/p/2e558838982ba5fcb02c6d1f5220b497.jpg
+  - /d/file/p/2e558838982ba5fcb02c6d1f5220b497.jpg
+---
 
 # 洁净蒸汽产品
 
@@ -12,10 +12,10 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   洁净蒸汽发生器
+- 洁净蒸汽发生器
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*
 
--   洁净蒸汽阀件
+- 洁净蒸汽阀件
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*

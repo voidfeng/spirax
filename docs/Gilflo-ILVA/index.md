@@ -1,10 +1,11 @@
-
-
-# Gilflo ILVA流量计
-
-![Gilflo ILVA流量计](/d/file/p/408493d64cf689a853185784a85f6e0e.jpg)
-
-![Gilflo ILVA流量计1](/d/file/p/408493d64cf689a853185784a85f6e0e.jpg) ![Gilflo ILVA流量计2](/d/file/p/f62689b9163a9b26a91f8387c7d96b3e.jpg)
+---
+layout: doc
+title: Gilflo ILVA流量计
+imgs:
+  - /d/file/p/408493d64cf689a853185784a85f6e0e.jpg
+  - /d/file/p/408493d64cf689a853185784a85f6e0e.jpg
+  - /d/file/p/f62689b9163a9b26a91f8387c7d96b3e.jpg
+---
 
 # Gilflo ILVA流量计
 
@@ -16,20 +17,20 @@ GILFLO流量计设计独特，采用弹簧负载变面积工作原理，随着�
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品介绍](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品介绍](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_REF NO.__LANGUAGE_
--   [Gilflo\_ILVA-流量计\_适用于蒸汽\_液体和气体](http://7xkry5.com1.z0.glb.clouddn.com/SB-P337-07-Gilflo_ILVA-流量计_适用于蒸汽_液体和气体.pdf)_SB-P337-07__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [Gilflo_ILVA-流量计\_适用于蒸汽\_液体和气体](http://7xkry5.com1.z0.glb.clouddn.com/SB-P337-07-Gilflo_ILVA-流量计_适用于蒸汽_液体和气体.pdf)_SB-P337-07\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   [Gilflo 'B'型 流量计管道单元](http://7xkry5.com1.z0.glb.clouddn.com/TI-P337-08-Gilflo%20'B'型%20流量计管道单元.pdf)_TI-P337-08__Chinese_
--   [Gilflo ILVA 流量计 DN50-DN200](http://7xkry5.com1.z0.glb.clouddn.com/TI-P337-05-Gilflo%20ILVA%20流量计%20DN50-DN200.pdf)_TI-P337-05__Chinese_
--   [Gilflo ILVA 流量计DN250和DN300](http://7xkry5.com1.z0.glb.clouddn.com/TI-P337-46-Gilflo%20ILVA%20流量计DN250和DN300.pdf)_TI-P337-46__Chinese_
--   [Gilflo ILVA 流量计系统概述](http://7xkry5.com1.z0.glb.clouddn.com/TI-P337-06-Gilflo%20ILVA%20流量计系统概述.pdf)_TI-P337-06__Chinese_
--   [Gilflo 流量计系统概述](http://7xkry5.com1.z0.glb.clouddn.com/TI-S41-10-Gilflo%20流量计系统概述.pdf)_TI-S41-10__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [Gilflo 'B'型 流量计管道单元](http://7xkry5.com1.z0.glb.clouddn.com/TI-P337-08-Gilflo%20'B'型%20流量计管道单元.pdf)_TI-P337-08\_\_Chinese_
+- [Gilflo ILVA 流量计 DN50-DN200](http://7xkry5.com1.z0.glb.clouddn.com/TI-P337-05-Gilflo%20ILVA%20流量计%20DN50-DN200.pdf)_TI-P337-05\_\_Chinese_
+- [Gilflo ILVA 流量计DN250和DN300](http://7xkry5.com1.z0.glb.clouddn.com/TI-P337-46-Gilflo%20ILVA%20流量计DN250和DN300.pdf)_TI-P337-46\_\_Chinese_
+- [Gilflo ILVA 流量计系统概述](http://7xkry5.com1.z0.glb.clouddn.com/TI-P337-06-Gilflo%20ILVA%20流量计系统概述.pdf)_TI-P337-06\_\_Chinese_
+- [Gilflo 流量计系统概述](http://7xkry5.com1.z0.glb.clouddn.com/TI-S41-10-Gilflo%20流量计系统概述.pdf)_TI-S41-10\_\_Chinese_
 
--   TITLE_REF NO.__LANGUAGE_
--   [Gilflo ILVA 流量计系统](http://7xkry5.com1.z0.glb.clouddn.com/IM-P337-04-Gilflo%20ILVA%20流量计系统.pdf)_IM-P337-04__Chinese_
--   [GILFLO流量计系统](http://7xkry5.com1.z0.glb.clouddn.com/IM-P337-10-GILFLO流量计系统.pdf)_IM-P337-10__Chinese_
+- TITLE*REF NO.\_\_LANGUAGE*
+- [Gilflo ILVA 流量计系统](http://7xkry5.com1.z0.glb.clouddn.com/IM-P337-04-Gilflo%20ILVA%20流量计系统.pdf)_IM-P337-04\_\_Chinese_
+- [GILFLO流量计系统](http://7xkry5.com1.z0.glb.clouddn.com/IM-P337-10-GILFLO流量计系统.pdf)_IM-P337-10\_\_Chinese_

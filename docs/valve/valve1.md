@@ -1,4 +1,9 @@
-# [穆尼机械（中国）有限公司](/)
+---
+layout: doc
+title: [穆尼机械（中国）有限公司](/)
+imgs:
+  - /skin/web/img/header_news.jpg
+---
 
 [返回首页](/ 'home') [繁體版](/tw/ '切換到繁體中文版') [简体版](/ '切换到简体中文版') [English](/en/ 'Switch to English Version')
 
@@ -61,8 +66,6 @@
 - [技术资料](/services '技术资料')
 - [关于我们](/about.html '关于我们')
 - [联系我们](/contact.html '技术支持')
-
-![自定义页面  /  迁站数据页面](/skin/web/img/header_news.jpg)
 
 [HOME](/) > [自定义页面](/sitemap.html) > [迁站数据](/valve/) > 咨询热线：151-60074648
 

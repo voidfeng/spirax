@@ -1,10 +1,11 @@
-
-
-# 气动活塞角阀
-
-![气动活塞角阀](/d/file/p/a968f497ea2d44affac84c43d8530052.jpg)
-
-![气动活塞角阀1](/d/file/p/a968f497ea2d44affac84c43d8530052.jpg) ![气动活塞角阀2](/d/file/p/a4380d6aaa4ed5ebbf865b62bc2d3e7f.jpg)
+---
+layout: doc
+title: 气动活塞角阀
+imgs:
+  - /d/file/p/a968f497ea2d44affac84c43d8530052.jpg
+  - /d/file/p/a968f497ea2d44affac84c43d8530052.jpg
+  - /d/file/p/a4380d6aaa4ed5ebbf865b62bc2d3e7f.jpg
+---
 
 # 气动活塞角阀
 
@@ -16,9 +17,9 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

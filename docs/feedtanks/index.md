@@ -1,25 +1,25 @@
-
-
-# 给水除氧箱
-
-![给水除氧箱](/d/file/p/059d791370d302c958a93b66fd3e07e9.jpg)
-
-![给水除氧箱1](/d/file/p/059d791370d302c958a93b66fd3e07e9.jpg)
+---
+layout: doc
+title: 给水除氧箱
+imgs:
+  - /d/file/p/059d791370d302c958a93b66fd3e07e9.jpg
+  - /d/file/p/059d791370d302c958a93b66fd3e07e9.jpg
+---
 
 # 给水除氧箱
 
 给水除氧箱设计作为大气式除氧器，提供运行效率，减低维护成本。
 
--   整体不锈钢
--   防锈
--   无衬里，涂层或接头，不会泄漏
--   闪蒸除氧头将补给冷水，冷凝回收及闪蒸蒸汽高效混合。
+- 整体不锈钢
+- 防锈
+- 无衬里，涂层或接头，不会泄漏
+- 闪蒸除氧头将补给冷水，冷凝回收及闪蒸蒸汽高效混合。
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

@@ -1,10 +1,10 @@
-
-
-# 电泵
-
-![电泵](/d/file/p/fa0be7e698da11888942106e96aada44.jpg)
-
-![电泵1](/d/file/p/fa0be7e698da11888942106e96aada44.jpg)
+---
+layout: doc
+title: 电泵
+imgs:
+  - /d/file/p/fa0be7e698da11888942106e96aada44.jpg
+  - /d/file/p/fa0be7e698da11888942106e96aada44.jpg
+---
 
 # 电泵
 
@@ -12,9 +12,9 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [E-PUMP\_PPU 电泵 专于大排量\_高背压冷凝水回收](/electric-pumps/E-PUMP_PPU.html "E-PUMP_PPU 电泵 专于大排量_高背压冷凝水回收")_Chinese_
+- TITLE*LANGUAGE*
+- [E-PUMP_PPU 电泵 专于大排量\_高背压冷凝水回收](/electric-pumps/E-PUMP_PPU.html 'E-PUMP_PPU 电泵 专于大排量_高背压冷凝水回收')_Chinese_

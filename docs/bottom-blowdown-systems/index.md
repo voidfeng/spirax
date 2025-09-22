@@ -1,23 +1,24 @@
-
-
-# 底部排污系统
-
-![底部排污系统](/d/file/p/071aaab97009d7b2bfee6119bb50cedc.jpg)
-
-![底部排污系统1](/d/file/p/071aaab97009d7b2bfee6119bb50cedc.jpg) ![底部排污系统2](/d/file/p/433e73a511f80caea77f84c8c232782f.jpg)
+---
+layout: doc
+title: 底部排污系统
+imgs:
+  - /d/file/p/071aaab97009d7b2bfee6119bb50cedc.jpg
+  - /d/file/p/071aaab97009d7b2bfee6119bb50cedc.jpg
+  - /d/file/p/433e73a511f80caea77f84c8c232782f.jpg
+---
 
 # 底部排污系统
 
 高效的底部排污(去除杂质) 对蒸汽品质非常关键。
 
--   精确排除锅炉底部悬浮物的系统。
--   可提供手动和自动系统
+- 精确排除锅炉底部悬浮物的系统。
+- 可提供手动和自动系统
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

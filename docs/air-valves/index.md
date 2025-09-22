@@ -1,10 +1,11 @@
-
-
-# 排空气阀
-
-![排空气阀](/d/file/p/cbfb8bee4066aaae09450489cc94e413.jpg)
-
-![排空气阀1](/d/file/p/cbfb8bee4066aaae09450489cc94e413.jpg) ![排空气阀2](/d/file/p/531ab31dc3d6882fb5f56bce53616c1b.jpg)
+---
+layout: doc
+title: 排空气阀
+imgs:
+  - /d/file/p/cbfb8bee4066aaae09450489cc94e413.jpg
+  - /d/file/p/cbfb8bee4066aaae09450489cc94e413.jpg
+  - /d/file/p/531ab31dc3d6882fb5f56bce53616c1b.jpg
+---
 
 # 排空气阀
 
@@ -12,14 +13,14 @@
 
 用于自动排除系统中的空气：
 
--   液体系统排空气
--   蒸汽系统排空气
+- 液体系统排空气
+- 蒸汽系统排空气
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
--   [AE30、AE30A、AE30B和AE30C液体系统自动排空阀](/air-valves/AE30.html "AE30、AE30A、AE30B和AE30C液体系统自动排空阀")_Chinese_
+- TITLE*LANGUAGE*
+- [AE30、AE30A、AE30B和AE30C液体系统自动排空阀](/air-valves/AE30.html 'AE30、AE30A、AE30B和AE30C液体系统自动排空阀')_Chinese_

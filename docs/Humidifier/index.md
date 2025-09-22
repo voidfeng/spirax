@@ -1,10 +1,10 @@
-
-
-# 加湿器
-
-![加湿器](/d/file/p/306b4c3b32962db7b12b4e6925617aa4.jpg)
-
-![加湿器1](/d/file/p/306b4c3b32962db7b12b4e6925617aa4.jpg)
+---
+layout: doc
+title: 加湿器
+imgs:
+  - /d/file/p/306b4c3b32962db7b12b4e6925617aa4.jpg
+  - /d/file/p/306b4c3b32962db7b12b4e6925617aa4.jpg
+---
 
 # 加湿器
 
@@ -12,6 +12,6 @@
 
 **部分产品和服务只在特定地区提供.**
 
--   直接喷射式蒸汽加湿器
+- 直接喷射式蒸汽加湿器
 
--   TITLE_LANGUAGE_
+- TITLE*LANGUAGE*

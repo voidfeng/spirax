@@ -1,10 +1,11 @@
-
-
-# 蒸汽疏水阀性能检测系统
-
-![蒸汽疏水阀性能检测系统](/d/file/p/9ff4c7699203f89be793cb0cdd19e633.jpg)
-
-![蒸汽疏水阀性能检测系统1](/d/file/p/9ff4c7699203f89be793cb0cdd19e633.jpg) ![蒸汽疏水阀性能检测系统2](/d/file/p/b8f6a188b02ddba0a7e16179faeed386.jpg)
+---
+layout: doc
+title: 蒸汽疏水阀性能检测系统
+imgs:
+  - /d/file/p/9ff4c7699203f89be793cb0cdd19e633.jpg
+  - /d/file/p/9ff4c7699203f89be793cb0cdd19e633.jpg
+  - /d/file/p/b8f6a188b02ddba0a7e16179faeed386.jpg
+---
 
 # 蒸汽疏水阀性能检测系统
 
@@ -22,9 +23,9 @@ STAPS蒸汽疏水阀监测系统(无线)
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息

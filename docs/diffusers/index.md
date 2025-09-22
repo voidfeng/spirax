@@ -1,24 +1,24 @@
-
-
-# 消音器
-
-![消音器](/d/file/p/0b6c8723c244c17b46ea2b26bca36663.jpg)
-
-![消音器1](/d/file/p/0b6c8723c244c17b46ea2b26bca36663.jpg)
+---
+layout: doc
+title: 消音器
+imgs:
+  - /d/file/p/0b6c8723c244c17b46ea2b26bca36663.jpg
+  - /d/file/p/0b6c8723c244c17b46ea2b26bca36663.jpg
+---
 
 # 消音器
 
 在直排大气时，创造安全安静的环境，满足健康，环境的要求。
 
--   设计安装在蒸汽疏水阀，排空气阀或直接排空阀出口。
--   减低噪音问题 (在1米距离外，可减低80%声级).
--   通过缓冲减少高速排放引起的冲蚀
+- 设计安装在蒸汽疏水阀，排空气阀或直接排空阀出口。
+- 减低噪音问题 (在1米距离外，可减低80%声级).
+- 通过缓冲减少高速排放引起的冲蚀
 
 **部分产品和服务只在特定地区提供.**
 
--   [产品列表](javascript:navactive(1);)
--   [技术信息](javascript:navactive(2);)
--   [安装和维修指南](javascript:navactive(3);)
+- [产品列表](<javascript:navactive(1);>)
+- [技术信息](<javascript:navactive(2);>)
+- [安装和维修指南](<javascript:navactive(3);>)
 
--   TITLE_LANGUAGE_
-此栏目暂无任何新增信息
+- TITLE*LANGUAGE*
+  此栏目暂无任何新增信息
