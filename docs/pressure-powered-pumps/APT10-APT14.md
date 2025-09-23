@@ -34,17 +34,14 @@ imgs:
 - 设计符合 A.D. Merkblatter/ASME VIII标准,符合欧洲压力设备指令 97/23/EC,符合 ATEX 指令 94/9/EC 斯派莎克全球范围内的技术支持、知识和服务
 - 也提供泵体和泵盖镀镍处理(ENP镀层)
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [APT10和APT14自动疏水阀泵](/d/pdf/APT10和APT14自动疏水阀泵.pdf)_SB-P612-01\_\_Chinese_
+- [APT10和APT14自动疏水阀泵](/d/pdf/APT10和APT14自动疏水阀泵.pdf)\_SB-P612-01\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [APT14 , APT14HC 和APT14SHC 自动疏水阀泵](/d/pdf/TI-P612-02-APT14%20,%20APT14HC%20和APT14SHC%20自动疏水阀泵.pdf)_TI-P612-02\_\_Chinese_
+- [APT14 , APT14HC 和APT14SHC 自动疏水阀泵](/d/pdf/TI-P612-02-APT14%20,%20APT14HC%20和APT14SHC%20自动疏水阀泵.pdf)\_TI-P612-02\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [APT10-4.5自动疏水阀泵](/d/pdf/IM-P612-32-APT10-4.5自动疏水阀泵.pdf)_IM-P612-32\_\_Chinese_
-- [APT14自动疏水阀泵](/d/pdf/IM-P612-04-APT14自动疏水阀泵.pdf)_IM-P612-04\_\_Chinese_
-- [APT10-4.5 自动疏水阀泵](/d/pdf/IM-P612-28-APT10-4.5%20自动疏水阀泵.pdf)_IM-P612-28\_\_Chinese_
+- [APT10-4.5自动疏水阀泵](/d/pdf/IM-P612-32-APT10-4.5自动疏水阀泵.pdf)\_IM-P612-32\_\
+- [APT14自动疏水阀泵](/d/pdf/IM-P612-04-APT14自动疏水阀泵.pdf)\_IM-P612-04\_\
+- [APT10-4.5 自动疏水阀泵](/d/pdf/IM-P612-28-APT10-4.5%20自动疏水阀泵.pdf)\_IM-P612-28\_\

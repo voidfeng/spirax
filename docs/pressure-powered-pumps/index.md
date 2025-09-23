@@ -32,10 +32,9 @@ c：最重要的是节约预热锅炉给水的能量。
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [APT10和APT14自动疏水阀泵](/pressure-powered-pumps/APT10-APT14.html 'APT10和APT14自动疏水阀泵')_Chinese_
-- [MFP14-PPU 冷凝水泵](/pressure-powered-pumps/MFP14-PPU.html 'MFP14-PPU 冷凝水泵')_Chinese_
+- [APT10和APT14自动疏水阀泵](/pressure-powered-pumps/APT10-APT14.html 'APT10和APT14自动疏水阀泵')
+- [MFP14-PPU 冷凝水泵](/pressure-powered-pumps/MFP14-PPU.html 'MFP14-PPU 冷凝水泵')

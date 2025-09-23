@@ -14,8 +14,4 @@ imgs:
 
 - Quickheat换热机组
 
-- TITLE*LANGUAGE*
-
 - 蒸汽换热机组
-
-- TITLE*LANGUAGE*

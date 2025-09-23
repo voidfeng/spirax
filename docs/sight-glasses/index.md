@@ -18,10 +18,9 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [SG13观视镜，黄铜材质](/sight-glasses/SG13.html 'SG13观视镜，黄铜材质')_Chinese_
-- [SG253观视镜](/sight-glasses/SG253.html 'SG253观视镜')_Chinese_
+- [SG13观视镜，黄铜材质](/sight-glasses/SG13.html 'SG13观视镜，黄铜材质')
+- [SG253观视镜](/sight-glasses/SG253.html 'SG253观视镜')

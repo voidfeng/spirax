@@ -19,16 +19,13 @@ TFA流量计-用于饱和蒸汽的计量专家
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [TFA流量计-专用于饱和蒸汽的计量](http://7xkry5.com1.z0.glb.clouddn.com/SB-P193-05-TFA流量计-专用于饱和蒸汽的计量.pdf)_SB-P193-05\_\_Chinese_
-- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/TI-P193-01-TFA%20饱和蒸汽流量计.pdf)_TI-P193-01\_\_Chinese_
+- [TFA流量计-专用于饱和蒸汽的计量](http://7xkry5.com1.z0.glb.clouddn.com/SB-P193-05-TFA流量计-专用于饱和蒸汽的计量.pdf)\_SB-P193-05\_\
+- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/TI-P193-01-TFA%20饱和蒸汽流量计.pdf)\_TI-P193-01\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/TI-P193-01-TFA%20饱和蒸汽流量计.pdf)_TI-P193-01\_\_Chinese_
+- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/TI-P193-01-TFA%20饱和蒸汽流量计.pdf)\_TI-P193-01\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/IM-P193-02-TFA饱和蒸汽流量计.pdf)_IM-P193-02\_\_Chinese_
+- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/IM-P193-02-TFA饱和蒸汽流量计.pdf)\_IM-P193-02\_\

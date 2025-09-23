@@ -21,11 +21,10 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [热动力型蒸汽TD16和TD16F疏水阀](/thermodynamic/TD16F.html '热动力型蒸汽TD16和TD16F疏水阀')_Chinese_
-- [TD25和TD25F 热动力型蒸汽疏水阀](/thermodynamic/TD25F.html 'TD25和TD25F 热动力型蒸汽疏水阀')_Chinese_
-- [BTD52L 热动力型蒸汽疏水阀](/thermodynamic/BTD52L.html 'BTD52L 热动力型蒸汽疏水阀')_Chinese_
+- [热动力型蒸汽TD16和TD16F疏水阀](/thermodynamic/TD16F.html '热动力型蒸汽TD16和TD16F疏水阀')
+- [TD25和TD25F 热动力型蒸汽疏水阀](/thermodynamic/TD25F.html 'TD25和TD25F 热动力型蒸汽疏水阀')
+- [BTD52L 热动力型蒸汽疏水阀](/thermodynamic/BTD52L.html 'BTD52L 热动力型蒸汽疏水阀')

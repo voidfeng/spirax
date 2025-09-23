@@ -14,52 +14,36 @@ imgs:
 
 - 蒸汽浮球式疏水阀
 
-- TITLE*LANGUAGE*
-- [FT12 铸铁材质浮球/孔蒸汽疏水阀应用于高排量场合](/ball/FT12.html 'FT12 铸铁材质浮球/孔蒸汽疏水阀应用于高排量场合')_Chinese_
-- [FT14 浮球式蒸汽疏水阀 (法兰连接)](/ball/FT14rf.html 'FT14 浮球式蒸汽疏水阀 (法兰连接)')_Chinese_
-- [FT14 浮球式蒸汽疏水阀 (螺纹连接)](/ball/FT14sc.html 'FT14 浮球式蒸汽疏水阀 (螺纹连接)')_Chinese_
-- [FT14HC 浮球式蒸汽疏水阀](/ball/57.html 'FT14HC 浮球式蒸汽疏水阀')_Chinese_
-- [FT43 铸铁材质浮球式蒸汽疏水阀](/ball/58.html 'FT43 铸铁材质浮球式蒸汽疏水阀')_Chinese_
-- [FT44 碳钢材质浮球式蒸汽疏水阀](/ball/59.html 'FT44 碳钢材质浮球式蒸汽疏水阀')_Chinese_
-- [UFT32不锈钢材质密封型 浮球式蒸汽疏水阀](/ball/104.html 'UFT32不锈钢材质密封型 浮球式蒸汽疏水阀')_Chinese_
+- [FT12 铸铁材质浮球/孔蒸汽疏水阀应用于高排量场合](/ball/FT12.html 'FT12 铸铁材质浮球/孔蒸汽疏水阀应用于高排量场合')
+- [FT14 浮球式蒸汽疏水阀 (法兰连接)](/ball/FT14rf.html 'FT14 浮球式蒸汽疏水阀 (法兰连接)')
+- [FT14 浮球式蒸汽疏水阀 (螺纹连接)](/ball/FT14sc.html 'FT14 浮球式蒸汽疏水阀 (螺纹连接)')
+- [FT14HC 浮球式蒸汽疏水阀](/ball/57.html 'FT14HC 浮球式蒸汽疏水阀')
+- [FT43 铸铁材质浮球式蒸汽疏水阀](/ball/58.html 'FT43 铸铁材质浮球式蒸汽疏水阀')
+- [FT44 碳钢材质浮球式蒸汽疏水阀](/ball/59.html 'FT44 碳钢材质浮球式蒸汽疏水阀')
+- [UFT32不锈钢材质密封型 浮球式蒸汽疏水阀](/ball/104.html 'UFT32不锈钢材质密封型 浮球式蒸汽疏水阀')
 
 - 蒸汽热动力疏水阀
 
-- TITLE*LANGUAGE*
-- [热动力型蒸汽TD16和TD16F疏水阀](/thermodynamic/TD16F.html '热动力型蒸汽TD16和TD16F疏水阀')_Chinese_
-- [TD25和TD25F 热动力型蒸汽疏水阀](/thermodynamic/TD25F.html 'TD25和TD25F 热动力型蒸汽疏水阀')_Chinese_
-- [BTD52L 热动力型蒸汽疏水阀](/thermodynamic/BTD52L.html 'BTD52L 热动力型蒸汽疏水阀')_Chinese_
+- [热动力型蒸汽TD16和TD16F疏水阀](/thermodynamic/TD16F.html '热动力型蒸汽TD16和TD16F疏水阀')
+- [TD25和TD25F 热动力型蒸汽疏水阀](/thermodynamic/TD25F.html 'TD25和TD25F 热动力型蒸汽疏水阀')
+- [BTD52L 热动力型蒸汽疏水阀](/thermodynamic/BTD52L.html 'BTD52L 热动力型蒸汽疏水阀')
 
 - 蒸汽压力平衡式疏水阀
 
-- TITLE*LANGUAGE*
-- [MST21不锈钢材质压力平衡式热静力型蒸汽疏水阀](/balanced-pressure/MST21.html 'MST21不锈钢材质压力平衡式热静力型蒸汽疏水阀')_Chinese_
+- [MST21不锈钢材质压力平衡式热静力型蒸汽疏水阀](/balanced-pressure/MST21.html 'MST21不锈钢材质压力平衡式热静力型蒸汽疏水阀')
 
 - 蒸汽双金属疏水阀
 
-- TITLE*LANGUAGE*
-- [SM45双金属式蒸汽疏水阀](/bimetallic/SM45.html 'SM45双金属式蒸汽疏水阀')_Chinese_
+- [SM45双金属式蒸汽疏水阀](/bimetallic/SM45.html 'SM45双金属式蒸汽疏水阀')
 
 - 蒸汽倒吊桶疏水阀
 
-- TITLE*LANGUAGE*
-
 - 万向连接疏水阀
-
-- TITLE*LANGUAGE*
 
 - 密封型疏水阀
 
-- TITLE*LANGUAGE*
-
 - 固定排放温度疏水阀
-
-- TITLE*LANGUAGE*
 
 - 蒸汽疏水阀性能检测系统
 
-- TITLE*LANGUAGE*
-
 - 蒸汽分配及冷凝水收集管
-
-- TITLE*LANGUAGE*

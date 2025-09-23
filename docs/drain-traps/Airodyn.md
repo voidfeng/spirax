@@ -34,15 +34,8 @@ Airody S可提供高精度碟片用于高洁净应用。
 
 1⁄2"螺纹BSP或NPT。 3⁄4" 螺纹NPT。
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- [Airodyn 压缩空气疏水阀](/d/pdf/TI-P610-05-Airodyn%20压缩空气疏水阀.pdf)_TI-P610-05\_\_Chinese_
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
+- [Airodyn 压缩空气疏水阀](/d/pdf/TI-P610-05-Airodyn%20压缩空气疏水阀.pdf)\_TI-P610-05\_\

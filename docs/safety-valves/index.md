@@ -21,11 +21,10 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [SV604安全阀 碳钢材质](/safety-valves/SV604.html 'SV604安全阀 碳钢材质')_Chinese_
-- [SV607安全阀 球墨铸铁材质](/safety-valves/SV607.html 'SV607安全阀 球墨铸铁材质')_Chinese_
-- [SV615安全阀 青铜材质 螺纹连接](/safety-valves/SV615.html 'SV615安全阀 青铜材质 螺纹连接')_Chinese_
+- [SV604安全阀 碳钢材质](/safety-valves/SV604.html 'SV604安全阀 碳钢材质')
+- [SV607安全阀 球墨铸铁材质](/safety-valves/SV607.html 'SV607安全阀 球墨铸铁材质')
+- [SV615安全阀 青铜材质 螺纹连接](/safety-valves/SV615.html 'SV615安全阀 青铜材质 螺纹连接')

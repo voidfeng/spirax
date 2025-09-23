@@ -15,9 +15,8 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [带虹吸管和旋塞阀的BSP/NPT及洁净型压力表](/products/yalibiao.html '带虹吸管和旋塞阀的BSP/NPT及洁净型压力表')_Chinese_
+- [带虹吸管和旋塞阀的BSP/NPT及洁净型压力表](/products/yalibiao.html '带虹吸管和旋塞阀的BSP/NPT及洁净型压力表')

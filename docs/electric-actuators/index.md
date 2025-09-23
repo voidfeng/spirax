@@ -15,10 +15,9 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [电动EL4611执行器 - 用于DN15-DN50控制阀](/electric-actuators/EL4611.html '电动EL4611执行器 - 用于DN15-DN50控制阀')_Chinese_
-- [电动EL4613执行器 - 用于DN15-DN50控制阀](/electric-actuators/EL4613.html '电动EL4613执行器 - 用于DN15-DN50控制阀')_Chinese_
+- [电动EL4611执行器 - 用于DN15-DN50控制阀](/electric-actuators/EL4611.html '电动EL4611执行器 - 用于DN15-DN50控制阀')
+- [电动EL4613执行器 - 用于DN15-DN50控制阀](/electric-actuators/EL4613.html '电动EL4613执行器 - 用于DN15-DN50控制阀')

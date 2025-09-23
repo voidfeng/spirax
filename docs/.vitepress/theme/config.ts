@@ -1,4 +1,4 @@
-import { DefaultTheme } from "vitepress"
+import { DefaultTheme } from 'vitepress'
 
 export const productMenus = [
   {
@@ -105,27 +105,28 @@ export const productMenus = [
 
 function getSidebarMenus(): DefaultTheme.Sidebar {
   /**
-   * 1. 如果是 /zh/products/ 则返回 第一层路径
-   * 2. 如果是 其他 
+   * 1. 如果是 /Products// 则返回 第一层路径
+   * 2. 如果是 其他
    */
   const baseMenu = {
-    '/zh/products': {
+    '/Products/': {
       items: [
-      {
-        text: '产品类别',
-        items: productMenus
-      },
-    ]}
+        {
+          text: '产品类别',
+          items: productMenus,
+        },
+      ],
+    },
   }
 
-  productMenus.forEach(item => {
+  productMenus.forEach((item) => {
     baseMenu[item.link] = {
       items: [
-      {
-        text: item.text,
-        items: item.items,
-      }
-    ]
+        {
+          text: item.text,
+          items: item.items,
+        },
+      ],
     }
   })
 

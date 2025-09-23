@@ -23,15 +23,8 @@ CSG洁净蒸汽发生器设计用于产生高品质的洁净蒸汽，满足洁�
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [洁净蒸汽发生器](http://7xkry5.com1.z0.glb.clouddn.com/SB-P486-01-洁净蒸汽发生器.pdf)_SB-P486-01\_\_Chinese_
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
+- [洁净蒸汽发生器](http://7xkry5.com1.z0.glb.clouddn.com/SB-P486-01-洁净蒸汽发生器.pdf)\_SB-P486-01\_\

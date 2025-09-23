@@ -14,47 +14,26 @@ imgs:
 
 - 给水除氧箱
 
-- TITLE*LANGUAGE*
-
 - 排空帽
-
-- TITLE*LANGUAGE*
 
 - 蒸汽喷射器
 
-- TITLE*LANGUAGE*
-- [IN15蒸汽喷射器](/steam-injectors/IN15.html 'IN15蒸汽喷射器')_Chinese_
-- [IN25M蒸汽喷射器](/steam-injectors/IN25M.html 'IN25M蒸汽喷射器')_Chinese_
-- [IN40M蒸汽喷射器](/steam-injectors/IN40M.html 'IN40M蒸汽喷射器')_Chinese_
+- [IN15蒸汽喷射器](/steam-injectors/IN15.html 'IN15蒸汽喷射器')
+- [IN25M蒸汽喷射器](/steam-injectors/IN25M.html 'IN25M蒸汽喷射器')
+- [IN40M蒸汽喷射器](/steam-injectors/IN40M.html 'IN40M蒸汽喷射器')
 
 - 液位控制
 
-- TITLE*LANGUAGE*
-
 - TDS 排污控制
-
-- TITLE*LANGUAGE*
 
 - 底部排污系统
 
-- TITLE*LANGUAGE*
-
 - 排污罐
-
-- TITLE*LANGUAGE*
 
 - 取样冷却器
 
-- TITLE*LANGUAGE*
-
 - 电导率测量仪
-
-- TITLE*LANGUAGE*
 
 - 闪蒸罐
 
-- TITLE*LANGUAGE*
-
 - 热回收系统
-
-- TITLE*LANGUAGE*

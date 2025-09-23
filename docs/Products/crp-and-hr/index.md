@@ -16,11 +16,9 @@ http://www.spiraxsarco.org
 
 - 凝结水回收机械泵
 
-- TITLE*LANGUAGE*
-- [APT10和APT14自动疏水阀泵](/pressure-powered-pumps/APT10-APT14.html 'APT10和APT14自动疏水阀泵')_Chinese_
-- [MFP14-PPU 冷凝水泵](/pressure-powered-pumps/MFP14-PPU.html 'MFP14-PPU 冷凝水泵')_Chinese_
+- [APT10和APT14自动疏水阀泵](/pressure-powered-pumps/APT10-APT14.html 'APT10和APT14自动疏水阀泵')
+- [MFP14-PPU 冷凝水泵](/pressure-powered-pumps/MFP14-PPU.html 'MFP14-PPU 冷凝水泵')
 
 - 电泵
 
-- TITLE*LANGUAGE*
-- [E-PUMP_PPU 电泵 专于大排量\_高背压冷凝水回收](/electric-pumps/E-PUMP_PPU.html 'E-PUMP_PPU 电泵 专于大排量_高背压冷凝水回收')_Chinese_
+- [E-PUMP_PPU 电泵 专于大排量\_高背压冷凝水回收](/electric-pumps/E-PUMP_PPU.html 'E-PUMP_PPU 电泵 专于大排量_高背压冷凝水回收')

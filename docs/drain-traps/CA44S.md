@@ -28,16 +28,9 @@ CA44疏水阀 DN15和DN20 CA44S疏水阀 DN15, DN20和DN25 标准法兰为EN 109
 
 疏水阀应按阀体上流向箭头,水平安装在低于排水点的位 置,以确保浮球臂自由垂直升降。此浮球式疏水阀用于空气和气体系统的的优点之一是无需 泄放孔即可正常工作。但为防止空气或气体气锁,需要装 有单独的平衡管。 确保平衡管连接到疏水阀上游。 平衡管对产品的正确工作非常重要。 为方便维护,建议在平衡管靠近疏水阀盖处安装活接。
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- [CA44与CA44S 碳钢材质空气和气体系统疏水阀 DN15-DN25](/d/pdf/TI-P148-02-CA44与CA44S%20碳钢材质空气和气体系统疏水阀%20%20DN15-DN25.pdf)_TI-P148-02\_\_Chinese_
-- [CA44S 碳钢空气和气体疏水阀 DN40-DN50](/d/pdf/TI-P148-03-CA44S%20碳钢空气和气体疏水阀%20DN40-DN50.pdf)_TI-P148-03\_\_Chinese_
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
+- [CA44与CA44S 碳钢材质空气和气体系统疏水阀 DN15-DN25](/d/pdf/TI-P148-02-CA44与CA44S%20碳钢材质空气和气体系统疏水阀%20%20DN15-DN25.pdf)\_TI-P148-02\_\
+- [CA44S 碳钢空气和气体疏水阀 DN40-DN50](/d/pdf/TI-P148-03-CA44S%20碳钢空气和气体疏水阀%20DN40-DN50.pdf)\_TI-P148-03\_\

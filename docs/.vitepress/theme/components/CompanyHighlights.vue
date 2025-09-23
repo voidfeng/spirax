@@ -3,8 +3,10 @@
     <div class="container mx-auto py-12">
       <div class="text-center text-base font-bold text-primary">COMPANY</div>
       <div class="text-center text-4xl font-bold mb-3">为什么选择斯派莎克阀门</div>
-      <div class="text-center text-sm text-gray-900 dark:text-gray-300 mb-8">确保每项产品的设计材料和质量水平达到或超越客户的要求。</div>
-      
+      <div class="text-center text-sm text-gray-900 dark:text-gray-300 mb-8">
+        确保每项产品的设计材料和质量水平达到或超越客户的要求。
+      </div>
+
       <div class="highlights-grid">
         <div v-for="highlight in highlights" :key="highlight.title" class="highlight-card">
           <div class="card-image">
@@ -29,26 +31,26 @@ const highlights = [
     title: '高品质产品',
     description: '超过30年的设计经验，确保每个产品都达到最高标准',
     image: '/images/home-company-highlight1.jpg',
-    link: '/zh/products'
+    link: '/Products/',
   },
   {
     title: '全球服务网络',
     description: '在40多个国家和地区拥有分支机构，提供便捷服务',
     image: '/images/home-company-highlight2.jpg',
-    link: '/contact-us'
+    link: '/contact-us',
   },
   {
     title: '定制解决方案',
     description: '根据客户需求提供定制化的流体控制解决方案',
     image: '/images/home-company-highlight3.jpg',
-    link: '/zh/解决方案/行业/化工和石油/'
+    link: '/zh/解决方案/行业/化工和石油/',
   },
   {
     title: '技术创新',
     description: '不断创新，引领流体控制技术的发展',
     image: '/images/home-company-highlight4.jpg',
-    link: '/contact-us'
-  }
+    link: '/contact-us',
+  },
 ]
 </script>
 
@@ -60,11 +62,11 @@ const highlights = [
   gap: 20px;
 }
 
-.container{
+.container {
   max-width: 1152px;
 }
 
-.company-highlights{
+.company-highlights {
   /* 背景颜色通过类名直接应用 */
 }
 
@@ -107,7 +109,7 @@ const highlights = [
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgb(7, 11, 43,0.88);
+  background-color: rgb(7, 11, 43, 0.88);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -148,4 +150,4 @@ const highlights = [
 .highlight-link:hover {
   background-color: #f0f0f0;
 }
-</style> 
+</style>

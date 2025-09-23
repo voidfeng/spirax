@@ -21,9 +21,8 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [M10S球阀 DN¼"-DN2½"](/ball-valves/M10S.html 'M10S球阀 DN¼')_Chinese_
+- [M10S球阀 DN¼"-DN2½"](/ball-valves/M10S.html 'M10S球阀 DN¼')

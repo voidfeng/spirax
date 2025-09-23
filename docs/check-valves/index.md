@@ -16,10 +16,9 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [LCV3 升降式止回阀](/check-valves/LCV3.html 'LCV3 升降式止回阀')_Chinese_
-- [DCV3止回阀 碟片式](/check-valves/DCV3.html 'DCV3止回阀 碟片式')_Chinese_
+- [LCV3 升降式止回阀](/check-valves/LCV3.html 'LCV3 升降式止回阀')
+- [DCV3止回阀 碟片式](/check-valves/DCV3.html 'DCV3止回阀 碟片式')

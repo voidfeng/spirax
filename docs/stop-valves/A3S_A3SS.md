@@ -26,15 +26,8 @@ imgs:
 请按上表中描述订购，并标明阀的型号及口径。  
 例如： 1-维修组件加上1-阀体垫片，用于斯派莎克1"A3S 截止阀，BSP螺纹连接。
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- [A3S和A3SS 波纹管密封截止阀](/d/pdf/TI-P132-09-A3S和A3SS%20波纹管密封截止阀.pdf)_TI-P132-09\_\_Chinese_
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
+- [A3S和A3SS 波纹管密封截止阀](/d/pdf/TI-P132-09-A3S和A3SS%20波纹管密封截止阀.pdf)\_TI-P132-09\_\

@@ -35,15 +35,10 @@ EP5和ISP5定位器的无故障、安全运行取决于正确的运输、储藏/
 
 例:1 - 电/气 斯派莎克 EP5 定位器
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
+- [电、气 ISP5和EP5定位器](/d/pdf/IM-P343-16-EP5和ISP5电、气定位器.pdf)\_IM-P343-16\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [电、气 ISP5和EP5定位器](/d/pdf/IM-P343-16-EP5和ISP5电、气定位器.pdf)_IM-P343-16\_\_Chinese_
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- [电或气 EP5定位器 ISP5本安型电或气定位器](/d/pdf/TI-P343-08-EP5%20电或气定位器%20%20ISP5本安型电或气定位器.pdf)_TI-P343-08\_\_Chinese_
+- [电或气 EP5定位器 ISP5本安型电或气定位器](/d/pdf/TI-P343-08-EP5%20电或气定位器%20%20ISP5本安型电或气定位器.pdf)\_TI-P343-08\_\

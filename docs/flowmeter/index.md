@@ -14,16 +14,8 @@ imgs:
 
 - 流量计算机、显示装置和变送器
 
-- TITLE*LANGUAGE*
-
 - Gilflo ILVA流量计
-
-- TITLE*LANGUAGE*
 
 - TFA流量计
 
-- TITLE*LANGUAGE*
-
 - TVA流量计
-
-- TITLE*LANGUAGE*

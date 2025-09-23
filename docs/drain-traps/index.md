@@ -12,10 +12,9 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [Airodyn 压缩空气疏水阀](/drain-traps/Airodyn.html 'Airodyn 压缩空气疏水阀')_Chinese_
-- [CA44与CA44S 碳钢材质空气和气体系统疏水阀](/drain-traps/CA44S.html 'CA44与CA44S 碳钢材质空气和气体系统疏水阀')_Chinese_
+- [Airodyn 压缩空气疏水阀](/drain-traps/Airodyn.html 'Airodyn 压缩空气疏水阀')
+- [CA44与CA44S 碳钢材质空气和气体系统疏水阀](/drain-traps/CA44S.html 'CA44与CA44S 碳钢材质空气和气体系统疏水阀')

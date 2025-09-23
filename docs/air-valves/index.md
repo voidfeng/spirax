@@ -18,9 +18,8 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [AE30、AE30A、AE30B和AE30C液体系统自动排空阀](/air-valves/AE30.html 'AE30、AE30A、AE30B和AE30C液体系统自动排空阀')_Chinese_
+- [AE30、AE30A、AE30B和AE30C液体系统自动排空阀](/air-valves/AE30.html 'AE30、AE30A、AE30B和AE30C液体系统自动排空阀')

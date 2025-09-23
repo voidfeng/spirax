@@ -12,10 +12,9 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [VB14破真空器 黄铜](/vacuum-breakers/VB14.html 'VB14破真空器 黄铜')_Chinese_
-- [VB21破真空器 不锈钢](/vacuum-breakers/VB21.html 'VB21破真空器 不锈钢')_Chinese_
+- [VB14破真空器 黄铜](/vacuum-breakers/VB14.html 'VB14破真空器 黄铜')
+- [VB21破真空器 不锈钢](/vacuum-breakers/VB21.html 'VB21破真空器 不锈钢')

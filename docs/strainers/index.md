@@ -18,10 +18,9 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [Fig33 Y型过滤器](/strainers/FIG33.html 'Fig33 Y型过滤器')_Chinese_
-- [Fig12 Y型过滤器](/strainers/FIG12.html 'Fig12 Y型过滤器')_Chinese_
+- [Fig33 Y型过滤器](/strainers/FIG33.html 'Fig33 Y型过滤器')
+- [Fig12 Y型过滤器](/strainers/FIG12.html 'Fig12 Y型过滤器')

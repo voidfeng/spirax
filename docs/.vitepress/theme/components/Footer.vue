@@ -9,7 +9,7 @@
         </div>
         <div>
           <a
-            href="/zh/products"
+            href="/Products/"
             class="px-6 py-2 bg-white text-primary font-semibold rounded hover:bg-gray-100 transition-colors"
             >全部产品</a
           >

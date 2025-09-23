@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 产品中心
-      link: /zh/products/
+      link: /Products/
     - theme: alt
       text: 了解更多
       link: /contact-us

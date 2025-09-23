@@ -14,8 +14,4 @@ imgs:
 
 - 洁净蒸汽发生器
 
-- TITLE*LANGUAGE*
-
 - 洁净蒸汽阀件
-
-- TITLE*LANGUAGE*

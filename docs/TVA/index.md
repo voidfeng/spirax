@@ -18,15 +18,12 @@ TVA型流量计有内置温度感应器实现密度补偿。无需差压变送�
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [TVA流量计 专用于饱和蒸汽的计量](http://7xkry5.com1.z0.glb.clouddn.com/SB-P337-53-TVA流量计-专用于饱和蒸汽的计量.pdf)_SB-P337-53\_\_Chinese_
+- [TVA流量计 专用于饱和蒸汽的计量](http://7xkry5.com1.z0.glb.clouddn.com/SB-P337-53-TVA流量计-专用于饱和蒸汽的计量.pdf)\_SB-P337-53\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [TVA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/TI-P337-50-TVA%20饱和蒸汽流量计.pdf)_TI-P337-50\_\_Chinese_
+- [TVA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/TI-P337-50-TVA%20饱和蒸汽流量计.pdf)\_TI-P337-50\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [TVA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/IM-P337-51-TVA饱和蒸汽流量计.pdf)_IM-P337-51\_\_Chinese_
+- [TVA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/IM-P337-51-TVA饱和蒸汽流量计.pdf)\_IM-P337-51\_\

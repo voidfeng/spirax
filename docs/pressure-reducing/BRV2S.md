@@ -31,15 +31,12 @@ DN15, DN20 和 DN25 法兰 EN 1092 PN25。
 
 例：1-斯派莎克BRV2S减压阀 DN25 P1:0.8barg，P2:0.6barg。
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [减压阀产品指南](/d/pdf/SB-F10-01-减压阀产品指南.pdf)_SB-F10-01\_\_Chinese_
+- [减压阀产品指南](/d/pdf/SB-F10-01-减压阀产品指南.pdf)\_SB-F10-01\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [BRV2减压阀](/d/pdf/TI-P045-14-BRV2S和BRV2B%20球墨铸铁减压阀.pdf)_TI-P045-14\_\_Chinese_
+- [BRV2减压阀](/d/pdf/TI-P045-14-BRV2S和BRV2B%20球墨铸铁减压阀.pdf)\_TI-P045-14\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [BRV2S和BRV2B 球墨铸铁减压阀](/d/pdf/IM-P045-10-BRV2%20减压阀.pdf)_IM-P045-10\_\_Chinese_
+- [BRV2S和BRV2B 球墨铸铁减压阀](/d/pdf/IM-P045-10-BRV2%20减压阀.pdf)\_IM-P045-10\_\

@@ -24,13 +24,12 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [S1汽水分离器，球墨铸铁材质](/separators/S1.html 'S1汽水分离器，球墨铸铁材质')_Chinese_
-- [S12 球墨铸铁汽水分离器（螺纹连接）](/separators/S12.html 'S12 球墨铸铁汽水分离器（螺纹连接）')_Chinese_
-- [S13 球墨铸铁汽水分离器（法兰连接）](/separators/S13.html 'S13 球墨铸铁汽水分离器（法兰连接）')_Chinese_
-- [S2 铸铁汽水分离器（螺纹连接）](/separators/S2.html 'S2 铸铁汽水分离器（螺纹连接）')_Chinese_
-- [S3 铸铁汽水分离器（法兰连接）](/separators/S3.html 'S3 铸铁汽水分离器（法兰连接）')_Chinese_
+- [S1汽水分离器，球墨铸铁材质](/separators/S1.html 'S1汽水分离器，球墨铸铁材质')
+- [S12 球墨铸铁汽水分离器（螺纹连接）](/separators/S12.html 'S12 球墨铸铁汽水分离器（螺纹连接）')
+- [S13 球墨铸铁汽水分离器（法兰连接）](/separators/S13.html 'S13 球墨铸铁汽水分离器（法兰连接）')
+- [S2 铸铁汽水分离器（螺纹连接）](/separators/S2.html 'S2 铸铁汽水分离器（螺纹连接）')
+- [S3 铸铁汽水分离器（法兰连接）](/separators/S3.html 'S3 铸铁汽水分离器（法兰连接）')

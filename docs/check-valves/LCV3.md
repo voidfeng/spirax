@@ -29,15 +29,8 @@ DN20, DN25, DN32, DN40, DN50, DN65, DN80和DN100
 请按箭头所示水平安装。  
 本产品可循环利用。处理得当不会造成环境危害。
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- [LCV3, LCV4, LCV6和LCV7 升降式止回阀](/d/pdf/TI-P029-16-LCV3,%20LCV4,%20LCV6和LCV7%20升降式止回阀.pdf)_TI-P029-16\_\_Chinese_
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
+- [LCV3, LCV4, LCV6和LCV7 升降式止回阀](/d/pdf/TI-P029-16-LCV3,%20LCV4,%20LCV6和LCV7%20升降式止回阀.pdf)\_TI-P029-16\_\

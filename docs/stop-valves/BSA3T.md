@@ -38,15 +38,12 @@ imgs:
 
 波纹管密封BSA3T截止阀可广泛适用于各种工业流体，如：蒸汽、空气、热煤油、热水和冷水系统。口径从DN15至DN250：压力等级至和CLASS800。可提供法兰，螺纹和承插焊等连接方式，可适用大部份的制程应用。
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [BSA波纹管密封截止阀](/d/pdf/SB-P137-01-BSA波纹管密封截止阀.pdf)_SB-P137-01\_\_Chinese_
+- [BSA波纹管密封截止阀](/d/pdf/SB-P137-01-BSA波纹管密封截止阀.pdf)\_SB-P137-01\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [BSA和BSAT 波纹管密封截止阀](/d/pdf/TI-P137-18-BSA和BSAT%20波纹管密封截止阀.pdf)_TI-P137-18\_\_Chinese_
+- [BSA和BSAT 波纹管密封截止阀](/d/pdf/TI-P137-18-BSA和BSAT%20波纹管密封截止阀.pdf)\_TI-P137-18\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [BSA和BSAT波纹管密封截止阀](/d/pdf/IM-P137-02-BSA和BSAT波纹管密封截止阀.pdf)_IM-P137-02\_\_Chinese_
+- [BSA和BSAT波纹管密封截止阀](/d/pdf/IM-P137-02-BSA和BSAT波纹管密封截止阀.pdf)\_IM-P137-02\_\

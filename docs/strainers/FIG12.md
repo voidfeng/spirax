@@ -24,15 +24,10 @@ imgs:
 
 斯派莎克Fig12过滤器DN25，EN 1092 PN16法兰连接， 0.8mm孔径不锈钢过滤网。
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
+- [Fig12过滤器 球墨铸铁材质](/d/pdf/TI-P163-01-Fig12%20球墨铸铁过滤器.pdf)\_TI-P163-01\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [Fig12过滤器 球墨铸铁材质](/d/pdf/TI-P163-01-Fig12%20球墨铸铁过滤器.pdf)_TI-P163-01\_\_Chinese_
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- [FIG1,FIG12过滤器](/d/pdf/IM-S60-17-FIG1,FIG12过滤器.pdf)_IM-S60-17\_\_Chinese_
+- [FIG1,FIG12过滤器](/d/pdf/IM-S60-17-FIG1,FIG12过滤器.pdf)\_IM-S60-17\_\

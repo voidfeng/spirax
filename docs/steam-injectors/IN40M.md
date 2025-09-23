@@ -29,16 +29,13 @@ imgs:
 IN40M喷射器安装在水箱中较低的位置，最好是位于中线，水平喷射蒸汽。管道可以在水箱内，也可以在水箱外。蒸汽管道必须固定良好，防止振动和水箱壁的应力。建议在螺纹接口使用合适的粘合剂。  
 管道的口径与喷射器的口径相同，例如，IN40M的喷射器使用1½" 的管道。
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [蒸汽喷射器](/d/pdf/SB-P401-02-蒸汽喷射器.pdf)_SB-P401-02\_\_Chinese_
-- [锅炉控制系统](/d/pdf/SB-GAB-02-锅炉控制系统.pdf)_SB-GAB-02\_\_Chinese_
+- [蒸汽喷射器](/d/pdf/SB-P401-02-蒸汽喷射器.pdf)\_SB-P401-02\_\
+- [锅炉控制系统](/d/pdf/SB-GAB-02-锅炉控制系统.pdf)\_SB-GAB-02\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [蒸汽喷射器IN15、IN25M、IN40M](/d/pdf/TI-P401-05-蒸汽喷射器IN15、IN25M、IN40M.pdf)_TI-P401-05\_\_Chinese_
+- [蒸汽喷射器IN15、IN25M、IN40M](/d/pdf/TI-P401-05-蒸汽喷射器IN15、IN25M、IN40M.pdf)\_TI-P401-05\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [IN15,IN25M和IN40M蒸汽喷射器](/d/pdf/IM-P401-27-IN15,IN25M和IN40M蒸汽喷射器.pdf)_IM-P401-27\_\_Chinese_
+- [IN15,IN25M和IN40M蒸汽喷射器](/d/pdf/IM-P401-27-IN15,IN25M和IN40M蒸汽喷射器.pdf)\_IM-P401-27\_\

@@ -15,11 +15,10 @@ imgs:
 
 **部分产品和服务只在特定地区提供.**
 
-- [产品列表](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品列表]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*LANGUAGE*
-- [IN15蒸汽喷射器](/steam-injectors/IN15.html 'IN15蒸汽喷射器')_Chinese_
-- [IN25M蒸汽喷射器](/steam-injectors/IN25M.html 'IN25M蒸汽喷射器')_Chinese_
-- [IN40M蒸汽喷射器](/steam-injectors/IN40M.html 'IN40M蒸汽喷射器')_Chinese_
+- [IN15蒸汽喷射器](/steam-injectors/IN15.html 'IN15蒸汽喷射器')
+- [IN25M蒸汽喷射器](/steam-injectors/IN25M.html 'IN25M蒸汽喷射器')
+- [IN40M蒸汽喷射器](/steam-injectors/IN40M.html 'IN40M蒸汽喷射器')

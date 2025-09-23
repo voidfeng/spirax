@@ -425,3 +425,11 @@ img:not(.custom-img) {
 .dark .VPNavBarMenu.menu .active span::after {
   background-color: var(--vp-c-text-2);
 }
+
+.dark .vp-doc a {
+  color: #a8b1ff;
+}
+
+.dark .vp-doc a:hover {
+  color: #5c73e7;
+}

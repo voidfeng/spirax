@@ -157,6 +157,7 @@ const desc = computed(() => {
   font-size: 1.75rem;
   color: var(--vp-c-text-1);
   font-weight: 600;
+  line-height: 1.2;
 }
 
 .product-model h3 {

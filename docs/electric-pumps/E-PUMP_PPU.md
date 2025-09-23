@@ -36,15 +36,10 @@ imgs:
 
 注:出厂不带保温。
 
-- [产品介绍](<javascript:navactive(1);>)
-- [技术信息](<javascript:navactive(2);>)
-- [安装和维修指南](<javascript:navactive(3);>)
+- [产品介绍]
+- [技术信息]
+- [安装和维修指南]
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [E-PUMP_PPU\_电泵\_专于大排量\_高背压冷凝水回收](/d/pdf/E-PUMP_PPU_电泵_专于大排量_高背压冷凝水回收.pdf)_.\_\_Chinese_
+- [E-PUMP_PPU\_电泵\_专于大排量\_高背压冷凝水回收](/d/pdf/E-PUMP_PPU_电泵_专于大排量_高背压冷凝水回收.pdf)\_.\_\
 
-- TITLE*REF NO.\_\_LANGUAGE*
-- [E系列冷凝水回收装置](/d/pdf/TI-P089-07-E系列冷凝水回收装置.pdf)_TI-P089-07\_\_Chinese_
-
-- TITLE*REF NO.\_\_LANGUAGE*
-- No records to display.
+- [E系列冷凝水回收装置](/d/pdf/TI-P089-07-E系列冷凝水回收装置.pdf)\_TI-P089-07\_\
