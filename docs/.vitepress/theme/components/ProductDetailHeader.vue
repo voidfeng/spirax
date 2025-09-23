@@ -1,5 +1,5 @@
 <script setup>
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue'
 import { useData } from 'vitepress'
 
 const { frontmatter, page } = useData()
@@ -24,6 +24,19 @@ onMounted(() => {
     currentImage.value = imageList.value[0]
   }
 })
+
+// 监听图片列表变化，路由切换时重置当前图片
+watch(
+  imageList,
+  (newImageList) => {
+    if (newImageList.length > 0) {
+      currentImage.value = newImageList[0]
+    } else {
+      currentImage.value = ''
+    }
+  },
+  { immediate: true },
+)
 
 // 切换显示的图片
 function changeImage(img) {
