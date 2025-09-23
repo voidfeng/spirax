@@ -3,7 +3,6 @@ layout: doc
 title: 控制系统
 imgs:
   - /d/file/p/d46fe9f38981c2393fab43276f310122.jpg
-  - /d/file/p/d46fe9f38981c2393fab43276f310122.jpg
 ---
 
 # 控制系统

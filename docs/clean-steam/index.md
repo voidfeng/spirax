@@ -3,7 +3,6 @@ layout: doc
 title: 洁净蒸汽产品
 imgs:
   - /d/file/p/2e558838982ba5fcb02c6d1f5220b497.jpg
-  - /d/file/p/2e558838982ba5fcb02c6d1f5220b497.jpg
 ---
 
 # 洁净蒸汽产品

@@ -3,7 +3,6 @@ layout: doc
 title: 换热产品解决方案
 imgs:
   - /d/file/p/09f1d64be5b8e12b7a42c37b2dfde506.jpg
-  - /d/file/p/09f1d64be5b8e12b7a42c37b2dfde506.jpg
 ---
 
 # 换热产品解决方案

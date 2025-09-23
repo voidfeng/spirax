@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 波纹管密封BSA1T截止阀
+category: 管道附件,密封波纹管截止阀
 imgs:
-  - /d/file/stop-valves/6a0397b05c91b27c37486cd46d968a88.jpg
   - /d/file/stop-valves/6a0397b05c91b27c37486cd46d968a88.jpg
 ---
 

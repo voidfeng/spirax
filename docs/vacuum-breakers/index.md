@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 真空破坏器
+category: 管道附件,真空破坏器
 imgs:
-  - /d/file/p/a06ee475ae4f6e6e2e8e25a0fbbfdbd5.jpg
   - /d/file/p/a06ee475ae4f6e6e2e8e25a0fbbfdbd5.jpg
 ---
 

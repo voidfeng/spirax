@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 锅炉控制系统
+category: 锅炉控制系统
 imgs:
-  - /d/file/p/0b5fdace2a2189fd75c65ac80b3c6c3f.jpg
   - /d/file/p/0b5fdace2a2189fd75c65ac80b3c6c3f.jpg
 ---
 

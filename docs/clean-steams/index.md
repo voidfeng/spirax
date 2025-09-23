@@ -3,7 +3,6 @@ layout: doc
 title: 洁净蒸汽阀件
 imgs:
   - /d/file/p/0fc61070617b60b985c23c299e769e1e.jpg
-  - /d/file/p/0fc61070617b60b985c23c299e769e1e.jpg
   - /d/file/p/df8a5adc7676ac929d77dd798de7996a.jpg
 ---
 

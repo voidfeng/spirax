@@ -3,7 +3,6 @@ layout: doc
 title: TVA流量计
 imgs:
   - /d/file/p/58ec06fc9a2223faeb7b625f716972ca.jpg
-  - /d/file/p/58ec06fc9a2223faeb7b625f716972ca.jpg
   - /d/file/p/c7cfcd45ef37c1d9781e9c8fca0d4224.jpg
 ---
 

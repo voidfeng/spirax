@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 电动执行器
+category: 控制系统,电动执行器
 imgs:
-  - /d/file/p/eb4167197eee45b38d43bda1ae6e561c.jpg
   - /d/file/p/eb4167197eee45b38d43bda1ae6e561c.jpg
   - /d/file/p/bf0b775c77d3ec88ad5cc42a7e599651.jpg
 ---

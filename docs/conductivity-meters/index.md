@@ -3,7 +3,6 @@ layout: doc
 title: 电导率测量仪
 imgs:
   - /d/file/p/8a89b350e658567d0b6f22450ef2413d.jpg
-  - /d/file/p/8a89b350e658567d0b6f22450ef2413d.jpg
   - /d/file/p/84d1703feae58eb9fe1d8c8f430dcc76.jpg
 ---
 

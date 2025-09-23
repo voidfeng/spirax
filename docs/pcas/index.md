@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 定位器，控制器和感应器
+category: 控制系统,定位器，控制系统感应器
 imgs:
-  - /d/file/p/9d34e128fecc83f0bc683fcc2b1907a7.jpg
   - /d/file/p/9d34e128fecc83f0bc683fcc2b1907a7.jpg
   - /d/file/p/c1e7933156b9374cb97644428ded7e7b.jpg
 ---

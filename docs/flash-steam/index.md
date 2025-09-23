@@ -3,7 +3,6 @@ layout: doc
 title: 闪蒸罐
 imgs:
   - /d/file/p/90249ffac615907377b4d59636e9ca3b.jpg
-  - /d/file/p/90249ffac615907377b4d59636e9ca3b.jpg
 ---
 
 # 闪蒸罐

@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 自作用温度控制系统
+category: 控制系统,自作用温度控制系统
 imgs:
-  - /d/file/p/9c350b7ad95eb00f252cd25184e30771.jpg
   - /d/file/p/9c350b7ad95eb00f252cd25184e30771.jpg
   - /d/file/p/782a797fed643001f478e9c42157444d.jpg
 ---

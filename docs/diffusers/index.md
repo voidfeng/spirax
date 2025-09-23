@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 消音器
+category: 管道附件,消音器
 imgs:
-  - /d/file/p/0b6c8723c244c17b46ea2b26bca36663.jpg
   - /d/file/p/0b6c8723c244c17b46ea2b26bca36663.jpg
 ---
 

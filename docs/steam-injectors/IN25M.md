@@ -3,7 +3,6 @@ layout: doc
 title: IN25M蒸汽喷射器
 imgs:
   - /d/file/steam-injectors/198f2e9f8a315340d8b89069cf4ce40d.jpg
-  - /d/file/steam-injectors/198f2e9f8a315340d8b89069cf4ce40d.jpg
 ---
 
 # IN25M蒸汽喷射器

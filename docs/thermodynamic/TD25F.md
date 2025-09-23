@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: TD25和TD25F 热动力型蒸汽疏水阀
+category: 疏水阀,热动力疏水阀
 imgs:
-  - /d/file/thermodynamic/23a79f79dfed1d41e96d4921cb1aa005.jpg
   - /d/file/thermodynamic/23a79f79dfed1d41e96d4921cb1aa005.jpg
 ---
 

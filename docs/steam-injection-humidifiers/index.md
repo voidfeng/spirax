@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 直接喷射式蒸汽加湿器
+category: 加湿器,直接喷射式蒸汽加湿器
 imgs:
-  - /d/file/p/15a2709ac370ae9823de55ba622d29d1.jpg
   - /d/file/p/15a2709ac370ae9823de55ba622d29d1.jpg
 ---
 

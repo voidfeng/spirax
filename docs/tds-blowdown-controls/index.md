@@ -3,7 +3,6 @@ layout: doc
 title: TDS 排污控制
 imgs:
   - /d/file/p/1d8b54e93bc580b77d4842d1ee0d00ae.jpg
-  - /d/file/p/1d8b54e93bc580b77d4842d1ee0d00ae.jpg
 ---
 
 # TDS 排污控制

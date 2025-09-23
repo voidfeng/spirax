@@ -3,7 +3,6 @@ layout: doc
 title: 带虹吸管和旋塞阀的BSP/NPT及洁净型压力表
 imgs:
   - /d/file/Pressure-gauge/1d8bd029d975579d0985f46dd2ccca3b.jpg
-  - /d/file/Pressure-gauge/1d8bd029d975579d0985f46dd2ccca3b.jpg
 ---
 
 # 带虹吸管和旋塞阀的BSP/NPT及洁净型压力表

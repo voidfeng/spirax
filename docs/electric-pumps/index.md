@@ -3,7 +3,6 @@ layout: doc
 title: 电泵
 imgs:
   - /d/file/p/fa0be7e698da11888942106e96aada44.jpg
-  - /d/file/p/fa0be7e698da11888942106e96aada44.jpg
 ---
 
 # 电泵

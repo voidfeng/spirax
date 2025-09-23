@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 减温减压系统
+category: 控制系统,减温减压系统
 imgs:
-  - /d/file/p/7b2c6cb452de9fe46fca33d66c1743a4.jpg
   - /d/file/p/7b2c6cb452de9fe46fca33d66c1743a4.jpg
 ---
 

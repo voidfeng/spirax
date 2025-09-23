@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: LCV3 升降式止回阀
+category: 管道附件,止回阀
 imgs:
-  - /d/file/check-valves/27bd3e5854d0c4ef9551337f25ec51b2.jpg
   - /d/file/check-valves/27bd3e5854d0c4ef9551337f25ec51b2.jpg
 ---
 

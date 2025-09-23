@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 蒸汽浮球式疏水阀
+category: 蒸汽疏水阀
 imgs:
-  - /d/file/p/cfbc373ef6f4774d96a031976724b4ae.jpg
   - /d/file/p/cfbc373ef6f4774d96a031976724b4ae.jpg
   - /d/file/p/6f6d61da676cb747b7e49346fa5f1c11.jpg
   - http://www.spiraxsarco.org/d/file/z/Ball_Float_large.gif

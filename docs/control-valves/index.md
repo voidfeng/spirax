@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 控制阀
+category: 控制系统,控制阀
 imgs:
-  - /d/file/p/8bec53e2a6180f4cbff7093273a44376.jpg
   - /d/file/p/8bec53e2a6180f4cbff7093273a44376.jpg
 ---
 

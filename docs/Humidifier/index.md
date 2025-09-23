@@ -3,7 +3,6 @@ layout: doc
 title: 加湿器
 imgs:
   - /d/file/p/306b4c3b32962db7b12b4e6925617aa4.jpg
-  - /d/file/p/306b4c3b32962db7b12b4e6925617aa4.jpg
 ---
 
 # 加湿器

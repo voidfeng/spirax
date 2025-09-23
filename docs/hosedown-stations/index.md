@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 汽水混合站
+category: 管道附件,汽水混合站
 imgs:
-  - /d/file/p/1f2e5f684d02fd00f01c2665cb662fe7.jpg
   - /d/file/p/1f2e5f684d02fd00f01c2665cb662fe7.jpg
 ---
 

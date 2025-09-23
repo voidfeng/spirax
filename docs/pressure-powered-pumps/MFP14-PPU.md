@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: MFP14-PPU 冷凝水泵
+category: 冷凝水回收及热量回收
 imgs:
-  - /d/file/pressure-powered-pumps/8035ee340bf96398775eb59e29de6123.jpg
   - /d/file/pressure-powered-pumps/8035ee340bf96398775eb59e29de6123.jpg
 ---
 

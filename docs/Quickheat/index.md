@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: Quickheat换热机组
+category: 换热产品解决方案,Quickheat换热机组
 imgs:
-  - /d/file/p/833ddb5a8cfef3a1bab9935b1dd1d9a4.jpg
   - /d/file/p/833ddb5a8cfef3a1bab9935b1dd1d9a4.jpg
 ---
 

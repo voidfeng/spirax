@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 蒸汽热动力疏水阀
+category: 疏水阀,热动力疏水阀
 imgs:
-  - /d/file/p/8182ba76707f2072a3e492d01908e47e.jpg
   - /d/file/p/8182ba76707f2072a3e492d01908e47e.jpg
   - /d/file/p/42ffb94722a73c44533d4d83df8af70b.jpg
 ---

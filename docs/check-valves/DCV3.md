@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: DCV3止回阀 碟片式
+category: 管道附件,止回阀
 imgs:
-  - /d/file/check-valves/535b51e7301c4b606dd163b758ff850f.jpg
   - /d/file/check-valves/535b51e7301c4b606dd163b758ff850f.jpg
 ---
 

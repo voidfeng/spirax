@@ -3,7 +3,6 @@ layout: doc
 title: 热回收系统
 imgs:
   - /d/file/p/d283d45b51ecb14d4cc2f19ceaeb2bc0.jpg
-  - /d/file/p/d283d45b51ecb14d4cc2f19ceaeb2bc0.jpg
 ---
 
 # 热回收系统

@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 波纹管密封A3S和A3SS截止阀
+category: 管道附件,密封波纹管截止阀
 imgs:
-  - /d/file/stop-valves/9549ae85d902596b1d0d32a22d2b8e3b.jpg
   - /d/file/stop-valves/9549ae85d902596b1d0d32a22d2b8e3b.jpg
 ---
 

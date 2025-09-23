@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 过滤器
+category: 管道附件,过滤器
 imgs:
-  - /d/file/p/87a4d3412392f89e00f977049fb5f237.jpg
   - /d/file/p/87a4d3412392f89e00f977049fb5f237.jpg
   - /d/file/p/e1a680b8b1961d2ec9375e25728928f2.jpg
   - /d/file/p/181b9007dfb78c90db5d2a417da57582.jpg

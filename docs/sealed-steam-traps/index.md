@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 密封型疏水阀
+category: 疏水阀,密封型疏水阀
 imgs:
-  - /d/file/p/6c7ec9cff167a7c043c4edcb94265a85.jpg
   - /d/file/p/6c7ec9cff167a7c043c4edcb94265a85.jpg
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 蒸汽换热机组
+category: 换热产品解决方案,蒸汽换热机组
 imgs:
-  - /d/file/p/2f422e90d32ca66bf53a501175ced7c8.jpg
   - /d/file/p/2f422e90d32ca66bf53a501175ced7c8.jpg
   - /d/file/p/0713b884f484aa1d10c80db55d622614.jpg
 ---

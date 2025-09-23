@@ -3,7 +3,6 @@ layout: doc
 title: 蒸汽疏水阀
 imgs:
   - /d/file/p/2c195714fa76274dee4df6605b328723.jpg
-  - /d/file/p/2c195714fa76274dee4df6605b328723.jpg
 ---
 
 # 蒸汽疏水阀

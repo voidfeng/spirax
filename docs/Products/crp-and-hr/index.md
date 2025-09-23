@@ -3,7 +3,6 @@ layout: doc
 title: 冷凝水回收及热量回收
 imgs:
   - /d/file/p/f7ced2f6ae7bd0ef3091e48099c7f4b3.jpg
-  - /d/file/p/f7ced2f6ae7bd0ef3091e48099c7f4b3.jpg
 ---
 
 # 冷凝水回收及热量回收

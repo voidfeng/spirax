@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: APT10和APT14自动疏水阀泵
+category: 冷凝水回收及热量回收
 imgs:
-  - /d/file/p/0dbbfe432e7f2b85fa0b1d85078e9e0c.jpg
   - /d/file/p/0dbbfe432e7f2b85fa0b1d85078e9e0c.jpg
 ---
 

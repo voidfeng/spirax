@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: Fig12 Y型过滤器
+category: 管道附件,过滤器
 imgs:
-  - /d/file/strainers/f3dfd52e353b866605d3cb9ea0799fa5.jpg
   - /d/file/strainers/f3dfd52e353b866605d3cb9ea0799fa5.jpg
 ---
 

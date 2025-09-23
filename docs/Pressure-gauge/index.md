@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 压力表
+category: 管道附件,压力表
 imgs:
-  - /d/file/p/029dbaffddb8da69340c62cb668af4cf.jpg
   - /d/file/p/029dbaffddb8da69340c62cb668af4cf.jpg
 ---
 

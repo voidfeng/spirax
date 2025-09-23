@@ -3,7 +3,6 @@ layout: doc
 title: E-PUMP\_PPU 电泵 专于大排量\_高背压冷凝水回收
 imgs:
   - /d/file/p/fa0be7e698da11888942106e96aada44.jpg
-  - /d/file/p/fa0be7e698da11888942106e96aada44.jpg
 ---
 
 # E-PUMP_PPU 电泵 专于大排量\_高背压冷凝水回收

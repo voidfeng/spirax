@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 压缩空气疏水阀
+category: 压缩空气疏水阀
 imgs:
-  - /d/file/p/18b25888c6c8cc134097b79ebd49d4d5.jpg
   - /d/file/p/18b25888c6c8cc134097b79ebd49d4d5.jpg
 ---
 

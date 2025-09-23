@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 安全阀
+category: 控制系统,安全阀
 imgs:
-  - /d/file/p/5b4b4c3eed371f100bf86e12624acaa8.jpg
   - /d/file/p/5b4b4c3eed371f100bf86e12624acaa8.jpg
 ---
 

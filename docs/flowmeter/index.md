@@ -3,7 +3,6 @@ layout: doc
 title: 流量计
 imgs:
   - /d/file/p/9c2bd080a8a4a2fc6ff46a671e89cb12.jpg
-  - /d/file/p/9c2bd080a8a4a2fc6ff46a671e89cb12.jpg
 ---
 
 # 流量计

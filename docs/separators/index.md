@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 汽水分离器
+category: 管道附件,汽水分离器
 imgs:
-  - /d/file/p/95ef5b4429aa04b787fa598d403cfffb.jpg
   - /d/file/p/95ef5b4429aa04b787fa598d403cfffb.jpg
   - http://www.spiraxsarco.org/d/file/p/cebb920c755062bd4326d5da9950da52.gif
 ---

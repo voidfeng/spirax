@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 密封波纹管截止阀
+category: 管道附件,密封波纹管截止阀
 imgs:
-  - /d/file/p/c7e5cd84c0c51f909273c14750f4ed90.jpg
   - /d/file/p/c7e5cd84c0c51f909273c14750f4ed90.jpg
   - /d/file/p/bae7375751f779c022a222776fc3a466.jpg
 ---

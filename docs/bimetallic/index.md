@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 蒸汽双金属疏水阀
+category: 疏水阀,蒸汽双金属疏水阀
 imgs:
-  - /d/file/p/eca060627eef5adcd317bf538e763f8a.jpg
   - /d/file/p/eca060627eef5adcd317bf538e763f8a.jpg
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 给水除氧箱
+category: 控制系统,安全阀
 imgs:
-  - /d/file/p/059d791370d302c958a93b66fd3e07e9.jpg
   - /d/file/p/059d791370d302c958a93b66fd3e07e9.jpg
 ---
 

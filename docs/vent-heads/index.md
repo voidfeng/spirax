@@ -3,7 +3,6 @@ layout: doc
 title: 排空帽
 imgs:
   - /d/file/p/15efc7f16abb4fa43c8d5afab87a4029.jpg
-  - /d/file/p/15efc7f16abb4fa43c8d5afab87a4029.jpg
 ---
 
 # 排空帽

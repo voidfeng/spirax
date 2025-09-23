@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 观视镜
+category: 管道附件,观视镜
 imgs:
-  - /d/file/p/2b701ca3744a7cd45b2ac66abe652499.jpg
   - /d/file/p/2b701ca3744a7cd45b2ac66abe652499.jpg
 ---
 

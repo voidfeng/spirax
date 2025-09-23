@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 蒸汽疏水阀性能检测系统
+category: 疏水阀,蒸汽疏水阀性能检测系统
 imgs:
-  - /d/file/p/9ff4c7699203f89be793cb0cdd19e633.jpg
   - /d/file/p/9ff4c7699203f89be793cb0cdd19e633.jpg
   - /d/file/p/b8f6a188b02ddba0a7e16179faeed386.jpg
 ---

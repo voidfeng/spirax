@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: Fig33 Y型过滤器
+category: 管道附件,过滤器
 imgs:
-  - /d/file/strainers/e03f153684c36721a9e63a4fa7c2ccca.jpg
   - /d/file/strainers/e03f153684c36721a9e63a4fa7c2ccca.jpg
 ---
 

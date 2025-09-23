@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 自动排水型高效 FR20A压缩空气调节器
+category: 控制系统,定位器，控制系统感应器
 imgs:
-  - /d/file/pcas/41894f8873dc238233fc467af0c0ec55.jpg
   - /d/file/pcas/41894f8873dc238233fc467af0c0ec55.jpg
 ---
 

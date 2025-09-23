@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 止回阀
+category: 管道附件,止回阀
 imgs:
-  - /d/file/p/d7d11791abc96e6d4d62c8ca9d211743.jpg
   - /d/file/p/d7d11791abc96e6d4d62c8ca9d211743.jpg
 ---
 

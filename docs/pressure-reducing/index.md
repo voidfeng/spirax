@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 减压阀
+category: 控制系统,减压阀
 imgs:
-  - /d/file/p/ece15da7fdd96e09fe82293a2874a6a8.jpg
   - /d/file/p/ece15da7fdd96e09fe82293a2874a6a8.jpg
   - /d/file/p/2015-05-06/25ea6acd18906e00e05b2a8494325d8b.jpg
 ---

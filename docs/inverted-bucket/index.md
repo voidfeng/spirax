@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 蒸汽倒吊桶疏水阀
+category: 疏水阀,蒸汽倒吊桶疏水阀
 imgs:
-  - /d/file/p/2015-05-06/477ba471a9ac6eec59419bc44cc5e117.jpg
   - /d/file/p/2015-05-06/477ba471a9ac6eec59419bc44cc5e117.jpg
   - /d/file/p/2015-05-06/840053ac41047334757063dec0fb3c5e.jpg
 ---

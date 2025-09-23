@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: BTD52L 热动力型蒸汽疏水阀
+category: 疏水阀,热动力疏水阀
 imgs:
-  - /d/file/thermodynamic/4ee3157b8179e9707b447f2dc709d8dd.jpg
   - /d/file/thermodynamic/4ee3157b8179e9707b447f2dc709d8dd.jpg
 ---
 

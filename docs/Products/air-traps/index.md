@@ -3,7 +3,6 @@ layout: doc
 title: 压缩空气产品
 imgs:
   - /d/file/p/cff429b7e4483c9e2b0779a9826c8c1f.jpg
-  - /d/file/p/cff429b7e4483c9e2b0779a9826c8c1f.jpg
 ---
 
 # 压缩空气产品

@@ -3,7 +3,6 @@ layout: doc
 title: Gilflo ILVA流量计
 imgs:
   - /d/file/p/408493d64cf689a853185784a85f6e0e.jpg
-  - /d/file/p/408493d64cf689a853185784a85f6e0e.jpg
   - /d/file/p/f62689b9163a9b26a91f8387c7d96b3e.jpg
 ---
 

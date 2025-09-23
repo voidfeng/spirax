@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 气动活塞角阀
+category: 控制系统,气动活塞角阀
 imgs:
-  - /d/file/p/a968f497ea2d44affac84c43d8530052.jpg
   - /d/file/p/a968f497ea2d44affac84c43d8530052.jpg
   - /d/file/p/a4380d6aaa4ed5ebbf865b62bc2d3e7f.jpg
 ---

@@ -2,16 +2,6 @@ import { DefaultTheme } from 'vitepress'
 
 export const productMenus = [
   {
-    link: '/Products/crp-and-hr/',
-    text: '冷凝水泵及热量回收和蒸汽洁净产品',
-    items: [
-      { link: '/pressure-powered-pumps/', text: '凝结水回收机械泵' },
-      { link: '/electric-pumps/', text: '电泵' },
-      { link: '/clean-steam-generator/', text: '洁净蒸汽发生器' },
-      { link: '/clean-steams/', text: '洁净蒸汽阀件' },
-    ],
-  },
-  {
     link: '/Products/Traps/',
     text: '蒸汽疏水阀',
     items: [
@@ -28,11 +18,17 @@ export const productMenus = [
     ],
   },
   {
-    link: '/Products/air-traps/',
-    text: '压缩空气疏水阀和加湿器',
+    text: '控制系统',
     items: [
-      { link: '/drain-traps/', text: '压缩空气疏水阀' },
-      { link: '/steam-injection-humidifiers/', text: '直接喷射式蒸汽加湿器' },
+      { link: '/control-valves/', text: '控制阀' },
+      { link: '/electric-actuators/', text: '电动执行器' },
+      { link: '/pneumatic-actuators/', text: '气动执行器' },
+      { link: '/pcas/', text: '定位器，控制器和感应器' },
+      { link: '/d-d-system/', text: '减温减压系统' },
+      { link: '/piston-valves/', text: '气动活塞角阀' },
+      { link: '/pressure-reducing/', text: '减压阀' },
+      { link: '/safety-valves/', text: '安全阀' },
+      { link: '/self-acting-controls/', text: '自作用温度控制系统' },
     ],
   },
   {
@@ -64,22 +60,38 @@ export const productMenus = [
     ],
   },
   {
-    link: '/Boiler-Control-System/',
-    text: '锅炉控制系统-穆尼阀门',
+    link: '/Products/crp-and-hr/',
+    text: '冷凝水泵及热量回收',
     items: [
-      { link: '/feedtanks/', text: '给水除氧箱' },
-      { link: '/vent-heads/', text: '排空帽' },
-      { link: '/steam-injectors/', text: '蒸汽喷射器' },
-      { link: '/level-controls/', text: '液位控制' },
-      { link: '/tds-blowdown-controls/', text: 'TDS排污控制' },
-      { link: '/bottom-blowdown-systems/', text: '底部排污系统' },
-      { link: '/blowdown-vessels/', text: '排污罐' },
-      { link: '/sample-coolers/', text: '取样冷却器' },
-      { link: '/conductivity-meters/', text: '电导率测量仪' },
-      { link: '/flash-steam/', text: '闪蒸罐' },
-      { link: '/heat-recovery-systems/', text: '热回收系统' },
+      { link: '/pressure-powered-pumps/', text: '凝结水回收机械泵' },
+      { link: '/electric-pumps/', text: '电泵' },
     ],
   },
+  {
+    link: '/Products/air-traps/',
+    text: '压缩空气疏水阀和加湿器',
+    items: [
+      { link: '/drain-traps/', text: '压缩空气疏水阀' },
+      { link: '/steam-injection-humidifiers/', text: '直接喷射式蒸汽加湿器' },
+    ],
+  },
+  // {
+  //   link: '/Boiler-Control-System/',
+  //   text: '锅炉控制系统-穆尼阀门',
+  //   items: [
+  //     { link: '/feedtanks/', text: '给水除氧箱' },
+  //     { link: '/vent-heads/', text: '排空帽' },
+  //     { link: '/steam-injectors/', text: '蒸汽喷射器' },
+  //     { link: '/level-controls/', text: '液位控制' },
+  //     { link: '/tds-blowdown-controls/', text: 'TDS排污控制' },
+  //     { link: '/bottom-blowdown-systems/', text: '底部排污系统' },
+  //     { link: '/blowdown-vessels/', text: '排污罐' },
+  //     { link: '/sample-coolers/', text: '取样冷却器' },
+  //     { link: '/conductivity-meters/', text: '电导率测量仪' },
+  //     { link: '/flash-steam/', text: '闪蒸罐' },
+  //     { link: '/heat-recovery-systems/', text: '热回收系统' },
+  //   ],
+  // },
   {
     text: '换热产品解决方案',
     items: [
@@ -88,17 +100,10 @@ export const productMenus = [
     ],
   },
   {
-    text: '控制系统',
+    text: '洁净蒸汽产品',
     items: [
-      { link: '/control-valves/', text: '控制阀' },
-      { link: '/electric-actuators/', text: '电动执行器' },
-      { link: '/pneumatic-actuators/', text: '气动执行器' },
-      { link: '/pcas/', text: '定位器，控制器和感应器' },
-      { link: '/d-d-system/', text: '减温减压系统' },
-      { link: '/piston-valves/', text: '气动活塞角阀' },
-      { link: '/pressure-reducing/', text: '减压阀' },
-      { link: '/safety-valves/', text: '安全阀' },
-      { link: '/self-acting-controls/', text: '自作用温度控制系统' },
+      { link: '/clean-steam/', text: '洁净蒸汽发生器' },
+      { link: '/clean-steams/', text: '洁净蒸汽阀件' },
     ],
   },
 ]

@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 洁净蒸汽发生器
+category: 洁净蒸汽发生器
 imgs:
-  - /d/file/p/6b6a59fd91285223a3ddd46a6efb7171.jpg
   - /d/file/p/6b6a59fd91285223a3ddd46a6efb7171.jpg
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 电/气 本安型 ISP5定位器
+category: 控制系统,定位器，控制系统感应器
 imgs:
-  - /d/file/p/c1e7933156b9374cb97644428ded7e7b.jpg
   - /d/file/p/c1e7933156b9374cb97644428ded7e7b.jpg
 ---
 

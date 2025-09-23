@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 气动执行器
+category: 控制系统,气动执行器
 imgs:
-  - /d/file/p/6598977739023288cf843940f64e0795.jpg
   - /d/file/p/6598977739023288cf843940f64e0795.jpg
 ---
 

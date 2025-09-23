@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 蒸汽压力平衡式疏水阀
+category: 疏水阀,蒸汽压力平衡式疏水阀
 imgs:
-  - /d/file/p/2f997e746ee23a076f77d7f20d289f2c.jpg
   - /d/file/p/2f997e746ee23a076f77d7f20d289f2c.jpg
   - /d/file/p/b21cc3200ee89b0336c52b538bf1ffc1.jpg
 ---

@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: Spirax SafeBloc DBB3 双流双关波纹管密封截止阀
+category: 管道附件,密封波纹管截止阀
 imgs:
-  - /d/file/stop-valves/18ef9f2a9c1716edf882edcf9995252a.jpg
   - /d/file/stop-valves/18ef9f2a9c1716edf882edcf9995252a.jpg
 ---
 

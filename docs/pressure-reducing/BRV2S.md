@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: BRV2S球墨铸铁减压阀
+category: 控制系统,减压阀
 imgs:
-  - /d/file/pressure-reducing/b6ce2b02b0e236e03279e71f5143dfec.jpg
   - /d/file/pressure-reducing/b6ce2b02b0e236e03279e71f5143dfec.jpg
   - /d/file/pressure-reducing/a535832342a761b866b4df131a3c4c28.jpg
 ---

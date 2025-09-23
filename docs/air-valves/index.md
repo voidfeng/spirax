@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: 排空气阀
+category: 管道附件
 imgs:
-  - /d/file/p/cbfb8bee4066aaae09450489cc94e413.jpg
   - /d/file/p/cbfb8bee4066aaae09450489cc94e413.jpg
   - /d/file/p/531ab31dc3d6882fb5f56bce53616c1b.jpg
 ---

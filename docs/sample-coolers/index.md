@@ -3,7 +3,6 @@ layout: doc
 title: 取样冷却器
 imgs:
   - /d/file/p/875d563c735daa7647c1b4deefc1ab30.jpg
-  - /d/file/p/875d563c735daa7647c1b4deefc1ab30.jpg
 ---
 
 # 取样冷却器

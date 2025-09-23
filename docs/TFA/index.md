@@ -3,7 +3,6 @@ layout: doc
 title: TFA流量计
 imgs:
   - /d/file/p/9a8f0db0dff9e74d103087e9a9894085.jpg
-  - /d/file/p/9a8f0db0dff9e74d103087e9a9894085.jpg
   - /d/file/p/ba838b013d2e4130ef7486eab6bf9eb4.jpg
 ---
 

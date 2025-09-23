@@ -3,7 +3,6 @@ layout: doc
 title: 排污罐
 imgs:
   - /d/file/p/a9c69f40b537e131e669f076ea731faa.jpg
-  - /d/file/p/a9c69f40b537e131e669f076ea731faa.jpg
 ---
 
 # 排污罐

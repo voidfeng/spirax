@@ -1,8 +1,8 @@
 ---
 layout: doc
 title: FT14 浮球式蒸汽疏水阀 (法兰连接)
+category: 蒸汽疏水阀
 imgs:
-  - /d/file/ball/ae5eda81721f22beee2f397b31e59974.jpg
   - /d/file/ball/ae5eda81721f22beee2f397b31e59974.jpg
 ---
 

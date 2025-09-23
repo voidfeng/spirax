@@ -3,7 +3,6 @@ layout: doc
 title: 管道附件
 imgs:
   - /d/file/p/082ac1807e07dc7340ce3fb5e485fcd0.jpg
-  - /d/file/p/082ac1807e07dc7340ce3fb5e485fcd0.jpg
 ---
 
 # 管道附件
