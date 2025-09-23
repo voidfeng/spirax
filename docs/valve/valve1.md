@@ -1,6 +1,5 @@
 ---
 layout: doc
-title: [穆尼机械（中国）有限公司](/)
 imgs:
   - /skin/web/img/header_news.jpg
 ---
