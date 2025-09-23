@@ -2,150 +2,104 @@ import { DefaultTheme } from "vitepress"
 
 export const productMenus = [
   {
-    text: '蝶阀',
-    link: '/zh/products/蝶阀',
+    link: '/Products/crp-and-hr/',
+    text: '冷凝水泵及热量回收和蒸汽洁净产品',
     items: [
-      {
-        text: '三偏心',
-        link: '/zh/products/蝶阀/三偏心'
-      },
-      {
-        text: '弹性阀座式',
-        link: '/zh/products/蝶阀/弹性阀座式'
-      },
-      {
-        text: '高性能',
-        link: '/zh/products/蝶阀/高性能'
-      },
+      { link: '/pressure-powered-pumps/', text: '凝结水回收机械泵' },
+      { link: '/electric-pumps/', text: '电泵' },
+      { link: '/clean-steam-generator/', text: '洁净蒸汽发生器' },
+      { link: '/clean-steams/', text: '洁净蒸汽阀件' },
     ],
   },
   {
-    text: '球阀',
-    link: '/zh/products/球阀',
+    link: '/Products/Traps/',
+    text: '蒸汽疏水阀',
     items: [
-      {
-        text: '三段式',
-        link: '/zh/products/球阀/三段式'
-      },
-      {
-        text: '螺纹式',
-        link: '/zh/products/球阀/螺纹式'
-      },
-      {
-        text: '法兰式',
-        link: '/zh/products/球阀/法兰式'
-      },
-      {
-        text: '固定式',
-        link: '/zh/products/球阀/固定式'
-      },
-      {
-        text: '恶劣工况',
-        link: '/zh/products/球阀/恶劣工况'
-      },
-      {
-        text: '多端口',
-        link: '/zh/products/球阀/多端口'
-      },
-      {
-        text: '配件',
-        link: '/zh/products/球阀/配件'
-      }
-    ]
+      { link: '/ball/', text: '蒸汽浮球式疏水阀' },
+      { link: '/thermodynamic/', text: '蒸汽热动力疏水阀' },
+      { link: '/balanced-pressure/', text: '蒸汽压力平衡式疏水阀' },
+      { link: '/bimetallic/', text: '蒸汽双金属疏水阀' },
+      { link: '/fixed-temperature-discharge/', text: '固定排放温度疏水阀' },
+      { link: '/inverted-bucket/', text: '蒸汽倒吊桶式疏水阀' },
+      { link: '/steam-trap-performance/', text: '蒸汽疏水阀性能检测系统' },
+      { link: '/swivel-connectors/', text: '万向连接疏水阀' },
+      { link: '/sealed-steam-traps/', text: '密封型疏水阀' },
+      { link: '/manifolds-and-insulation-jackets/', text: '蒸汽分配及冷凝水收集管' },
+    ],
   },
   {
-    text: '刀闸阀',
-    link: '/zh/products/刀闸阀',
+    link: '/Products/air-traps/',
+    text: '压缩空气疏水阀和加湿器',
     items: [
-      {
-        text: '双向',
-        link: '/zh/products/刀闸阀/双向'
-      },
-      {
-        text: '单向',
-        link: '/zh/products/刀闸阀/单向'
-      },
-      {
-        text: '浆料',
-        link: '/zh/products/刀闸阀/浆料'
-      },
-    ]
+      { link: '/drain-traps/', text: '压缩空气疏水阀' },
+      { link: '/steam-injection-humidifiers/', text: '直接喷射式蒸汽加湿器' },
+    ],
   },
   {
-    text: '控制阀',
-    link: '/zh/products/控制阀',
+    link: '/Products/fittings/',
+    text: '管道附件',
     items: [
-      {
-        text: '球阀',
-        link: '/zh/products/控制阀/球阀'
-      },
-      {
-        text: '蝶阀',
-        link: '/zh/products/控制阀/蝶阀'
-      },
-    ]
+      { link: '/stop-valves/', text: '密封波纹管截止阀' },
+      { link: '/ball-valves/', text: '球阀' },
+      { link: '/check-valves/', text: '止回阀' },
+      { link: '/air-valves/', text: '排空气阀' },
+      { link: '/depressurisation-valves/', text: '泄压阀' },
+      { link: '/vacuum-breakers/', text: '真空破坏器' },
+      { link: '/separators/', text: '汽水分离器' },
+      { link: '/strainers/', text: '过滤器' },
+      { link: '/diffusers/', text: '消音器' },
+      { link: '/hosedown-stations/', text: '汽水混合站' },
+      { link: '/Pressure-gauge/', text: '压力表' },
+      { link: '/sight-glasses/', text: '观视镜' },
+    ],
   },
   {
-    text: '止回阀',
-    link: '/zh/products/止回阀',
+    link: '/flowmeter/',
+    text: '斯派莎克流量计',
     items: [
-      {
-        text: '止回阀',
-        link: '/zh/products/止回阀/止回阀'
-      },
-      {
-        text: '配件',
-        link: '/zh/products/止回阀/配件'
-      },
-    ]
+      { link: '/computers-displays/', text: '流量计算机、显示装置和变送器' },
+      { link: '/Gilflo-ILVA/', text: 'GilfloILVA流量计' },
+      { link: '/TFA/', text: 'TFA流量计' },
+      { link: '/TVA/', text: 'TVA流量计' },
+    ],
   },
   {
-    text: '执行机构',
-    link: '/zh/products/执行机构',
+    link: '/Boiler-Control-System/',
+    text: '锅炉控制系统-穆尼阀门',
     items: [
-      {
-        text: '电动执行机构',
-        link: '/zh/products/执行机构/电动执行机构'
-      },
-      {
-        text: '气动执行机构',
-        link: '/zh/products/执行机构/气动执行机构'
-      },
-      {
-        text: '液压执行机构',
-        link: '/zh/products/执行机构/液压执行机构'
-      },
-      {
-        text: '手操器',
-        link: '/zh/products/执行机构/手操器'
-      },
-    ]
+      { link: '/feedtanks/', text: '给水除氧箱' },
+      { link: '/vent-heads/', text: '排空帽' },
+      { link: '/steam-injectors/', text: '蒸汽喷射器' },
+      { link: '/level-controls/', text: '液位控制' },
+      { link: '/tds-blowdown-controls/', text: 'TDS排污控制' },
+      { link: '/bottom-blowdown-systems/', text: '底部排污系统' },
+      { link: '/blowdown-vessels/', text: '排污罐' },
+      { link: '/sample-coolers/', text: '取样冷却器' },
+      { link: '/conductivity-meters/', text: '电导率测量仪' },
+      { link: '/flash-steam/', text: '闪蒸罐' },
+      { link: '/heat-recovery-systems/', text: '热回收系统' },
+    ],
   },
   {
-    text: '控制配件',
-    link: '/zh/products/控制配件',
+    text: '换热产品解决方案',
     items: [
-      {
-        text: '接近式传感器',
-        link: '/zh/products/控制配件/接近式传感器'
-      },
-      {
-        text: '过滤调压阀',
-        link: '/zh/products/控制配件/过滤调压阀'
-      },
-      {
-        text: '定位器',
-        link: '/zh/products/控制配件/定位器'
-      },
-      {
-        text: '电磁线圈',
-        link: '/zh/products/控制配件/电磁线圈'
-      },
-      {
-        text: '开关盒',
-        link: '/zh/products/控制配件/开关盒'
-      },
-    ]
+      { link: '/heat-exchangers/', text: '蒸汽换热机组' },
+      { link: '/Quickheat/', text: 'Quickheat换热机组' },
+    ],
+  },
+  {
+    text: '控制系统',
+    items: [
+      { link: '/control-valves/', text: '控制阀' },
+      { link: '/electric-actuators/', text: '电动执行器' },
+      { link: '/pneumatic-actuators/', text: '气动执行器' },
+      { link: '/pcas/', text: '定位器，控制器和感应器' },
+      { link: '/d-d-system/', text: '减温减压系统' },
+      { link: '/piston-valves/', text: '气动活塞角阀' },
+      { link: '/pressure-reducing/', text: '减压阀' },
+      { link: '/safety-valves/', text: '安全阀' },
+      { link: '/self-acting-controls/', text: '自作用温度控制系统' },
+    ],
   },
 ]
 
