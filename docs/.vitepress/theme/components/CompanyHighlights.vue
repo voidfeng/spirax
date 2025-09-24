@@ -37,7 +37,7 @@ const highlights = [
     title: '全球服务网络',
     description: '在40多个国家和地区拥有分支机构，提供便捷服务',
     image: '/images/home-company-highlight2.jpg',
-    link: '/contact-us',
+    link: '/Contact',
   },
   {
     title: '定制解决方案',
@@ -49,7 +49,7 @@ const highlights = [
     title: '技术创新',
     description: '不断创新，引领流体控制技术的发展',
     image: '/images/home-company-highlight4.jpg',
-    link: '/contact-us',
+    link: '/Contact',
   },
 ]
 </script>

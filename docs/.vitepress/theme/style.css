@@ -318,6 +318,10 @@ body {
   display: none !important;
 }
 
+.VPDoc:not(.has-aside) .content {
+  max-width: initial !important;
+}
+
 /* 产品详情页样式 */
 .product-detail .aside-container {
   position: initial !important;
@@ -338,7 +342,7 @@ body {
     padding: 68px var(--content-padding) 128px;
   }
 
-  .VPNavBarMenu .VPNavBarMenuGroup:nth-last-child(3) {
+  .VPNavBarMenu .VPNavBarMenuGroup:nth-last-child(6) {
     display: none !important;
   }
 }

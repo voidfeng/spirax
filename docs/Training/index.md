@@ -1,17 +1,33 @@
+---
+sidebar: false
+aside: false
+outline: false
+---
 
-![培训](/d/file/p/2015-04-09/f96cfe755d5c98727572013b091a63d9.jpg)培训
+<HeroImage 
+  imageUrl="/d/file/p/2015-04-09/f96cfe755d5c98727572013b091a63d9.jpg"
+  title="培训"
+/>
+<br>
 
-o ensure that our customers, designers, installers and maintenance personnel are properly equipped with the skills to run Spirax Sarco steam systems as efficiently and effectively as possible, we have invested in an outstanding network of training and development facilities worldwide, dedicated to sharing our knowledge in steam system applications.
+# 课程体系
 
--   38 modern and extensively equipped training centres in key locations around the world
--   A long menu of specialist training courses, so there is certain to be one to suit you
--   Experienced training engineers with up-to-date skills and expertise
--   Courses cover both theoretical and practical education
--   Classroom and workshop exercises replicate and resolve all of the everyday issues you are likely to face
--   We also offer courses that can lead to internationally accredited qualifications.
+---
 
-## Services in your country
+<br>
 
-**Select your country**
+> 为了帮助我们的客户、设计师、安装及维护人员充分掌握专业技能，确保斯派莎克（Spirax Sarco）蒸汽系统得以最高效、可靠地运行，我们倾力投入，构建了覆盖全球的卓越培训网络，致力于分享我们在蒸汽系统应用领域的专业知识与丰富经验。
 
-International
+我们拥有：
+
+- 全球化的培训网络：在全球核心区域设有38家现代化培训中心，均配备了先进完善的教学设施。
+
+- 多样化的课程选择：我们提供内容丰富的专业培训课程，总有一款能精准匹配您的需求。
+
+- 顶尖的专家团队：由经验丰富、掌握前沿技能与专业知识的培训工程师亲自授课。
+
+- 理论与实践的融合：课程设计兼顾理论教学与实践操作，确保您能学以致用。
+
+- 聚焦实际问题解决：通过课堂研讨和工场实操，模拟并解决您在日常工作中可能遇到的各类挑战。
+
+此外，我们还提供可助您获得国际权威认证资质的专业课程。

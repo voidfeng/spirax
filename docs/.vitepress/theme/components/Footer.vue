@@ -4,8 +4,12 @@
     <div class="footer-top bg-primary text-white py-12">
       <div class="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
         <div class="footer-info mb-4 md:mb-0">
-          <div class="text-base font-bold font-italic">First for  Steam Solutions</div>
-          <div class="text-2xl mt-1 font-bold">专业的产品质量、技术支持、服务</div>
+          <div class="text-4 font-bold font-italic tracking-widest">
+            First &nbsp;for&nbsp; Steam &nbsp;Solutions
+          </div>
+          <div class="text-3 mt-1 font-bold tracking-widest">
+            EXPERTISE &nbsp;| &nbsp;SOLUTIONS&nbsp; |&nbsp; SUSTAINABILITY
+          </div>
         </div>
         <div>
           <a
