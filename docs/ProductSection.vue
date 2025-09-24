@@ -5,7 +5,7 @@
         <div class="text-base font-bold text-primary">信誉和认证</div>
         <div class="text-4xl font-bold mb-3">最新产品</div>
         <p class="text-sm text-gray-600 dark:text-gray-300 mx-auto mb-10">
-          产品的质量保证体系适用于我们的所有流程及产品。我们的质量管理程序确保交付的每件产品均能达到或超过客户要求的质量水准。
+          我们的行业领先解决方案建立在最广泛、创新且能无缝协作的蒸汽和流体处理产品组合之上，能够以最低运营成本满足您的需求，同时提供行业领先的保修和持续的系统高效支持。
         </p>
       </div>
 

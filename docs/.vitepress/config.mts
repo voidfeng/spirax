@@ -88,10 +88,10 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'facebook', link: 'https://www.facebook.com/BrayInternational/' },
-      { icon: 'x', link: 'https://www.braycn.com/#' },
-      { icon: 'linkedin', link: 'https://www.linkedin.com/company/bray-controls/' },
-      { icon: 'youtube', link: 'https://www.youtube.com/c/BrayInt' },
+      { icon: 'facebook', link: 'https://www.facebook.com/spiraxsarco' },
+      { icon: 'instagram', link: 'https://www.instagram.com/spirax_sarco/' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/company/spirax-sarco/' },
+      { icon: 'youtube', link: 'https://www.youtube.com/spiraxsarco' },
     ],
 
     // 添加本地搜索配置

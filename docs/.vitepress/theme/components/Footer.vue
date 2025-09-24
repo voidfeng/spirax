@@ -4,7 +4,7 @@
     <div class="footer-top bg-primary text-white py-12">
       <div class="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
         <div class="footer-info mb-4 md:mb-0">
-          <div class="text-base font-bold">全球超过40家分支机构</div>
+          <div class="text-base font-bold font-italic">First for  Steam Solutions</div>
           <div class="text-2xl mt-1 font-bold">专业的产品质量、技术支持、服务</div>
         </div>
         <div>
