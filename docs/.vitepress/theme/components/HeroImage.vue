@@ -1,5 +1,5 @@
 <template>
-  <div class="hero-image">
+  <div class="hero-image h-30 md:h-55">
     <img :src="imageUrl" :alt="title" class="hero-image__img" />
     <div class="hero-image__overlay">
       <h2 class="hero-image__title">{{ title }}</h2>
@@ -20,7 +20,6 @@ defineProps<Props>()
 .hero-image {
   position: relative;
   width: 100%;
-  height: 220px;
   overflow: hidden;
   margin: 24px 0;
 }

@@ -109,7 +109,7 @@ const desc = computed(() => {
   </div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .product-detail-container {
   display: flex;
   flex-wrap: wrap;
@@ -136,7 +136,7 @@ const desc = computed(() => {
 }
 
 .product-image img {
-  max-width: 100%;
+  max-width: initial;
   height: 350px;
   border-radius: 4px;
   box-shadow: none;

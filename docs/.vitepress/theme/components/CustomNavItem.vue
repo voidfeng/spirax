@@ -3,8 +3,7 @@ import { ref } from 'vue'
 import { productMenus } from '../config'
 
 const showProductMenu = ref(false)
-let timer: NodeJS.Timeout | null = null
-
+let timer: number | null = null
 
 function onOpen() {
   if (timer) {
@@ -25,19 +24,15 @@ function onMenuLeave() {
 </script>
 
 <template>
-  <div class="custom-nav-item"
-   @mouseenter="onOpen"
-   @mouseleave="onMenuLeave"
-   @click="showProductMenu = !showProductMenu"
+  <div
+    class="custom-nav-item"
+    @mouseenter="onOpen"
+    @mouseleave="onMenuLeave"
+    @click="showProductMenu = !showProductMenu"
   >
     <span class="nav-text">产品</span>
   </div>
-  <div 
-    v-if="showProductMenu" 
-    class="nav-content" 
-    @mouseenter="onOpen"
-    @mouseleave="onClose"
-  >
+  <div v-if="showProductMenu" class="nav-content" @mouseenter="onOpen" @mouseleave="onClose">
     <div class="nav-content-container">
       <div class="product-menu-layout">
         <div v-for="menu in productMenus" :key="menu.text" class="product-category">
@@ -46,7 +41,9 @@ function onMenuLeave() {
           </h3>
           <div class="sub-menu-list">
             <div v-for="item in menu.items" :key="item.text" class="sub-menu-item">
-              <a v-if="item.link" :href="item.link" class="sub-menu-link" @click="onClose">{{ item.text }}</a>
+              <a v-if="item.link" :href="item.link" class="sub-menu-link" @click="onClose">{{
+                item.text
+              }}</a>
               <span v-else class="sub-menu-text">{{ item.text }}</span>
             </div>
           </div>
@@ -56,10 +53,10 @@ function onMenuLeave() {
   </div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 @media (min-width: 960px) {
   .nav-content-container {
-      padding: 0 64px;
+    padding: 0 64px;
   }
 }
 .custom-nav-item {
@@ -146,4 +143,4 @@ function onMenuLeave() {
 .sub-menu-text {
   color: var(--vp-c-text-3);
 }
-</style> 
+</style>

@@ -2,7 +2,7 @@ import { DefaultTheme } from 'vitepress'
 
 export const productMenus = [
   {
-    link: '/Products/Traps/',
+    // link: '/Products/Traps/',
     text: '蒸汽疏水阀',
     items: [
       { link: '/ball/', text: '蒸汽浮球式疏水阀' },

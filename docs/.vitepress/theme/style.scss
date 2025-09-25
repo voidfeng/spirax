@@ -348,6 +348,12 @@ body {
 }
 
 @media (max-width: 768px) {
+  .VPNav .VPNavBar .container {
+    padding: 0;
+  }
+  .VPNavBarSearch {
+    margin-left: 0;
+  }
   .custom-top-bar {
     display: none;
   }
@@ -436,4 +442,43 @@ img:not(.custom-img) {
 
 .dark .vp-doc a:hover {
   color: #5c73e7;
+}
+
+/* 8. NProgress 进度条样式 */
+/* 自定义 NProgress 样式以匹配网站主题 */
+#nprogress .bar {
+  background: #4c5af3 !important;
+  height: 3px !important;
+  z-index: 999999 !important;
+}
+
+#nprogress .peg {
+  box-shadow:
+    0 0 10px #4c5af3,
+    0 0 5px #4c5af3 !important;
+}
+
+#nprogress .spinner-icon {
+  border-top-color: var(--vp-c-brand-1) !important;
+  border-left-color: var(--vp-c-brand-1) !important;
+}
+
+/* 确保进度条在最顶层 */
+#nprogress {
+  pointer-events: none;
+}
+
+#nprogress .bar {
+  position: fixed;
+  top: var(--top-bar-height);
+  left: 0;
+  width: 100%;
+  height: 2px;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+  #nprogress .bar {
+    top: 0;
+  }
 }
