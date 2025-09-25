@@ -1,11 +1,12 @@
 ---
-layout: doc
 title: 蒸汽浮球式疏水阀
-category: 蒸汽疏水阀
+category: 蒸汽疏水阀,浮球式疏水阀,蒸汽疏水阀
 imgs:
   - /d/file/p/cfbc373ef6f4774d96a031976724b4ae.jpg
   - /d/file/p/6f6d61da676cb747b7e49346fa5f1c11.jpg
-  - http://www.spiraxsarco.org/d/file/z/Ball_Float_large.gif
+aside: false
+outline: false
+pageType: list
 ---
 
 # 蒸汽浮球式疏水阀
@@ -19,20 +20,4 @@ imgs:
 - 对于自动温度控制的设备，浮球疏水阀是最佳选择。
 - 标准产品内置排空气阀，并可提供破汽锁装置。
 
-#### 产品种类
-
-[![](http://www.spiraxsarco.org/d/file/z/Ball_Float_large.gif)](/d/file/z/Ball_Float_large.gif '斯派莎克浮球式疏水阀尺寸')
-
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [FT12 铸铁材质浮球/孔蒸汽疏水阀应用于高排量场合](/ball/FT12 'FT12 铸铁材质浮球/孔蒸汽疏水阀应用于高排量场合')
-- [FT14 浮球式蒸汽疏水阀 (法兰连接)](/ball/FT14rf 'FT14 浮球式蒸汽疏水阀 (法兰连接)')
-- [FT14 浮球式蒸汽疏水阀 (螺纹连接)](/ball/FT14sc 'FT14 浮球式蒸汽疏水阀 (螺纹连接)')
-- [FT14HC 浮球式蒸汽疏水阀](/ball/57 'FT14HC 浮球式蒸汽疏水阀')
-- [FT43 铸铁材质浮球式蒸汽疏水阀](/ball/58 'FT43 铸铁材质浮球式蒸汽疏水阀')
-- [FT44 碳钢材质浮球式蒸汽疏水阀](/ball/59 'FT44 碳钢材质浮球式蒸汽疏水阀')
-- [UFT32不锈钢材质密封型 浮球式蒸汽疏水阀](/ball/104 'UFT32不锈钢材质密封型 浮球式蒸汽疏水阀')
+<AllProducts category="蒸汽疏水阀,浮球式疏水阀" />

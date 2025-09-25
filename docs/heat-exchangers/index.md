@@ -5,9 +5,10 @@ category: 换热产品解决方案,蒸汽换热机组
 imgs:
   - /d/file/p/2f422e90d32ca66bf53a501175ced7c8.jpg
   - /d/file/p/0713b884f484aa1d10c80db55d622614.jpg
+sidebar: false
+aside: false
+outline: false
 ---
-
-# 蒸汽换热机组
 
 斯派莎克蒸汽换热机组轻松实现热量从一次侧蒸汽至二次侧水介质的高效传递。两种主要的“汽-水”热交换器为管壳式换热器和板式换热器。
 

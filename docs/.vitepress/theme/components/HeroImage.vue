@@ -22,7 +22,7 @@ defineProps<Props>()
   width: 100%;
   height: 220px;
   overflow: hidden;
-  margin-top: 24px;
+  margin: 24px 0;
 }
 
 .hero-image__img {

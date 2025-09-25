@@ -1,9 +1,12 @@
 ---
 layout: doc
 title: 固定排放温度疏水阀
-category: 疏水阀,固定排放温度疏水阀
+category: 蒸汽疏水阀,固定排放温度疏水阀
 imgs:
   - /d/file/p/2dcc78ce052be03616dfa5d9ec426e41.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 固定排放温度疏水阀

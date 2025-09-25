@@ -4,9 +4,10 @@ title: 消音器
 category: 管道附件,消音器
 imgs:
   - /d/file/p/0b6c8723c244c17b46ea2b26bca36663.jpg
+sidebar: false
+aside: false
+outline: false
 ---
-
-# 消音器
 
 在直排大气时，创造安全安静的环境，满足健康，环境的要求。
 

@@ -1,8 +1,12 @@
 ---
 layout: doc
 title: 洁净蒸汽产品
+category: 洁净蒸汽产品
 imgs:
   - /d/file/p/2e558838982ba5fcb02c6d1f5220b497.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 洁净蒸汽产品

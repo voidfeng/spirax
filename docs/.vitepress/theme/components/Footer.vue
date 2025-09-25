@@ -1,7 +1,7 @@
 <template>
   <div class="footer full-width-container">
     <!-- 上半部分 - 主题色背景 -->
-    <div class="footer-top bg-primary text-white py-12">
+    <div class="footer-top text-white py-12">
       <div class="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
         <div class="footer-info mb-4 md:mb-0">
           <div class="text-4 font-bold font-italic tracking-widest">
@@ -37,5 +37,8 @@ const currentYear = new Date().getFullYear()
 <style scoped>
 .footer {
   margin-top: 2rem;
+}
+.footer-top {
+  background-color: var(--vp-c-brand-1);
 }
 </style>

@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: FT14 浮球式蒸汽疏水阀 (螺纹连接)
-category: 蒸汽疏水阀
+category: 蒸汽疏水阀,浮球式疏水阀
 imgs:
   - /d/file/ball/f06f5586902852139c4b69202cb1660a.jpg
 ---

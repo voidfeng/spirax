@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: 热动力型蒸汽TD16和TD16F疏水阀
-category: 疏水阀,热动力疏水阀
+category: 蒸汽疏水阀,热动力疏水阀
 imgs:
   - /d/file/thermodynamic/ef8e1cd3fea3d3acceecf55845508eb6.jpg
 ---

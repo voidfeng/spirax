@@ -1,9 +1,12 @@
 ---
 layout: doc
 title: 万向连接疏水阀
-category: 疏水阀,万向连接疏水阀
+category: 蒸汽疏水阀,万向连接疏水阀
 imgs:
   - /d/file/p/2dbd1069e1ad2d4e41cf685221615bda.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 万向连接疏水阀

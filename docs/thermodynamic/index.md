@@ -1,10 +1,13 @@
 ---
 layout: doc
 title: 蒸汽热动力疏水阀
-category: 疏水阀,热动力疏水阀
+category: 蒸汽疏水阀,热动力疏水阀
 imgs:
   - /d/file/p/8182ba76707f2072a3e492d01908e47e.jpg
   - /d/file/p/42ffb94722a73c44533d4d83df8af70b.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 蒸汽热动力疏水阀
@@ -19,12 +22,4 @@ imgs:
 - 可用于过热蒸汽
 - 有各种不同的型号，可选择螺纹、法兰、焊接等连接方式。
 
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [热动力型蒸汽TD16和TD16F疏水阀](/thermodynamic/TD16F.html '热动力型蒸汽TD16和TD16F疏水阀')
-- [TD25和TD25F 热动力型蒸汽疏水阀](/thermodynamic/TD25F.html 'TD25和TD25F 热动力型蒸汽疏水阀')
-- [BTD52L 热动力型蒸汽疏水阀](/thermodynamic/BTD52L.html 'BTD52L 热动力型蒸汽疏水阀')
+<AllProducts category="蒸汽疏水阀,热动力疏水阀" />

@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Airodyn 压缩空气疏水阀
-category: 压缩空气疏水阀
+category: 压缩空气疏水阀和加湿器,压缩空气疏水阀
 imgs:
   - /d/file/drain-traps/f340825adcd38c43d9e093a7491acbde.jpg
 ---

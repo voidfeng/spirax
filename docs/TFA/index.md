@@ -4,6 +4,9 @@ title: TFA流量计
 imgs:
   - /d/file/p/9a8f0db0dff9e74d103087e9a9894085.jpg
   - /d/file/p/ba838b013d2e4130ef7486eab6bf9eb4.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # TFA流量计
@@ -22,9 +25,7 @@ TFA流量计-用于饱和蒸汽的计量专家
 - [技术信息]
 - [安装和维修指南]
 
-- [TFA流量计-专用于饱和蒸汽的计量](http://7xkry5.com1.z0.glb.clouddn.com/SB-P193-05-TFA流量计-专用于饱和蒸汽的计量.pdf)\_SB-P193-05\_\
-- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/TI-P193-01-TFA%20饱和蒸汽流量计.pdf)\_TI-P193-01\_\
-
-- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/TI-P193-01-TFA%20饱和蒸汽流量计.pdf)\_TI-P193-01\_\
-
-- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/IM-P193-02-TFA饱和蒸汽流量计.pdf)\_IM-P193-02\_\
+- [TFA流量计-专用于饱和蒸汽的计量](http://7xkry5.com1.z0.glb.clouddn.com/SB-P193-05-TFA流量计-专用于饱和蒸汽的计量.pdf)
+- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/TI-P193-01-TFA%20饱和蒸汽流量计.pdf)
+- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/TI-P193-01-TFA%20饱和蒸汽流量计.pdf)
+- [TFA 饱和蒸汽流量计](http://7xkry5.com1.z0.glb.clouddn.com/IM-P193-02-TFA饱和蒸汽流量计.pdf)

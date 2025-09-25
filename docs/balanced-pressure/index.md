@@ -1,10 +1,13 @@
 ---
 layout: doc
 title: 蒸汽压力平衡式疏水阀
-category: 疏水阀,蒸汽压力平衡式疏水阀
+category: 蒸汽疏水阀,蒸汽压力平衡式疏水阀
 imgs:
   - /d/file/p/2f997e746ee23a076f77d7f20d289f2c.jpg
   - /d/file/p/b21cc3200ee89b0336c52b538bf1ffc1.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 蒸汽压力平衡式疏水阀
@@ -22,10 +25,4 @@ imgs:
   。- 出口朝上可作为蒸汽排气阀。
 - 保质一年。
 
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [MST21不锈钢材质压力平衡式热静力型蒸汽疏水阀](/balanced-pressure/MST21.html 'MST21不锈钢材质压力平衡式热静力型蒸汽疏水阀')
+<AllProducts category="蒸汽疏水阀,蒸汽压力平衡式疏水阀" />

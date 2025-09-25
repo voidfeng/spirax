@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: MST21不锈钢材质压力平衡式热静力型蒸汽疏水阀
-category: 疏水阀,蒸汽压力平衡式疏水阀
+category: 蒸汽疏水阀,蒸汽压力平衡式疏水阀
 imgs:
   - /d/file/balanced-pressure/f8109ceed121ce0dc839ef283cd590ee.jpg
 ---

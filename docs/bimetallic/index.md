@@ -1,9 +1,12 @@
 ---
 layout: doc
 title: 蒸汽双金属疏水阀
-category: 疏水阀,蒸汽双金属疏水阀
+category: 蒸汽疏水阀,蒸汽双金属疏水阀
 imgs:
   - /d/file/p/eca060627eef5adcd317bf538e763f8a.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 蒸汽双金属疏水阀
@@ -12,10 +15,4 @@ imgs:
 
 双金属型疏水阀能抵抗水击作用。依靠钛质阀瓣和阀座，双金属型疏水阀确保在过热蒸汽系统恶劣环境仍保持超长使用寿命。
 
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [SM45双金属式蒸汽疏水阀](/bimetallic/SM45.html 'SM45双金属式蒸汽疏水阀')
+<AllProducts category="蒸汽疏水阀,蒸汽双金属疏水阀" />

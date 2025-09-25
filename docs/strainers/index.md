@@ -6,9 +6,10 @@ imgs:
   - /d/file/p/87a4d3412392f89e00f977049fb5f237.jpg
   - /d/file/p/e1a680b8b1961d2ec9375e25728928f2.jpg
   - /d/file/p/181b9007dfb78c90db5d2a417da57582.jpg
+sidebar: false
+aside: false
+outline: false
 ---
-
-# 过滤器
 
 顾名思义，过滤器是在管道系统中用于过滤颗粒物质。虽然大部分的功劳都归属于蒸汽疏水阀，但对于一个良好设计系统的有效运转而言，过滤器也同样起着重要作用。
 
@@ -16,11 +17,4 @@ imgs:
 
 斯派莎克Y型过滤器由铸铁、碳钢、铬钼、锻钢、不锈钢、青铜等制造。利用螺纹、承插焊或法兰来连接，斯派莎克T型过滤器由不锈钢制造。
 
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [Fig33 Y型过滤器](/strainers/FIG33.html 'Fig33 Y型过滤器')
-- [Fig12 Y型过滤器](/strainers/FIG12.html 'Fig12 Y型过滤器')
+<AllProducts category="管道附件,过滤器" />

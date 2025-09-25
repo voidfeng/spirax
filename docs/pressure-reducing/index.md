@@ -5,6 +5,9 @@ category: 控制系统,减压阀
 imgs:
   - /d/file/p/ece15da7fdd96e09fe82293a2874a6a8.jpg
   - /d/file/p/2015-05-06/25ea6acd18906e00e05b2a8494325d8b.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 减压阀
@@ -25,12 +28,4 @@ imgs:
 - 直接作用式减压阀
 - 导阀型隔膜式减压阀
 
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [25P导阀型减压阀](/pressure-reducing/25P.html '25P导阀型减压阀')
-- [BRV2S球墨铸铁减压阀](/pressure-reducing/BRV2S.html 'BRV2S球墨铸铁减压阀')
-- [GP-2000减压阀 GP-2000EN导阀型减压阀](/pressure-reducing/105.html 'GP-2000减压阀 GP-2000EN导阀型减压阀')
+<AllProducts category="控制系统,减压阀" />

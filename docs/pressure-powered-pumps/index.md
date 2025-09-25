@@ -5,9 +5,10 @@ category: 冷凝水回收及热量回收
 imgs:
   - /d/file/p/0dbbfe432e7f2b85fa0b1d85078e9e0c.jpg
   - /d/file/p/707f851ca23715676e9456c34d986b2b.jpg
+sidebar: false
+aside: false
+outline: false
 ---
-
-# 凝结水回收机械泵
 
 凝结水回收是节约能源和维修保养费用的有效途径。凝结水具有两个特性，一是它已经经过水处理，其二是它含有大量的热能。因而回收凝结水可以：
 
@@ -30,11 +31,4 @@ c：最重要的是节约预热锅炉给水的能量。
 - 泵送高温冷凝水而不会产生气蚀，减少维护问题。
 - 也可用于泵送其它工业流体。
 
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [APT10和APT14自动疏水阀泵](/pressure-powered-pumps/APT10-APT14.html 'APT10和APT14自动疏水阀泵')
-- [MFP14-PPU 冷凝水泵](/pressure-powered-pumps/MFP14-PPU.html 'MFP14-PPU 冷凝水泵')
+<AllProducts category="冷凝水回收及热量回收" />

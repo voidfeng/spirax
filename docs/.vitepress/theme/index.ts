@@ -5,6 +5,7 @@ import './style.css'
 import CustomNavItem from './components/CustomNavItem.vue'
 import HeroImage from './components/HeroImage.vue'
 import ProductLayout from './ProductLayout.vue'
+import AllProducts from './components/AllProducts.vue'
 
 // 导入 polyfills
 import './polyfills'
@@ -20,5 +21,6 @@ export default {
     app.component('CustomNavItem', CustomNavItem)
     // 注册Hero图片组件
     app.component('HeroImage', HeroImage)
+    app.component('AllProducts', AllProducts)
   },
 } satisfies Theme

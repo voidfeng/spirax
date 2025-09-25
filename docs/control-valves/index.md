@@ -4,6 +4,9 @@ title: 控制阀
 category: 控制系统,控制阀
 imgs:
   - /d/file/p/8bec53e2a6180f4cbff7093273a44376.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 控制阀
@@ -14,10 +17,4 @@ imgs:
 
 提供等百分比、线性和快开三种流动特性，以及V型PTFE、石墨和波纹管三种阀杆密封选择，阀体最高 设计条件为ANSI600。同时有螺纹、法兰、焊接、卡箍等多种连接方式可供选择。
 
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [KE73 PN16二通控制阀（DN15-DN100）](/control-valves/KE73.html 'KE73 PN16二通控制阀（DN15-DN100）')
+<AllProducts category="控制系统,控制阀" />

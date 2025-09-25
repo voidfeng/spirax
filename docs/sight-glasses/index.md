@@ -4,9 +4,10 @@ title: 观视镜
 category: 管道附件,观视镜
 imgs:
   - /d/file/p/2b701ca3744a7cd45b2ac66abe652499.jpg
+sidebar: false
+aside: false
+outline: false
 ---
-
-# 观视镜
 
 观视镜可通过目测快速检查你的系统。
 
@@ -16,11 +17,4 @@ imgs:
 - 用于观察连续流动的流体变化
 - 适合观察连续流动情况
 
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [SG13观视镜，黄铜材质](/sight-glasses/SG13.html 'SG13观视镜，黄铜材质')
-- [SG253观视镜](/sight-glasses/SG253.html 'SG253观视镜')
+<AllProducts category="管道附件,观视镜" />

@@ -4,9 +4,10 @@ title: Quickheat换热机组
 category: 换热产品解决方案,Quickheat换热机组
 imgs:
   - /d/file/p/833ddb5a8cfef3a1bab9935b1dd1d9a4.jpg
+sidebar: false
+aside: false
+outline: false
 ---
-
-# Quickheat换热机组
 
 斯派莎克QUICKHEAT机组使用蒸汽作为热源，对低温热水系统、制程热水进行精确的加热控制。不同型号的系统可提供50-10,000kw的负载。可使用蒸汽侧控制或冷凝水侧控制方式。
 

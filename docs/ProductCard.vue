@@ -42,17 +42,6 @@ defineProps({
 .product-image {
   position: relative;
 }
-
-.product-image::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 15px;
-  background: linear-gradient(to top, rgba(255,255,255,0.7), transparent);
-}
-
 :deep(.dark) .product-image::after {
   background: linear-gradient(to top, rgba(55,65,81,0.7), transparent);
 }

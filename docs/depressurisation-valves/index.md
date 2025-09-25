@@ -4,9 +4,10 @@ title: 泄压阀
 category: 管道附件,泄压阀
 imgs:
   - /d/file/p/810cb4e536a4f2fe49662a3e6a020f0b.jpg
+sidebar: false
+aside: false
+outline: false
 ---
-
-# 泄压阀
 
 各种类型的泄压阀可满足您的需求。
 

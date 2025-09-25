@@ -4,6 +4,9 @@ title: 流量计算机、显示装置和变送器
 imgs:
   - /d/file/p/28a1b17b41a9fc669a8f86cd0a19a563.jpg
   - /d/file/p/ddfc37b980fdcd267172834587bce4f8.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 流量计算机、显示装置和变送器

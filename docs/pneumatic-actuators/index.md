@@ -4,6 +4,9 @@ title: 气动执行器
 category: 控制系统,气动执行器
 imgs:
   - /d/file/p/6598977739023288cf843940f64e0795.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 气动执行器
@@ -14,10 +17,4 @@ imgs:
 
 提供常开和常闭以及用于双向流动防水锤的特殊型号。有三种不同尺寸的执行器用于不同的应用。其他可供选择包括：流量调节器，电感行程开关，直接安装的电磁导阀。
 
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [BVA300 系列气动执行器用于Spirax Sarco 球阀](/pneumatic-actuators/BAV300.html 'BVA300 系列气动执行器用于Spirax Sarco 球阀')
+<AllProducts category="控制系统,气动执行器" />

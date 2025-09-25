@@ -4,9 +4,10 @@ title: 直接喷射式蒸汽加湿器
 category: 加湿器,直接喷射式蒸汽加湿器
 imgs:
   - /d/file/p/15a2709ac370ae9823de55ba622d29d1.jpg
+sidebar: false
+aside: false
+outline: false
 ---
-
-# 直接喷射式蒸汽加湿器
 
 保持一定的空气湿度不仅有益于人体健康，而且在许多工业流程中同样重要。从涂料业到造纸业，从食品业到电脑制造业等等，都需要精确的控制空气的湿度。
 

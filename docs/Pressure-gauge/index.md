@@ -4,9 +4,10 @@ title: 压力表
 category: 管道附件,压力表
 imgs:
   - /d/file/p/029dbaffddb8da69340c62cb668af4cf.jpg
+sidebar: false
+aside: false
+outline: false
 ---
-
-# 压力表
 
 斯派莎克压力表有多种压力量程，表盘直径100毫米，单位是bar和Mpa。最大设计条件PN25，最大设 计温度217℃有两种类型可供选择：环形弯管和旋塞阀与U形弯管和旋塞阀。
 
@@ -18,5 +19,3 @@ imgs:
 - [产品列表]
 - [技术信息]
 - [安装和维修指南]
-
-- [带虹吸管和旋塞阀的BSP/NPT及洁净型压力表](#)

@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: CA44与CA44S 碳钢材质空气和气体系统疏水阀
-category: 压缩空气疏水阀
+category: 压缩空气疏水阀和加湿器,压缩空气疏水阀
 imgs:
   - /d/file/drain-traps/c54c34c34d499ceec49562b67e745092.jpg
 ---

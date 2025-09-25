@@ -87,10 +87,60 @@ function extractImages(content: string): string[] {
 }
 
 export default {
-  watch: ['../../products/**/*.md'],
+  watch: [
+    './Products/Traps/**/*.md',
+    './ball/**/*.md',
+    './thermodynamic/**/*.md',
+    './balanced-pressure/**/*.md',
+    './bimetallic/**/*.md',
+    './fixed-temperature-discharge/**/*.md',
+    './inverted-bucket/**/*.md',
+    './steam-trap-performance/**/*.md',
+    './swivel-connectors/**/*.md',
+    './sealed-steam-traps/**/*.md',
+    './manifolds-and-insulation-jackets/**/*.md',
+    './control-valves/**/*.md',
+    './electric-actuators/**/*.md',
+    './pneumatic-actuators/**/*.md',
+    './pcas/**/*.md',
+    './d-d-system/**/*.md',
+    './piston-valves/**/*.md',
+    './pressure-reducing/**/*.md',
+    './safety-valves/**/*.md',
+    './self-acting-controls/**/*.md',
+    './Products/fittings/**/*.md',
+    './stop-valves/**/*.md',
+    './ball-valves/**/*.md',
+    './check-valves/**/*.md',
+    './air-valves/**/*.md',
+    './depressurisation-valves/**/*.md',
+    './vacuum-breakers/**/*.md',
+    './separators/**/*.md',
+    './strainers/**/*.md',
+    './diffusers/**/*.md',
+    './hosedown-stations/**/*.md',
+    './Pressure-gauge/**/*.md',
+    './sight-glasses/**/*.md',
+    './flowmeter/**/*.md',
+    './computers-displays/**/*.md',
+    './Gilflo-ILVA/**/*.md',
+    './TFA/**/*.md',
+    './TVA/**/*.md',
+    './Products/crp-and-hr/**/*.md',
+    './pressure-powered-pumps/**/*.md',
+    './electric-pumps/**/*.md',
+    './Products/air-traps/**/*.md',
+    './drain-traps/**/*.md',
+    './steam-injection-humidifiers/**/*.md',
+    './heat-exchangers/**/*.md',
+    './Quickheat/**/*.md',
+    './clean-steam/**/*.md',
+    './clean-steams/**/*.md'
+  ],
   load(watchedFiles) {
-    // 读取所有md文件
+    // 读取所有md文件，但忽略index.md文件
     return watchedFiles
+      .filter((file) => !file.endsWith('/index.md'))
       .map((file) => {
         const content = readFileSync(file, 'utf-8')
         const { name, dir } = parse(file)
@@ -102,7 +152,7 @@ export default {
             .replace(/^博雷/, '')
             .replace(/^bray博雷/, ''),
           images,
-          url: file.replace(/^docs/, '').replace(/index\.md$/, ''),
+          url: file.replace(/^docs/, '').replace(/\.md$/, '.html'),
           category: content.match(/category: (.*)/)?.[1].split(';') || [],
         }
       })

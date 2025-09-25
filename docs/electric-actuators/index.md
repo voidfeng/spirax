@@ -5,6 +5,9 @@ category: 控制系统,电动执行器
 imgs:
   - /d/file/p/eb4167197eee45b38d43bda1ae6e561c.jpg
   - /d/file/p/bf0b775c77d3ec88ad5cc42a7e599651.jpg
+sidebar: false
+aside: false
+outline: false
 ---
 
 # 电动执行器
@@ -13,11 +16,4 @@ imgs:
 
 新推出的AEL6系列执行器为智能型产品，丰富的产品功能为用户带来了全新的体验。
 
-**部分产品和服务只在特定地区提供.**
-
-- [产品列表]
-- [技术信息]
-- [安装和维修指南]
-
-- [电动EL4611执行器 - 用于DN15-DN50控制阀](/electric-actuators/EL4611.html '电动EL4611执行器 - 用于DN15-DN50控制阀')
-- [电动EL4613执行器 - 用于DN15-DN50控制阀](/electric-actuators/EL4613.html '电动EL4613执行器 - 用于DN15-DN50控制阀')
+<AllProducts category="控制系统,电动执行器" />

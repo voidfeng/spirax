@@ -11,7 +11,7 @@
 
 /* 1. 变量定义 */
 :root {
-  --vp-c-brand-1: #0f2c6e;
+  --vp-c-brand-1: #2b3495;
   --vp-c-brand-2: #0055b8;
   --vp-c-brand-3: #df0a0a;
   --vp-nav-logo-height: 36px;
@@ -431,7 +431,7 @@ img:not(.custom-img) {
 }
 
 .dark .vp-doc a {
-  color: #a8b1ff;
+  color: #4c5af3;
 }
 
 .dark .vp-doc a:hover {
