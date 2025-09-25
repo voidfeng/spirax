@@ -1,8 +1,6 @@
 <script setup lang="ts">
 import { data } from '../../../api.data'
 
-console.log(data)
-
 const props = defineProps<{
   category: string
 }>()
