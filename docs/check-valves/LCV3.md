@@ -33,4 +33,4 @@ DN20, DN25, DN32, DN40, DN50, DN65, DN80和DN100
 - [技术信息]
 - [安装和维修指南]
 
-- [LCV3, LCV4, LCV6和LCV7 升降式止回阀](/d/pdf/TI-P029-16-LCV3,%20LCV4,%20LCV6和LCV7%20升降式止回阀.pdf)\_TI-P029-16\_\
+- [LCV3, LCV4, LCV6和LCV7 升降式止回阀](https://assets.spiraxvalve.com/pdf/TI-P029-16-LCV3,%20LCV4,%20LCV6和LCV7%20升降式止回阀.pdf)\_TI-P029-16\_\

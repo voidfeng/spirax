@@ -30,6 +30,6 @@ FIG33过滤器应按阀体上流向箭头所示安装在水平或流向向下的
 - [技术信息]
 - [安装和维修指南]
 
-- [Fig33Y型过滤器](/d/pdf/TI-S60-03-Fig33%20铸铁过滤器.pdf)\_TI-S60-03\_\
+- [Fig33Y型过滤器](https://assets.spiraxvalve.com/pdf/TI-S60-03-Fig33%20铸铁过滤器.pdf)\_TI-S60-03\_\
 
-- [FIG3,FIG7,FIG33过滤器](/d/pdf/IM-S60-18-FIG3,7,33过滤器.pdf)\_IM-S60-18\_\
+- [FIG3,FIG7,FIG33过滤器](https://assets.spiraxvalve.com/pdf/IM-S60-18-FIG3,7,33过滤器.pdf)\_IM-S60-18\_\

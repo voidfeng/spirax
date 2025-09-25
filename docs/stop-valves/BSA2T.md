@@ -42,8 +42,8 @@ imgs:
 - [技术信息]
 - [安装和维修指南]
 
-- [BSA波纹管密封截止阀](/d/pdf/SB-P137-01-BSA波纹管密封截止阀.pdf)\_SB-P137-01\_\
+- [BSA波纹管密封截止阀](https://assets.spiraxvalve.com/pdf/SB-P137-01-BSA波纹管密封截止阀.pdf)\_SB-P137-01\_\
 
-- [BSA和BSAT 波纹管密封截止阀](/d/pdf/TI-P137-18-BSA和BSAT%20波纹管密封截止阀.pdf)\_TI-P137-18\_\
+- [BSA和BSAT 波纹管密封截止阀](https://assets.spiraxvalve.com/pdf/TI-P137-18-BSA和BSAT%20波纹管密封截止阀.pdf)\_TI-P137-18\_\
 
-- [BSA和BSAT波纹管密封截止阀](/d/pdf/IM-P137-02-BSA和BSAT波纹管密封截止阀.pdf)\_IM-P137-02\_\
+- [BSA和BSAT波纹管密封截止阀](https://assets.spiraxvalve.com/pdf/IM-P137-02-BSA和BSAT波纹管密封截止阀.pdf)\_IM-P137-02\_\

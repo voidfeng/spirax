@@ -18,9 +18,9 @@ imgs:
 - [技术信息]
 - [安装和维修指南]
 
-- [热动力型蒸汽疏水阀\_压力达到250bar](/d/pdf/SB-P068-02-热动力型蒸汽疏水阀_压力达到250bar.pdf)\_SB-P068-02\_\
-- [疏水阀产品应用指南](/d/pdf/SB-trap-01-%E7%96%8F%E6%B0%B4%E9%98%80%E4%BA%A7%E5%93%81%E5%BA%94%E7%94%A8%E6%8C%87%E5%8D%97.pdf)\_SB-Trap-01\_\
+- [热动力型蒸汽疏水阀\_压力达到250bar](https://assets.spiraxvalve.com/pdf/SB-P068-02-热动力型蒸汽疏水阀_压力达到250bar.pdf)\_SB-P068-02\_\
+- [疏水阀产品应用指南](https://assets.spiraxvalve.com/pdf/SB-trap-01-%E7%96%8F%E6%B0%B4%E9%98%80%E4%BA%A7%E5%93%81%E5%BA%94%E7%94%A8%E6%8C%87%E5%8D%97.pdf)\_SB-Trap-01\_\
 
-- [TD16和TD16F 热动力型蒸汽疏水阀](/d/pdf/TI-CHN-03-TD16和TD16F%20热动力型蒸汽疏水阀.pdf)\_TI-CHN-03\_\
+- [TD16和TD16F 热动力型蒸汽疏水阀](https://assets.spiraxvalve.com/pdf/TI-CHN-03-TD16和TD16F%20热动力型蒸汽疏水阀.pdf)\_TI-CHN-03\_\
 
-- [TD16 热动力型疏水阀](/d/pdf/IM-P151-05-TD16%20热动力型疏水阀.pdf)\_IM-P151-05\_\
+- [TD16 热动力型疏水阀](https://assets.spiraxvalve.com/pdf/IM-P151-05-TD16%20热动力型疏水阀.pdf)\_IM-P151-05\_\

@@ -28,6 +28,6 @@ imgs:
 - [技术信息]
 - [安装和维修指南]
 
-- [Fig12过滤器 球墨铸铁材质](/d/pdf/TI-P163-01-Fig12%20球墨铸铁过滤器.pdf)\_TI-P163-01\_\
+- [Fig12过滤器 球墨铸铁材质](https://assets.spiraxvalve.com/pdf/TI-P163-01-Fig12%20球墨铸铁过滤器.pdf)\_TI-P163-01\_\
 
-- [FIG1,FIG12过滤器](/d/pdf/IM-S60-17-FIG1,FIG12过滤器.pdf)\_IM-S60-17\_\
+- [FIG1,FIG12过滤器](https://assets.spiraxvalve.com/pdf/IM-S60-17-FIG1,FIG12过滤器.pdf)\_IM-S60-17\_\

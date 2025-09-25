@@ -30,4 +30,4 @@ imgs:
 - [技术信息]
 - [安装和维修指南]
 
-- [A3S和A3SS 波纹管密封截止阀](/d/pdf/TI-P132-09-A3S和A3SS%20波纹管密封截止阀.pdf)\_TI-P132-09\_\
+- [A3S和A3SS 波纹管密封截止阀](https://assets.spiraxvalve.com/pdf/TI-P132-09-A3S和A3SS%20波纹管密封截止阀.pdf)\_TI-P132-09\_\

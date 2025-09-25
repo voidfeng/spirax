@@ -32,7 +32,7 @@ outline: false
 
 ### 图片示例
 
-![图片描述](/path/to/your/image.jpg)
+
 
 ### 代码示例
 

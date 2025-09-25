@@ -32,9 +32,9 @@ IN40M喷射器安装在水箱中较低的位置，最好是位于中线，水平
 - [技术信息]
 - [安装和维修指南]
 
-- [蒸汽喷射器](/d/pdf/SB-P401-02-蒸汽喷射器.pdf)\_SB-P401-02\_\
-- [锅炉控制系统](/d/pdf/SB-GAB-02-锅炉控制系统.pdf)\_SB-GAB-02\_\
+- [蒸汽喷射器](https://assets.spiraxvalve.com/pdf/SB-P401-02-蒸汽喷射器.pdf)\_SB-P401-02\_\
+- [锅炉控制系统](https://assets.spiraxvalve.com/pdf/SB-GAB-02-锅炉控制系统.pdf)\_SB-GAB-02\_\
 
-- [蒸汽喷射器IN15、IN25M、IN40M](/d/pdf/TI-P401-05-蒸汽喷射器IN15、IN25M、IN40M.pdf)\_TI-P401-05\_\
+- [蒸汽喷射器IN15、IN25M、IN40M](https://assets.spiraxvalve.com/pdf/TI-P401-05-蒸汽喷射器IN15、IN25M、IN40M.pdf)\_TI-P401-05\_\
 
-- [IN15,IN25M和IN40M蒸汽喷射器](/d/pdf/IM-P401-27-IN15,IN25M和IN40M蒸汽喷射器.pdf)\_IM-P401-27\_\
+- [IN15,IN25M和IN40M蒸汽喷射器](https://assets.spiraxvalve.com/pdf/IM-P401-27-IN15,IN25M和IN40M蒸汽喷射器.pdf)\_IM-P401-27\_\

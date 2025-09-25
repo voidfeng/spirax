@@ -38,4 +38,4 @@ Airody S可提供高精度碟片用于高洁净应用。
 - [技术信息]
 - [安装和维修指南]
 
-- [Airodyn 压缩空气疏水阀](/d/pdf/TI-P610-05-Airodyn%20压缩空气疏水阀.pdf)\_TI-P610-05\_\
+- [Airodyn 压缩空气疏水阀](https://assets.spiraxvalve.com/pdf/TI-P610-05-Airodyn%20压缩空气疏水阀.pdf)\_TI-P610-05\_\

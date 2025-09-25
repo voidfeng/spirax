@@ -18,7 +18,7 @@ MST21为不锈钢平衡型膜片温差式蒸汽疏水阀,外观 全密封不锈�
 - [技术信息]
 - [安装和维修指南]
 
-- [Practical Steam Trapping 蒸汽疏水实务](/d/pdf/Practical_Steam_Trapping_蒸汽疏水实务.pdf)\_.\_\
-- [疏水阀产品应用指南](/d/pdf/SB-trap-01-%E7%96%8F%E6%B0%B4%E9%98%80%E4%BA%A7%E5%93%81%E5%BA%94%E7%94%A8%E6%8C%87%E5%8D%97.pdf)\_SB-trap-01\_\
+- [Practical Steam Trapping 蒸汽疏水实务](https://assets.spiraxvalve.com/pdf/Practical_Steam_Trapping_蒸汽疏水实务.pdf)\_.\_\
+- [疏水阀产品应用指南](https://assets.spiraxvalve.com/pdf/SB-trap-01-%E7%96%8F%E6%B0%B4%E9%98%80%E4%BA%A7%E5%93%81%E5%BA%94%E7%94%A8%E6%8C%87%E5%8D%97.pdf)\_SB-trap-01\_\
 
-- [MST21 不锈钢压力平衡式热静力型蒸汽疏水阀](/d/pdf/TI-P125-08-MST21%20不锈钢材质压力平衡式热静力型蒸汽疏水阀.pdf)\_TI-P125-08\_\
+- [MST21 不锈钢压力平衡式热静力型蒸汽疏水阀](https://assets.spiraxvalve.com/pdf/TI-P125-08-MST21%20不锈钢材质压力平衡式热静力型蒸汽疏水阀.pdf)\_TI-P125-08\_\

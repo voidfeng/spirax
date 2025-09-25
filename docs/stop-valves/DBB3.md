@@ -39,4 +39,4 @@ DN15, DN20, DN25, DN40, DN50, DN65, DN80 DN100法兰 EN 1092 PN40 ANSI B 16.5 Cl
 - [技术信息]
 - [安装和维修指南]
 
-- [Spirax SafeBloc DBB3 双流双关波纹管密封截止阀](/d/pdf/TI-P184-08-Spirax%20SafeBloc%20DBB3%20双流双关波纹管密封截止阀.pdf)\_TI-P184-08\_\
+- [Spirax SafeBloc DBB3 双流双关波纹管密封截止阀](https://assets.spiraxvalve.com/pdf/TI-P184-08-Spirax%20SafeBloc%20DBB3%20双流双关波纹管密封截止阀.pdf)\_TI-P184-08\_\

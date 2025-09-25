@@ -35,8 +35,8 @@ DN15, DN20 和 DN25 法兰 EN 1092 PN25。
 - [技术信息]
 - [安装和维修指南]
 
-- [减压阀产品指南](/d/pdf/SB-F10-01-减压阀产品指南.pdf)\_SB-F10-01\_\
+- [减压阀产品指南](https://assets.spiraxvalve.com/pdf/SB-F10-01-减压阀产品指南.pdf)\_SB-F10-01\_\
 
-- [BRV2减压阀](/d/pdf/TI-P045-14-BRV2S和BRV2B%20球墨铸铁减压阀.pdf)\_TI-P045-14\_\
+- [BRV2减压阀](https://assets.spiraxvalve.com/pdf/TI-P045-14-BRV2S和BRV2B%20球墨铸铁减压阀.pdf)\_TI-P045-14\_\
 
-- [BRV2S和BRV2B 球墨铸铁减压阀](/d/pdf/IM-P045-10-BRV2%20减压阀.pdf)\_IM-P045-10\_\
+- [BRV2S和BRV2B 球墨铸铁减压阀](https://assets.spiraxvalve.com/pdf/IM-P045-10-BRV2%20减压阀.pdf)\_IM-P045-10\_\

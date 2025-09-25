@@ -39,6 +39,6 @@ EP5和ISP5定位器的无故障、安全运行取决于正确的运输、储藏/
 - [技术信息]
 - [安装和维修指南]
 
-- [电、气 ISP5和EP5定位器](/d/pdf/IM-P343-16-EP5和ISP5电、气定位器.pdf)\_IM-P343-16\_\
+- [电、气 ISP5和EP5定位器](https://assets.spiraxvalve.com/pdf/IM-P343-16-EP5和ISP5电、气定位器.pdf)\_IM-P343-16\_\
 
-- [电或气 EP5定位器 ISP5本安型电或气定位器](/d/pdf/TI-P343-08-EP5%20电或气定位器%20%20ISP5本安型电或气定位器.pdf)\_TI-P343-08\_\
+- [电或气 EP5定位器 ISP5本安型电或气定位器](https://assets.spiraxvalve.com/pdf/TI-P343-08-EP5%20电或气定位器%20%20ISP5本安型电或气定位器.pdf)\_TI-P343-08\_\

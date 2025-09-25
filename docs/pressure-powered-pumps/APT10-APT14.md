@@ -38,10 +38,10 @@ imgs:
 - [技术信息]
 - [安装和维修指南]
 
-- [APT10和APT14自动疏水阀泵](/d/pdf/APT10和APT14自动疏水阀泵.pdf)\_SB-P612-01\_\
+- [APT10和APT14自动疏水阀泵](https://assets.spiraxvalve.com/pdf/APT10和APT14自动疏水阀泵.pdf)\_SB-P612-01\_\
 
-- [APT14 , APT14HC 和APT14SHC 自动疏水阀泵](/d/pdf/TI-P612-02-APT14%20,%20APT14HC%20和APT14SHC%20自动疏水阀泵.pdf)\_TI-P612-02\_\
+- [APT14 , APT14HC 和APT14SHC 自动疏水阀泵](https://assets.spiraxvalve.com/pdf/TI-P612-02-APT14%20,%20APT14HC%20和APT14SHC%20自动疏水阀泵.pdf)\_TI-P612-02\_\
 
-- [APT10-4.5自动疏水阀泵](/d/pdf/IM-P612-32-APT10-4.5自动疏水阀泵.pdf)\_IM-P612-32\_\
-- [APT14自动疏水阀泵](/d/pdf/IM-P612-04-APT14自动疏水阀泵.pdf)\_IM-P612-04\_\
-- [APT10-4.5 自动疏水阀泵](/d/pdf/IM-P612-28-APT10-4.5%20自动疏水阀泵.pdf)\_IM-P612-28\_\
+- [APT10-4.5自动疏水阀泵](https://assets.spiraxvalve.com/pdf/IM-P612-32-APT10-4.5自动疏水阀泵.pdf)\_IM-P612-32\_\
+- [APT14自动疏水阀泵](https://assets.spiraxvalve.com/pdf/IM-P612-04-APT14自动疏水阀泵.pdf)\_IM-P612-04\_\
+- [APT10-4.5 自动疏水阀泵](https://assets.spiraxvalve.com/pdf/IM-P612-28-APT10-4.5%20自动疏水阀泵.pdf)\_IM-P612-28\_\

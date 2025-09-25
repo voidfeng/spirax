@@ -32,5 +32,5 @@ CA44疏水阀 DN15和DN20 CA44S疏水阀 DN15, DN20和DN25 标准法兰为EN 109
 - [技术信息]
 - [安装和维修指南]
 
-- [CA44与CA44S 碳钢材质空气和气体系统疏水阀 DN15-DN25](/d/pdf/TI-P148-02-CA44与CA44S%20碳钢材质空气和气体系统疏水阀%20%20DN15-DN25.pdf)\_TI-P148-02\_\
-- [CA44S 碳钢空气和气体疏水阀 DN40-DN50](/d/pdf/TI-P148-03-CA44S%20碳钢空气和气体疏水阀%20DN40-DN50.pdf)\_TI-P148-03\_\
+- [CA44与CA44S 碳钢材质空气和气体系统疏水阀 DN15-DN25](https://assets.spiraxvalve.com/pdf/TI-P148-02-CA44与CA44S%20碳钢材质空气和气体系统疏水阀%20%20DN15-DN25.pdf)\_TI-P148-02\_\
+- [CA44S 碳钢空气和气体疏水阀 DN40-DN50](https://assets.spiraxvalve.com/pdf/TI-P148-03-CA44S%20碳钢空气和气体疏水阀%20DN40-DN50.pdf)\_TI-P148-03\_\

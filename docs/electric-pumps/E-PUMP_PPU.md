@@ -39,6 +39,6 @@ imgs:
 - [技术信息]
 - [安装和维修指南]
 
-- [E-PUMP_PPU\_电泵\_专于大排量\_高背压冷凝水回收](/d/pdf/E-PUMP_PPU_电泵_专于大排量_高背压冷凝水回收.pdf)\_.\_\
+- [E-PUMP_PPU\_电泵\_专于大排量\_高背压冷凝水回收](https://assets.spiraxvalve.com/pdf/E-PUMP_PPU_电泵_专于大排量_高背压冷凝水回收.pdf)\_.\_\
 
-- [E系列冷凝水回收装置](/d/pdf/TI-P089-07-E系列冷凝水回收装置.pdf)\_TI-P089-07\_\
+- [E系列冷凝水回收装置](https://assets.spiraxvalve.com/pdf/TI-P089-07-E系列冷凝水回收装置.pdf)\_TI-P089-07\_\

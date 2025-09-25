@@ -3,7 +3,7 @@
 -   [REGISTER](/member/index_do.php?fmdo=user&dopost=regnew)
 -   [LOG IN](/member/login.php)
 
-[![Spirax Sarco Logo](/skin/en/logo.gif)](/index.htm)
+[](/index.htm)
 
 Worldwide
 

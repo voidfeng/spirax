@@ -56,12 +56,12 @@ imgs:
 - [技术信息]
 - [安装和维修指南]
 
-- [【销售手册】MFP14-PPU冷凝水泵](/d/pdf/SB-P136-01-MFP14-PPU冷凝水泵.pdf)\_SB-P136-01\_\
+- [【销售手册】MFP14-PPU冷凝水泵](https://assets.spiraxvalve.com/pdf/SB-P136-01-MFP14-PPU冷凝水泵.pdf)\_SB-P136-01\_\
 
-- [MFP14 双组合泵](/d/pdf/TI-CHN-07-MFP14%20双组合泵.pdf)\_TI-CHN-07\_\
-- [MFP14 三泵组合](/d/pdf/TI-CHN-08-MFP14%20三泵组合.pdf)\_TI-CHN-08\_\
-- [MFP14 单泵组合](/d/pdf/TI-P316-06-MFP14%20单泵组合.pdf)\_TI-P316-06\_\
-- [MFP14, MFP14S 和 MFP14SS 自动泵](/d/pdf/TI-P316-02-MFP14,%20MFP14S%20和%20MFP14SS%20自动泵.pdf)\_TI-P316-02\_\
+- [MFP14 双组合泵](https://assets.spiraxvalve.com/pdf/TI-CHN-07-MFP14%20双组合泵.pdf)\_TI-CHN-07\_\
+- [MFP14 三泵组合](https://assets.spiraxvalve.com/pdf/TI-CHN-08-MFP14%20三泵组合.pdf)\_TI-CHN-08\_\
+- [MFP14 单泵组合](https://assets.spiraxvalve.com/pdf/TI-P316-06-MFP14%20单泵组合.pdf)\_TI-P316-06\_\
+- [MFP14, MFP14S 和 MFP14SS 自动泵](https://assets.spiraxvalve.com/pdf/TI-P316-02-MFP14,%20MFP14S%20和%20MFP14SS%20自动泵.pdf)\_TI-P316-02\_\
 
-- [MFP14冷凝水回收泵组](/d/pdf/IM-P316-20-MFP14冷凝水回收泵组.pdf)\_IM-P316-20\_\
-- [MFP14，MFP14S和MFP14SS自动泵](/d/pdf/IM-P136-03-MFP14，MFP14S和MFP14SS自动泵.pdf)\_IM-P136-03\_\
+- [MFP14冷凝水回收泵组](https://assets.spiraxvalve.com/pdf/IM-P316-20-MFP14冷凝水回收泵组.pdf)\_IM-P316-20\_\
+- [MFP14，MFP14S和MFP14SS自动泵](https://assets.spiraxvalve.com/pdf/IM-P136-03-MFP14，MFP14S和MFP14SS自动泵.pdf)\_IM-P136-03\_\

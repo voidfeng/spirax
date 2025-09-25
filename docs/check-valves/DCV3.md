@@ -88,6 +88,6 @@ EPDNf软阀座，用于水系统。
 - [技术信息]
 - [安装和维修指南]
 
-- [DCV止回阀](/d/pdf/SB-S35-01-DCV止回阀.pdf)\_SB-S35-01\_\
+- [DCV止回阀](https://assets.spiraxvalve.com/pdf/SB-S35-01-DCV止回阀.pdf)\_SB-S35-01\_\
 
-- [DCV3止回阀 碟片式](/d/pdf/TI-P134-50-DCV3%20碟片式止回阀.pdf)\_TI-P134-50\_\
+- [DCV3止回阀 碟片式](https://assets.spiraxvalve.com/pdf/TI-P134-50-DCV3%20碟片式止回阀.pdf)\_TI-P134-50\_\

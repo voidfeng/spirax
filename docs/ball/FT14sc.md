@@ -28,13 +28,13 @@ imgs:
 - [技术信息]
 - [安装和维修指南]
 
-- [浮球式疏水阀](/d/pdf/SB-S02-01-%E6%B5%AE%E7%90%83%E5%BC%8F%E7%96%8F%E6%B0%B4%E9%98%80.pdf)\_SB-S02-01\_\
-- [疏水阀产品应用指南](/d/pdf/SB-trap-01-%E7%96%8F%E6%B0%B4%E9%98%80%E4%BA%A7%E5%93%81%E5%BA%94%E7%94%A8%E6%8C%87%E5%8D%97.pdf)\_SB-trap-01\_\
+- [浮球式疏水阀](https://assets.spiraxvalve.com/pdf/SB-S02-01-%E6%B5%AE%E7%90%83%E5%BC%8F%E7%96%8F%E6%B0%B4%E9%98%80.pdf)\_SB-S02-01\_\
+- [疏水阀产品应用指南](https://assets.spiraxvalve.com/pdf/SB-trap-01-%E7%96%8F%E6%B0%B4%E9%98%80%E4%BA%A7%E5%93%81%E5%BA%94%E7%94%A8%E6%8C%87%E5%8D%97.pdf)\_SB-trap-01\_\
 
-- [浮球式蒸汽疏水阀 (螺纹连接)](</d/pdf/TI-S02-03-FT14%20浮球式蒸汽疏水阀%20(螺纹连接)%202.pdf>)\_TI-S02-03\_\
-- [浮球式蒸汽疏水阀在低压差应用的排量图](/d/pdf/TI-S02-46-FT14%20浮球式蒸汽疏水阀在低压差应用的排量图.pdf)\_TI-S02-46\_\
-- [浮球式蒸汽疏水阀排量图](/d/pdf/TI-S02-28-FT14%20浮球式蒸汽疏水阀排量图.pdf)\_TI-S02-28\_\
-- [FT14和FT14HC 浮球式蒸汽疏水阀(1'HC、1'-2')](/d/pdf/TI-S02-27-FT14和FT14HC%20浮球式蒸汽疏水阀(1)\_TI-S02-27\_\
+- [浮球式蒸汽疏水阀 (螺纹连接)](<https://assets.spiraxvalve.com/pdf/TI-S02-03-FT14%20浮球式蒸汽疏水阀%20(螺纹连接)%202.pdf>)\_TI-S02-03\_\
+- [浮球式蒸汽疏水阀在低压差应用的排量图](https://assets.spiraxvalve.com/pdf/TI-S02-46-FT14%20浮球式蒸汽疏水阀在低压差应用的排量图.pdf)\_TI-S02-46\_\
+- [浮球式蒸汽疏水阀排量图](https://assets.spiraxvalve.com/pdf/TI-S02-28-FT14%20浮球式蒸汽疏水阀排量图.pdf)\_TI-S02-28\_\
+- [FT14和FT14HC 浮球式蒸汽疏水阀(1'HC、1'-2')](https://assets.spiraxvalve.com/pdf/TI-S02-27-FT14和FT14HC%20浮球式蒸汽疏水阀(1)\_TI-S02-27\_\
 
-- [FT14浮球疏水阀](/d/pdf/IM-S02-13-FT14浮球疏水阀.pdf)\_IM-S02-13\_\
-- [FT14和FT14HC浮球疏水阀](/d/pdf/IM-S02-54-FT14和FT14HC浮球疏水阀.pdf)\_IM-S02-54\_\
+- [FT14浮球疏水阀](https://assets.spiraxvalve.com/pdf/IM-S02-13-FT14浮球疏水阀.pdf)\_IM-S02-13\_\
+- [FT14和FT14HC浮球疏水阀](https://assets.spiraxvalve.com/pdf/IM-S02-54-FT14和FT14HC浮球疏水阀.pdf)\_IM-S02-54\_\
