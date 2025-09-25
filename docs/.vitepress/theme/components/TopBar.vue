@@ -8,19 +8,19 @@
         <div class="right">
           <span class="desktop-only">
             <span class="inline-block v-sub i-mynaui-telephone-call-solid"></span>
-            +86 021-5160 2757
+            +86 <a href="tel:021-51602757">021-5160 2757</a>
           </span>
           <span class="separator desktop-only">|</span>
           <span class="desktop-only">
             <span class="inline-block v-sub i-material-symbols:mail"></span>
-            13917444407@163.com
+            <a href="mailto:13917444407@163.com">13917444407@163.com</a>
           </span>
           <span class="mobile-only">
             <span class="inline-block v-sub i-mynaui-telephone-call-solid"></span>
-            021-5160 2757
+            <a href="tel:021-51602757">021-5160 2757</a>
             <span class="separator ml-2 mr-3">|</span>
             <span class="inline-block v-sub i-material-symbols:mail"></span>
-            13917444407@163.com
+            <a href="mailto:13917444407@163.com">13917444407@163.com</a>
           </span>
         </div>
       </div>
@@ -75,19 +75,19 @@
     padding: 8px 0;
     position: relative;
   }
-  
+
   .left {
     display: none;
   }
-  
+
   .desktop-only {
     display: none;
   }
-  
+
   .mobile-only {
     display: inline;
   }
-  
+
   .content {
     justify-content: center;
   }
