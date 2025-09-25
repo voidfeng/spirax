@@ -45,7 +45,7 @@ imgs:
 
 - 压力表
 
-- [带虹吸管和旋塞阀的BSP/NPT及洁净型压力表](/products/yalibiao.html '带虹吸管和旋塞阀的BSP/NPT及洁净型压力表')
+- [带虹吸管和旋塞阀的BSP/NPT及洁净型压力表](#)
 
 - 观视镜
 

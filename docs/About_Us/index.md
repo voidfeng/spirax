@@ -1,25 +1,25 @@
 About Us - 斯派莎克阀门（中国）有限公司
 
-- [REGISTER](/member/index_do.php?fmdo=user&dopost=regnew)
-- [LOG IN](/member/login.php)
+- [REGISTER](#)
+- [LOG IN](#)
 
-[Spirax Sarco Logo](/index.htm)
+[Spirax Sarco Logo](#)
 
 Worldwide
 
 English 简体中文
 
-- [INDUSTRIES & APPLICATIONS](/cn_applications/index.html)
-- [PRODUCTS & SERVICES](/cn_products-services/)
-- [TRAINING](/cn_training/)
-- [STEAM INSTITUTE](/cn_university/)
-- [ABOUT US](/cn_about/)
-- [CONTACT](/en_about/contact.html)
+- [INDUSTRIES & APPLICATIONS](#)
+- [PRODUCTS & SERVICES](#)
+- [TRAINING](#)
+- [STEAM INSTITUTE](#)
+- [ABOUT US](#)
+- [CONTACT](#)
 
-[Home](/index.htm) > [About Us](/About_Us/) >
+[Home](#) > [About Us](#) >
 
-- [Products and Services](/en_products-services/)
-- [About Us](/About_Us/)
+- [Products and Services](#)
+- [About Us](#)
 
 # About Us
 
@@ -27,22 +27,22 @@ English 简体中文
 不管您的问题是炼油，酿酒，在几个月内准备制药产品，还是供应热水给整个医院。我们都可以在我们的专家库和独特的技术资料库里找到答案。  
 我们可在您工程的设计阶段，需要维护和大修时为您提供建议。
 
-- ## [Worldwide Contacts](/Worldwide.html)
+- ## [Worldwide Contacts](#)
 
   [
 
   Please choose your local Spirax Sarco website. denotes a site in the new website design.
 
-  ](/Worldwide.html)
+  ](#)
 
-  [](/Worldwide.html)- [!Argentina Flag](/Worldwide.html)Argentina
+  Argentina
   - !Australia Flag[Australia](http://index.htm)
   - Belgique (Français) Flag Belgique (Français) (Benelux)
   - Belgium (Nederlands) Flag Belgium (Nederlands) (Benelux)
   - [Brazil Flag]Brazil (Brasil)
-  - [Canada Flag][Canada](/index.htm)
+  - [Canada Flag][Canada](#)
   - [Chile Flag]Chile
-  - [China Flag][China (中国)](/index.html)
+  - [China Flag][China (中国)](#)
   - [Czech Republic Flag]Czech Republic (Česko)
   - [Denmark Flag]Denmark (Danmark)
   - [Egypt Flag]Egypt (مصر)
@@ -60,30 +60,30 @@ English 简体中文
   - [Mexico Flag]Mexico (México)
   - [Middle East Flag]Middle East
   - [Netherlands Flag]Netherlands (Nederland)
-  - [New Zealand Flag][New Zealand](/index.htm)
+  - [New Zealand Flag][New Zealand](#)
   - [Norway Flag]Norway (Norge)
   - [Poland Flag]Poland (Polska)
   - [Portugal Flag]Portugal
   - [Romania Flag]Romania (România)
   - [Russia Flag]Russia (Россия)
-  - [Singapore Flag][Singapore (Singapura)](/index.htm)
-  - [South Africa Flag][South Africa](/index.htm)
+  - [Singapore Flag][Singapore (Singapura)](#)
+  - [South Africa Flag][South Africa](#)
   - [Spain Flag]Spain (España)
   - [Sweden Flag]Sweden (Sverige)
   - [Switzerland Flag]Switzerland (Suisse/Schweiz/Svizzera)
-  - [Taiwan Flag][Taiwan (台灣)](/index.html)
+  - [Taiwan Flag][Taiwan (台灣)](#)
   - [Thailand Flag]Thailand (ประเทศไทย)
   - [Turkey Flag]Turkey (Türkiye)
-  - [UK Flag][UK](/index.htm)
+  - [UK Flag][UK](#)
   - [Ukraine Flag]Ukraine (Україна)
-  - [USA Flag][USA](/index.htm)
-  - [更多Worldwide Contacts](/Worldwide.html)
+  - [USA Flag][USA](#)
+  - [更多Worldwide Contacts](#)
 
-- ## [Contact Us](/en_about/contact.html)
+- ## [Contact Us](#)
 
    [](/en_about/contact.html)
-  - [更多Contact Us](/en_about/contact.html)
+  - [更多Contact Us](#)
 
-[Site Map](/sitemap.html 'Site Map')[Baidu Map](/baidu.xml)[Google Map](/google.xml)[RSS](/rss.xml)
+[Site Map](#)[Baidu Map](/baidu.xml)[Google Map](/google.xml)[RSS](/rss.xml)
 
 © 2014 SpiraxSarco International, Inc.

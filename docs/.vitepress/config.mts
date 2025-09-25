@@ -8,6 +8,7 @@ export default defineConfig({
   title: '斯派莎克阀门',
   description:
     '斯派莎克SpiraxSarco于英国1937年成立，常用产品有斯派莎克BSA1T截止阀、斯派莎克FT14疏水阀、斯派莎克SV607安全阀、斯派莎克TD16疏水阀、斯派莎克25P减压阀、斯派莎克M10S球阀、DCV3止回阀、FIG33过滤器、KE73调节阀、SG253观视镜、EPS、EP5、IPS定位器、蒸汽喷射器IN40M、汽水分离器S1、S3、S13、斯派莎克ILVA流量计、TVA流量计、TFA流量计、斯派莎克MFP14冷凝水回收泵等等。',
+  // ignoreDeadLinks: true,
   transformPageData: (data) => {
     if (data.relativePath !== 'index.md')
       data.titleTemplate = `斯派莎克:title | SpiraxSarco 蒸汽行业的首选！`

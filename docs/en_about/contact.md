@@ -1,31 +1,23 @@
- Contact Us : International site for Spirax Sarco  
+Contact Us : International site for Spirax Sarco
 
--   [REGISTER](/member/index_do.php?fmdo=user&dopost=regnew)
--   [LOG IN](/member/login.php)
-
-[](/index.htm)
+- [REGISTER](#)
+- [LOG IN](#)
 
 Worldwide
 
 English 简体中文
 
- 
+- [INDUSTRIES & APPLICATIONS](#)
+- [PRODUCTS & SERVICES](#)
+- [TRAINING](#)
+- [STEAM INSTITUTE](#)
+- [ABOUT US](#)
+- [CONTACT](#)
 
--   [INDUSTRIES & APPLICATIONS](/cn_applications/index.html)
--   [PRODUCTS & SERVICES](/cn_products-services/)
--   [TRAINING](/cn_training/)
--   [STEAM INSTITUTE](/cn_university/)
--   [ABOUT US](/cn_about/)
--   [CONTACT](/en_about/contact.html)
+[Home](#) > [About Us](#) > [Contact Us](#)
 
-  
-
-[Home](/index.htm) > [About Us](/About_Us/) > [Contact Us](/en_about/contact.html)
-
--   [Worldwide Contacts](/Worldwide.html)
--   [Contact Us](/en_about/contact.html)
-
-  
+- [Worldwide Contacts](#)
+- [Contact Us](#)
 
 # Contact Us：
 
@@ -37,7 +29,7 @@ Three Rivers, MI 49093
 **USA**  
 Phone: (269) 273-1415  
 Fax: (269) 278-6555  
-Complete and submit form below.  
+Complete and submit form below.
 
 **SpiraxSarco International, SA.**  
 Parc Industriel Des Hauts-Sarts  
@@ -103,8 +95,8 @@ Niwot, CO 80503
 **USA**  
 Phone: (303) 652-8550  
 Fax: (303) 652-8552  
-Complete and submit form below.  
+Complete and submit form below.
 
-[Site Map](/sitemap.html "Site Map")[Baidu Map](/baidu.xml)[Google Map](/google.xml)[RSS](/rss.xml)
+[Site Map](#)[Baidu Map](/baidu.xml)[Google Map](/google.xml)[RSS](/rss.xml)
 
 © 2014 SpiraxSarco International, Inc.
