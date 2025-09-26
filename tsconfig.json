@@ -1,0 +1,50 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "declaration": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "useDefineForClassFields": true,
+    "jsx": "preserve",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "types": ["vite/client", "node"],
+    "paths": {
+      "@/*": ["./docs/*"],
+      "~/*": ["./*"]
+    },
+    "baseUrl": ".",
+    "outDir": "./dist",
+    "rootDir": "."
+  },
+  "include": [
+    "docs/**/*.ts",
+    "docs/**/*.d.ts",
+    "docs/**/*.tsx",
+    "docs/**/*.vue",
+    "*.ts",
+    "*.mts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "docs/.vitepress/cache",
+    "docs/.vitepress/dist"
+  ],
+  "references": [
+    {
+      "path": "./docs/tsconfig.json"
+    }
+  ]
+}

@@ -10,8 +10,8 @@
       </div>
 
       <div class="flex flex-wrap -mx-4">
-        <ProductCard 
-          v-for="product in products" 
+        <ProductCard
+          v-for="product in products"
           :key="product.title"
           :image="product.images[0]"
           :title="product.title"
@@ -20,7 +20,7 @@
       </div>
 
       <div class="text-center mt-10">
-        <a href="/products" class="inline-block px-8 py-3 text-white font-medium rounded-lg hover:bg-primary/90 transition-colors">
+        <a href="/products" class="inline-block px-8 py-3 bg-primary text-white font-medium rounded-lg hover:bg-primary/90 transition-colors">
           浏览全部产品
         </a>
       </div>
@@ -28,16 +28,16 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import ProductCard from './ProductCard.vue'
 import { data } from './api.data'
 
+// 限制显示前3个产品
 const products = data.slice(0, 3)
-
 </script>
 
 <style scoped>
 .product-selection .container {
   max-width: 1152px;
 }
-</style> 
+</style>

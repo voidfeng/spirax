@@ -11,6 +11,7 @@
     "jsx": "preserve",
     "lib": ["ESNext", "DOM", "DOM.Iterable"],
     "types": ["vite/client"],
+    "allowSyntheticDefaultImports": true,
     "paths": {
       "@/*": ["./*"]
     }
@@ -21,6 +22,7 @@
     "**/*.tsx",
     "**/*.vue",
     ".vitepress/**/*.ts",
-    ".vitepress/**/*.vue"
+    ".vitepress/**/*.vue",
+    "types/**/*.d.ts"
   ]
 }

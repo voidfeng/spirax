@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+.vitepress/dist/
+.vitepress/cache/
+
+# Static assets
+public/
+docs/public/
+
+# Generated files
+*.log
+*.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# VitePress specific
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+
+# Markdown files with specific formatting
+docs/**/*.md

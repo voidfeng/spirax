@@ -1,12 +1,27 @@
 {
+  "name": "spirax-sarco-website",
+  "version": "1.0.0",
+  "description": "斯派莎克SpiraxSarco官方网站 - 蒸汽和流体处理解决方案",
+  "private": true,
+  "type": "module",
+  "keywords": ["spirax-sarco", "steam", "valve", "industrial", "vitepress"],
+  "author": "SpiraxSarco",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs",
     "lint": "oxlint .",
-    "lint:fix": "oxlint . --fix"
+    "lint:fix": "oxlint . --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "type-check": "vue-tsc --noEmit"
   },
   "devDependencies": {
+    "@types/node": "^20.0.0",
     "@iconify-json/carbon": "^1.2.10",
     "@unocss/preset-attributify": "^66.3.3",
     "@unocss/preset-icons": "^66.3.3",
@@ -16,8 +31,9 @@
     "prettier": "^3.6.2",
     "sass": "^1.93.2",
     "unocss": "^66.3.3",
-    "vitepress": "^2.0.0-alpha.9",
-    "vue": "^3.5.17"
+    "vitepress": "^2.0.0-alpha.12",
+    "vue": "^3.5.17",
+    "vue-tsc": "^2.0.0"
   },
   "dependencies": {
     "@types/nprogress": "^0.2.3",

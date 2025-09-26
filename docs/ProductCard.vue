@@ -17,24 +17,17 @@
   </div>
 </template>
 
-<script setup>
-defineProps({
-  image: {
-    type: String,
-    required: true
-  },
-  title: {
-    type: String,
-    required: true
-  },
-  link: {
-    type: String,
-    default: '/products'
-  },
-  description: {
-    type: String,
-    default: ''
-  }
+<script setup lang="ts">
+interface Props {
+  image: string
+  title: string
+  link?: string
+  description?: string
+}
+
+withDefaults(defineProps<Props>(), {
+  link: '/products',
+  description: ''
 })
 </script>
 
@@ -45,4 +38,4 @@ defineProps({
 :deep(.dark) .product-image::after {
   background: linear-gradient(to top, rgba(55,65,81,0.7), transparent);
 }
-</style> 
+</style>
