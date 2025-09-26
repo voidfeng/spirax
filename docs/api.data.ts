@@ -1,5 +1,5 @@
 // @ts-ignore
-import { readFileSync } from 'node:fs'
+import { readFileSync } from 'fs'
 // @ts-ignore
 import { parse, basename } from 'node:path'
 
@@ -138,34 +138,25 @@ export default {
     './clean-steam/**/*.md',
     './clean-steams/**/*.md'
   ],
-  load(watchedFiles: string[]): Product[] {
-    try {
-      // 读取所有md文件，但忽略index.md文件
-      return watchedFiles
-        .filter((file) => !file.endsWith('/index.md'))
-        .map((file) => {
-          try {
-            const content = readFileSync(file, 'utf-8')
-            const { name, dir } = parse(file)
-            const images = extractImages(content)
-            return {
-              title: extractTitle(content, name + '.md'),
-              directory: (dir.split('/').pop() || '')
-                .replace(/^\d+-/, '')
-                .replace(/^博雷/, '')
-                .replace(/^bray博雷/, ''),
-              images,
-              url: file.replace(/^docs/, '').replace(/\.md$/, '.html'),
-            }
-          } catch (error) {
-            console.error(`Error processing file ${file}:`, error)
-            return null
-          }
-        })
-        .filter((item): item is Product => item !== null && item.images.length > 0)
-    } catch (error) {
-      console.error('Error loading watchedFiles:', error)
-      return []
-    }
+  load(watchedFiles) {
+    // 读取所有md文件，但忽略index.md文件
+    return watchedFiles
+      .filter((file) => !file.endsWith('/index.md'))
+      .map((file) => {
+        const content = readFileSync(file, 'utf-8')
+        const { name, dir } = parse(file)
+        const images = extractImages(content)
+        return {
+          title: extractTitle(content, name + '.md'),
+          directory: (dir.split('/').pop() || '')
+            .replace(/^\d+-/, '')
+            .replace(/^博雷/, '')
+            .replace(/^bray博雷/, ''),
+          images,
+          url: file.replace(/^docs/, '').replace(/\.md$/, '.html'),
+          category: content.match(/category: (.*)/)?.[1].split(';') || [],
+        }
+      })
+      .filter((item) => item.images.length > 0)
   },
 }
