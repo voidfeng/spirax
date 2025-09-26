@@ -1,14 +1,6 @@
-// @ts-ignore
 import { readFileSync } from 'fs'
-// @ts-ignore
 import { parse, basename } from 'node:path'
-
-interface Product {
-  title: string
-  directory: string
-  images: string[]
-  url: string
-}
+import type { Product } from '../../types/product'
 
 export declare const data: Product[]
 
@@ -138,7 +130,7 @@ export default {
     './clean-steam/**/*.md',
     './clean-steams/**/*.md'
   ],
-  load(watchedFiles) {
+  load(watchedFiles: string[]) {
     // 读取所有md文件，但忽略index.md文件
     return watchedFiles
       .filter((file) => !file.endsWith('/index.md'))
@@ -149,9 +141,7 @@ export default {
         return {
           title: extractTitle(content, name + '.md'),
           directory: (dir.split('/').pop() || '')
-            .replace(/^\d+-/, '')
-            .replace(/^博雷/, '')
-            .replace(/^bray博雷/, ''),
+            .replace(/^\d+-/, ''),
           images,
           url: file.replace(/^docs/, '').replace(/\.md$/, '.html'),
           category: content.match(/category: (.*)/)?.[1].split(';') || [],

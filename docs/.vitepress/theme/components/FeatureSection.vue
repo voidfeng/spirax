@@ -1,5 +1,4 @@
 <script setup>
-import FeatureCard from './FeatureCard.vue'
 
 const features = [
   {

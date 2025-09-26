@@ -18,14 +18,9 @@
 </template>
 
 <script setup lang="ts">
-interface Props {
-  image: string
-  title: string
-  link?: string
-  description?: string
-}
+import type { ProductCardProps } from '../../../types/product'
 
-withDefaults(defineProps<Props>(), {
+withDefaults(defineProps<ProductCardProps>(), {
   link: '/products',
   description: ''
 })

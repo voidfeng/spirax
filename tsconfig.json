@@ -19,10 +19,14 @@
     "useDefineForClassFields": true,
     "jsx": "preserve",
     "lib": ["ESNext", "DOM", "DOM.Iterable"],
-    "types": ["vite/client", "node"],
+    "types": ["node"],
+    "typeRoots": ["./docs/types", "./node_modules/@types"],
     "paths": {
       "@/*": ["./docs/*"],
-      "~/*": ["./*"]
+      "~/*": ["./*"],
+      "@theme/*": ["./docs/.vitepress/theme/*"],
+      "@components/*": ["./docs/.vitepress/theme/components/*"],
+      "@data/*": ["./docs/.vitepress/data/*"]
     },
     "baseUrl": ".",
     "outDir": "./dist",
@@ -41,10 +45,5 @@
     "dist",
     "docs/.vitepress/cache",
     "docs/.vitepress/dist"
-  ],
-  "references": [
-    {
-      "path": "./docs/tsconfig.json"
-    }
   ]
 }

@@ -29,8 +29,7 @@
 </template>
 
 <script setup lang="ts">
-import ProductCard from './ProductCard.vue'
-import { data } from './api.data'
+import { data } from '../../data/api.data'
 
 // 限制显示前3个产品
 const products = data.slice(0, 3)

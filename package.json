@@ -4,7 +4,13 @@
   "description": "斯派莎克SpiraxSarco官方网站 - 蒸汽和流体处理解决方案",
   "private": true,
   "type": "module",
-  "keywords": ["spirax-sarco", "steam", "valve", "industrial", "vitepress"],
+  "keywords": [
+    "spirax-sarco",
+    "steam",
+    "valve",
+    "industrial",
+    "vitepress"
+  ],
   "author": "SpiraxSarco",
   "license": "MIT",
   "engines": {
@@ -21,8 +27,8 @@
     "type-check": "vue-tsc --noEmit"
   },
   "devDependencies": {
-    "@types/node": "^20.0.0",
     "@iconify-json/carbon": "^1.2.10",
+    "@types/node": "^20.0.0",
     "@unocss/preset-attributify": "^66.3.3",
     "@unocss/preset-icons": "^66.3.3",
     "@unocss/preset-uno": "^66.3.3",
@@ -30,6 +36,7 @@
     "oxlint": "^1.9.0",
     "prettier": "^3.6.2",
     "sass": "^1.93.2",
+    "typescript": "^5.9.2",
     "unocss": "^66.3.3",
     "vitepress": "^2.0.0-alpha.12",
     "vue": "^3.5.17",

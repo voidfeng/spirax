@@ -1,0 +1,76 @@
+/**
+ * 首页布局样式 (layout: home)
+ * VPHome 相关的所有样式规则
+ */
+
+/* Hero 区域样式 */
+.VPHomeHero {
+  --vp-layout-top-height: 29px;
+  padding-top: 72px;
+  background: url('/images/home-hero.jpg') center center no-repeat;
+  background-size: cover;
+  position: relative;
+  color: white;
+  /* margin-top: calc(var(--top-bar-height) + var(--nav-height) - 34px) !important; */
+}
+
+.VPHomeHero .heading {
+  padding-top: 80px;
+}
+
+.VPHomeHero .tagline {
+  color: white;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+.VPHomeHero:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Features 区域样式 */
+.VPHomeFeatures {
+  --vp-c-bg-soft: black;
+  margin-top: -60px;
+}
+
+.VPHomeFeatures .VPFeature {
+  border-radius: 0 !important;
+  color: white;
+}
+
+.VPHomeFeatures .VPFeature .box {
+  position: relative;
+  padding-left: 100px;
+}
+
+.VPHomeFeatures .VPFeature .icon {
+  position: absolute;
+  left: 24px;
+  border-radius: 0;
+  background: var(--vp-button-brand-bg);
+  width: 60px;
+  height: 60px;
+}
+
+.VPHomeFeatures .VPFeature .details {
+  color: #bbb;
+}
+
+/* 团队成员样式 */
+.vp-doc .VPTeamMembers.medium.count-1 .container {
+  max-width: 100% !important;
+}
+
+/* 响应式适配 */
+@media (max-width: 768px) {
+  .VPHomeFeatures {
+    margin-top: 24px;
+  }
+}

@@ -2,10 +2,18 @@
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.scss'
+import './styles/global-theme.scss'
+import './styles/doc-layout.scss'
+import './styles/home-layout.scss'
 import CustomNavItem from './components/CustomNavItem.vue'
 import HeroImage from './components/HeroImage.vue'
 import ProductLayout from './ProductLayout.vue'
 import AllProducts from './components/AllProducts.vue'
+import ProductSection from './components/ProductSection.vue'
+import FeatureSection from './components/FeatureSection.vue'
+import CompanyHighlights from './components/CompanyHighlights.vue'
+import FeatureCard from './components/FeatureCard.vue'
+import ProductCard from './components/ProductCard.vue'
 
 // 导入 polyfills
 import './polyfills'
@@ -33,6 +41,11 @@ export default {
     // 注册Hero图片组件
     app.component('HeroImage', HeroImage)
     app.component('AllProducts', AllProducts)
+    app.component('ProductSection', ProductSection)
+    app.component('FeatureSection', FeatureSection)
+    app.component('CompanyHighlights', CompanyHighlights)
+    app.component('FeatureCard', FeatureCard)
+    app.component('ProductCard', ProductCard)
 
     // 配置 NProgress 路由监听
     if (typeof window !== 'undefined') {

@@ -1,0 +1,38 @@
+/**
+ * 文档布局样式 (layout: doc)
+ * VPDoc 相关的所有样式规则
+ */
+
+/* 基础文档布局 */
+.VPDoc {
+  padding: 32px 24px 96px;
+  width: 100%;
+}
+
+/* 预留的内容容器样式（备用） */
+/* .VPDoc .content-container {
+  max-width: initial !important;
+} */
+
+/* 产品列表页样式 */
+.product-list .VPDoc .aside {
+  display: none !important;
+}
+
+/* 无侧边栏时的内容样式 */
+.VPDoc:not(.has-aside) .content {
+  max-width: initial !important;
+}
+
+/* 响应式适配 */
+@media (min-width: 960px) {
+  .VPDoc {
+    padding: 68px var(--content-padding) 0 !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .VPDoc {
+    padding: 68px var(--content-padding) 128px;
+  }
+}

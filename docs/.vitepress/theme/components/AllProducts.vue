@@ -1,18 +1,10 @@
 <script setup lang="ts">
-import { data } from '../../../api.data'
+import { data } from '../../data/api.data'
+import type { Product } from '../../../types/product'
 
 const props = defineProps<{
   category: string
 }>()
-
-// 确保产品数据有正确的类型
-interface Product {
-  title: string
-  directory: string
-  images: string[]
-  url: string
-  category: string[]
-}
 
 let prefix = K_PREFIX
 const products = (data as Product[]).filter((product) => {

@@ -32,9 +32,6 @@ features:
 
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
-import FeatureSection from './.vitepress/theme/components/FeatureSection.vue'
-import ProductSection from './ProductSection.vue'
-import CompanyHighlights from './.vitepress/theme/components/CompanyHighlights.vue'
 
 const members = [
   {
