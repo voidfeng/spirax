@@ -1,10 +1,7 @@
 // https://vitepress.dev/guide/custom-theme
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import './style.scss'
-import './styles/global-theme.scss'
-import './styles/doc-layout.scss'
-import './styles/home-layout.scss'
+import './styles/index.scss'
 import CustomNavItem from './components/CustomNavItem.vue'
 import HeroImage from './components/HeroImage.vue'
 import ProductLayout from './ProductLayout.vue'
