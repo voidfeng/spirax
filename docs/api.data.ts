@@ -142,7 +142,7 @@ export default {
           title: extractTitle(content, name + '.md'),
           directory: (dir.split('/').pop() || '').replace(/^\d+-/, ''),
           images,
-          url: file.replace(/^docs/, '').replace(/\.md$/, '.html'),
+          url: file.replace(/^.+docs/, '').replace(/\.md$/, '.html'),
           category: content.match(/category: (.*)/)?.[1].split(';') || [],
         }
       })
