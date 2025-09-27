@@ -1,5 +1,4 @@
 <script setup>
-
 const features = [
   {
     iconClass: 'i-material-symbols-auto-transmission',
@@ -41,7 +40,7 @@ const features = [
           />
         </div>
         <div class="text-center mt-8">
-          <a href="/Contact" class="btn inline-block">了解更多</a>
+          <a href="/Contact" class="VPButton medium brand">了解更多</a>
         </div>
       </div>
     </div>

@@ -1,27 +1,27 @@
+@use './vitepress-vars.scss';
 @use './global-theme.scss';
 @use './doc-layout.scss';
 @use './home-layout.scss';
 
 /* 1. 变量定义 */
-:root {
-  --vp-c-brand-1: #2b3495;
-  --vp-c-brand-2: #0055b8;
-  --vp-c-brand-3: #df0a0a;
-  --vp-nav-logo-height: 36px;
-  --vp-button-brand-bg: var(--vp-c-brand-1);
-  --top-bar-height: 36px;
-  --nav-height: 64px;
-  --content-padding: 32px;
-  --border-radius: 8px;
-  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  --transition-normal: all 0.3s ease;
-}
-
+// :root {
+//   --vp-c-brand-1: #2b3495;
+//   --vp-c-brand-2: #0055b8;
+//   --vp-c-brand-3: #df0a0a;
+//   --vp-nav-logo-height: 36px;
+//   --vp-button-brand-bg: var(--vp-c-brand-1);
+//   --top-bar-height: 36px;
+//   --nav-height: 64px;
+//   --content-padding: 32px;
+//   --border-radius: 8px;
+//   --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+//   --transition-normal: all 0.3s ease;
+// }
 
 /* 4. 顶部条 */
 .custom-top-bar {
   background-color: var(--vp-c-brand-1);
-  color: white;
+  color: var(--vp-c-white);
   font-size: 14px;
   height: var(--top-bar-height);
   display: flex;
@@ -52,7 +52,8 @@
 }
 
 .custom-top-bar .separator {
-  color: rgba(255, 255, 255, 0.6);
+  color: var(--vp-c-white);
+  opacity: 0.6;
 }
 
 /* 自定义全局样式 */
@@ -142,27 +143,26 @@ img:not(.custom-img) {
   box-shadow: var(--box-shadow);
 }
 
-
 .dark .vp-doc a {
-  color: #4c5af3;
+  color: var(--vp-c-brand-1);
 }
 
 .dark .vp-doc a:hover {
-  color: #5c73e7;
+  color: var(--vp-c-brand-2);
 }
 
 /* 8. NProgress 进度条样式 */
 /* 自定义 NProgress 样式以匹配网站主题 */
 #nprogress .bar {
-  background: #4c5af3 !important;
+  background: var(--vp-c-brand-1) !important;
   height: 3px !important;
   z-index: 999999 !important;
 }
 
 #nprogress .peg {
   box-shadow:
-    0 0 10px #4c5af3,
-    0 0 5px #4c5af3 !important;
+    0 0 10px var(--vp-c-brand-1),
+    0 0 5px var(--vp-c-brand-1) !important;
 }
 
 #nprogress .spinner-icon {

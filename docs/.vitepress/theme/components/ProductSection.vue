@@ -20,12 +20,7 @@
       </div>
 
       <div class="text-center mt-10">
-        <a
-          href="/products"
-          class="inline-block px-8 py-3 bg-primary text-white font-medium rounded-lg hover:bg-primary/90 transition-colors"
-        >
-          浏览全部产品
-        </a>
+        <a href="/Products/" class="VPButton medium brand">浏览全部产品</a>
       </div>
     </div>
   </div>

@@ -41,9 +41,9 @@ function onMenuLeave() {
           </h3>
           <div class="sub-menu-list">
             <div v-for="item in menu.items" :key="item.text" class="sub-menu-item">
-              <a v-if="item.link" :href="item.link" class="sub-menu-link" @click="onClose">{{
-                item.text
-              }}</a>
+              <a v-if="item.link" :href="item.link" class="sub-menu-link" @click="onClose">
+                {{ item.text }}
+              </a>
               <span v-else class="sub-menu-text">{{ item.text }}</span>
             </div>
           </div>
@@ -88,7 +88,7 @@ function onMenuLeave() {
   right: 0;
   width: 100%;
   background-color: var(--vp-c-bg-soft);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--vp-shadow-2);
   z-index: 100;
   padding: 24px 0;
 }

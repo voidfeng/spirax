@@ -1,5 +1,5 @@
 <template>
-  <div class="hero-image h-30 md:h-55">
+  <div class="hero-image h-30 md:h-55 rounded-2">
     <img :src="imageUrl" :alt="title" class="hero-image__img" />
     <div class="hero-image__overlay">
       <h2 class="hero-image__title">{{ title }}</h2>
@@ -16,7 +16,7 @@ interface Props {
 defineProps<Props>()
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 .hero-image {
   position: relative;
   width: 100%;
@@ -35,30 +35,31 @@ defineProps<Props>()
   position: absolute;
   bottom: 0;
   left: 0;
-  padding: 24px;
-  background: linear-gradient(
-    to top,
-    rgba(0, 0, 0, 0.8) 0%,
-    rgba(0, 0, 0, 0.6) 50%,
-    rgba(0, 0, 0, 0) 100%
-  );
+  padding: 8px 24px;
+  background: var(--vp-c-brand-3);
   width: 100%;
+  opacity: 0.8;
+  h2 {
+    font-size: 18px;
+    padding-top: 0;
+  }
 }
 
 .hero-image__title {
   margin: 0;
-  color: white;
-  font-size: 1.6rem;
+  color: var(--vp-c-white);
   font-weight: bold;
-  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.7);
+  text-shadow: var(--vp-shadow-2);
   line-height: 1.2;
   border: none !important;
+  position: relative;
+  z-index: 1;
 }
 
 /* 响应式设计 */
 @media (max-width: 768px) {
   .hero-image__overlay {
-    padding: 16px;
+    padding: 8px 16px;
   }
 
   .hero-image__title {

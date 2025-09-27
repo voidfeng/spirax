@@ -8,7 +8,8 @@
         <div class="right">
           <span class="desktop-only">
             <span class="inline-block v-sub i-mynaui-telephone-call-solid"></span>
-            +86 <a href="tel:021-51602757">021-5160 2757</a>
+            +86
+            <a href="tel:021-51602757">021-5160 2757</a>
           </span>
           <span class="separator desktop-only">|</span>
           <span class="desktop-only">
@@ -30,8 +31,8 @@
 
 <style scoped>
 .top-bar {
-  background-color: var(--vp-c-brand-1);
-  color: white;
+  background-color: var(--vp-c-brand-3);
+  color: var(--vp-c-white);
   font-size: 14px;
   height: 36px;
   display: flex;
@@ -59,7 +60,8 @@
 }
 
 .separator {
-  color: rgba(255, 255, 255, 0.6);
+  color: var(--vp-c-white);
+  opacity: 0.6;
 }
 
 .mobile-only {

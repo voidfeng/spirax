@@ -3,7 +3,7 @@ import { data } from '../../../api.data'
 import type { Product } from '../../../types/product'
 
 const props = defineProps<{
-  category: string
+  category?: string
 }>()
 
 let prefix = K_PREFIX

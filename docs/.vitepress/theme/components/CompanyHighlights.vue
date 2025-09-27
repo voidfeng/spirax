@@ -37,19 +37,19 @@ const highlights = [
     title: '全球服务网络',
     description: '在40多个国家和地区拥有分支机构，提供便捷服务',
     image: '/images/home-company-highlight2.jpg',
-    link: '/Contact',
+    link: '/Services/',
   },
   {
     title: '定制解决方案',
     description: '根据客户需求提供定制化的流体控制解决方案',
     image: '/images/home-company-highlight3.jpg',
-    link: '/zh/解决方案/行业/化工和石油/',
+    link: '/Capabilities/',
   },
   {
     title: '技术创新',
     description: '不断创新，引领流体控制技术的发展',
     image: '/images/home-company-highlight4.jpg',
-    link: '/Contact',
+    link: '/Training/',
   },
 ]
 </script>
@@ -88,7 +88,7 @@ const highlights = [
   height: 300px;
   overflow: hidden;
   border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--vp-shadow-2);
   transition: all 0.3s ease;
 }
 
@@ -109,20 +109,20 @@ const highlights = [
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgb(7, 11, 43, 0.88);
+  background-color: var(--vp-c-brand-3);
+  opacity: 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  opacity: 0;
   transition: opacity 0.3s ease;
 }
 
 .highlight-card:hover .card-overlay {
-  opacity: 1;
+  opacity: 0.88;
 }
 
 .card-content {
-  color: white;
+  color: var(--vp-c-white);
   text-align: center;
   padding: 20px;
 }
@@ -140,14 +140,14 @@ const highlights = [
 .highlight-link {
   display: inline-block;
   padding: 6px 12px;
-  background-color: white;
-  color: #0847c1;
+  background-color: var(--vp-c-white);
+  color: var(--vp-c-brand-1);
   border-radius: 4px;
   font-weight: bold;
   transition: all 0.2s ease;
 }
 
 .highlight-link:hover {
-  background-color: #f0f0f0;
+  background-color: var(--vp-c-bg-soft);
 }
 </style>

@@ -12,11 +12,7 @@
           </div>
         </div>
         <div>
-          <a
-            href="/Products/"
-            class="px-6 py-2 bg-white text-primary font-semibold rounded hover:bg-gray-100 transition-colors"
-            >全部产品</a
-          >
+          <a href="/Products/" class="VPButton medium px-6!">全部产品</a>
         </div>
       </div>
     </div>
@@ -39,6 +35,6 @@ const currentYear = new Date().getFullYear()
   margin-top: 2rem;
 }
 .footer-top {
-  background-color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-brand-3);
 }
 </style>

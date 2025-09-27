@@ -10,7 +10,7 @@
   background: url('/images/home-hero.jpg') center center no-repeat;
   background-size: cover;
   position: relative;
-  color: white;
+  color: var(--vp-c-white);
   /* margin-top: calc(var(--top-bar-height) + var(--nav-height) - 34px) !important; */
 }
 
@@ -19,7 +19,7 @@
 }
 
 .VPHomeHero .tagline {
-  color: white;
+  color: var(--vp-c-white);
   font-size: 17px;
   line-height: 1.6;
 }
@@ -31,7 +31,8 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: var(--vp-c-black);
+  opacity: 0.5;
 }
 
 /* Features 区域样式 */
@@ -42,7 +43,7 @@
 
 .VPHomeFeatures .VPFeature {
   border-radius: 0 !important;
-  color: white;
+  color: var(--vp-c-white);
 }
 
 .VPHomeFeatures .VPFeature .box {
@@ -60,7 +61,7 @@
 }
 
 .VPHomeFeatures .VPFeature .details {
-  color: #bbb;
+  color: var(--vp-c-text-3);
 }
 
 /* 团队成员样式 */
