@@ -102,6 +102,10 @@ body {
   .content-container {
     max-width: 100% !important;
   }
+  .VPSidebar,
+  .VPContent {
+    padding-top: 100px !important;
+  }
 }
 
 /* 产品详情页样式 */
@@ -110,15 +114,21 @@ body {
   padding-top: 26px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .custom-top-bar {
     display: none;
   }
-}
-
-@media (max-width: 767px) {
   .custom-nav-item {
     display: none !important;
+  }
+}
+
+@media (max-width: 959px) {
+  .product-list {
+    .VPSidebar,
+    .VPContent {
+      padding-top: 0 !important;
+    }
   }
 }
 

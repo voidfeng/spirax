@@ -2,9 +2,13 @@
   <div class="company-highlights full-width-container bg-gray-100 dark:bg-gray-800">
     <div class="container mx-auto py-12">
       <div class="text-center text-base font-bold text-primary">COMPANY</div>
-      <div class="text-center text-4xl font-bold mb-3">为什么选择斯派莎克阀门</div>
-      <div class="text-center text-sm text-gray-900 dark:text-gray-300 mb-8">
-        确保每项产品的设计材料和质量水平达到或超越客户的要求。
+      <div class="text-center text-4xl font-bold mb-3">关于斯派莎克</div>
+      <div class="text-center text-sm text-gray-900 dark:text-gray-300 mb-8 px-4">
+        <p>
+          斯派莎克——全球领先的蒸汽系统解决方案提供商。我们融合卓越的产品、专业的行业知识和全球化服务，助您提升能效。
+          <br />
+          我们专注于全系列蒸汽系统产品的研发与生产，包括各类阀门、疏水阀、过滤器、流量计及冷凝水回收泵等。
+        </p>
       </div>
 
       <div class="highlights-grid">

@@ -6,8 +6,6 @@ imgs:
   - /d/file/stop-valves/18ef9f2a9c1716edf882edcf9995252a.jpg
 ---
 
-# Spirax SafeBloc DBB3 双流双关波纹管密封截止阀
-
 Spirax SafeBlocTM双流双关波纹管密封**DBB3截止阀**，与单个截止阀的端面距离相同，设计用于蒸汽，气体，液体，冷凝水和水系统的在线双重隔离。
 
 **部分产品和服务只在特定地区提供.**

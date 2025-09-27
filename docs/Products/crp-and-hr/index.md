@@ -8,8 +8,6 @@ aside: false
 outline: false
 ---
 
-# 冷凝水回收及热量回收
-
 为了使能源使用效率最大化，回收冷凝水至锅炉房对整个蒸汽系统非常关键。斯派莎克冷凝水回收设备能高效经济的实现这一要求。
 
 http://www.spiraxsarco.org
