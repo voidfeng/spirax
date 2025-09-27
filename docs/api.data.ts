@@ -1,6 +1,6 @@
 import { readFileSync } from 'fs'
 import { parse, basename } from 'node:path'
-import type { Product } from '../../types/product'
+import { Product } from './types/product'
 
 export declare const data: Product[]
 
@@ -66,7 +66,7 @@ function extractImages(content: string): string[] {
       if (imgsList && imgsList[1]) {
         // 分割成行并处理每一行
         const lines = imgsList[1].split('\n')
-        lines.forEach((line) => {
+        lines.forEach(line => {
           const imgPath = line.match(/\s*-\s*(.*)/)
           if (imgPath && imgPath[1] && imgPath[1].trim()) {
             images.push(imgPath[1].trim().replace(/^-/, ''))
@@ -128,25 +128,24 @@ export default {
     './heat-exchangers/**/*.md',
     './Quickheat/**/*.md',
     './clean-steam/**/*.md',
-    './clean-steams/**/*.md'
+    './clean-steams/**/*.md',
   ],
   load(watchedFiles: string[]) {
     // 读取所有md文件，但忽略index.md文件
     return watchedFiles
-      .filter((file) => !file.endsWith('/index.md'))
-      .map((file) => {
+      .filter(file => !file.endsWith('/index.md'))
+      .map(file => {
         const content = readFileSync(file, 'utf-8')
         const { name, dir } = parse(file)
         const images = extractImages(content)
         return {
           title: extractTitle(content, name + '.md'),
-          directory: (dir.split('/').pop() || '')
-            .replace(/^\d+-/, ''),
+          directory: (dir.split('/').pop() || '').replace(/^\d+-/, ''),
           images,
           url: file.replace(/^docs/, '').replace(/\.md$/, '.html'),
           category: content.match(/category: (.*)/)?.[1].split(';') || [],
         }
       })
-      .filter((item) => item.images.length > 0)
+      .filter(item => item.images.length > 0)
   },
 }

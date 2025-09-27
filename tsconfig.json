@@ -26,24 +26,12 @@
       "~/*": ["./*"],
       "@theme/*": ["./docs/.vitepress/theme/*"],
       "@components/*": ["./docs/.vitepress/theme/components/*"],
-      "@data/*": ["./docs/.vitepress/data/*"]
+      "@data/*": ["docs/data/*"]
     },
     "baseUrl": ".",
     "outDir": "./dist",
     "rootDir": "."
   },
-  "include": [
-    "docs/**/*.ts",
-    "docs/**/*.d.ts",
-    "docs/**/*.tsx",
-    "docs/**/*.vue",
-    "*.ts",
-    "*.mts"
-  ],
-  "exclude": [
-    "node_modules",
-    "dist",
-    "docs/.vitepress/cache",
-    "docs/.vitepress/dist"
-  ]
+  "include": ["docs/**/*.ts", "docs/**/*.d.ts", "docs/**/*.tsx", "docs/**/*.vue", "*.ts", "*.mts"],
+  "exclude": ["node_modules", "dist", "docs/.vitepress/cache", "docs/.vitepress/dist"]
 }
