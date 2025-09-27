@@ -98,8 +98,10 @@ body {
 }
 
 /* 产品列表页样式 */
-.product-list .content-container {
-  max-width: 100% !important;
+.product-list {
+  .content-container {
+    max-width: 100% !important;
+  }
 }
 
 /* 产品详情页样式 */
