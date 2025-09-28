@@ -11,22 +11,6 @@
   }
 }
 
-// 自定义布局样式
-.custom-layout {
-  .VPContent {
-    padding-top: var(--top-bar-height);
-  }
-
-  // 预留的导航栏位置调整（已注释）
-  /* .VPNav {
-    position: fixed;
-    top: var(--top-bar-height);
-    left: 0;
-    right: 0;
-    z-index: 99;
-  } */
-}
-
 // 导航栏样式
 .VPNav {
   background-color: var(--vp-nav-bg-color);
@@ -261,7 +245,6 @@
   }
 }
 
-
 // =============================
 // 详情页样(宽度占满) 容器宽度样式
 // =============================
@@ -278,7 +261,6 @@
   }
 }
 
-
 @media (min-width: 960px) {
   .content-page-auto-width {
     max-width: 961px;
@@ -288,5 +270,11 @@
 @media (min-width: 768px) {
   .content-page-auto-width {
     max-width: 700px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .content-page-auto-width {
+    max-width: 920px;
   }
 }

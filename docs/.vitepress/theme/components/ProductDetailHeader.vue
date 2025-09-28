@@ -69,65 +69,271 @@ const desc = computed(() => {
 
 <template>
   <div class="product-detail-header">
-    <div class="flex flex-wrap gap-8 py-4 md:flex-row flex-col-reverse md:gap-8 gap-0 mx-auto content-page-auto-width px-4">
-      <div
-        class="w-2/5 min-w-75 flex flex-col gap-6 justify-center md:max-w-2/5 max-w-full md:gap-6 gap-2 md:px-0 px-6 md:text-left text-center"
-      >
-        <div class="flex flex-wrap gap-2 md:justify-start justify-center md:order-none order-2">
+    <div class="product-container content-page-auto-width">
+      <!-- 产品信息区域 -->
+      <div class="product-info">
+        <!-- 产品分类导航 -->
+        <nav class="product-categories">
           <a
             v-for="d in categories"
             :href="`/zh/products/${d.join('/')}`"
             :title="`斯派莎克${d.toReversed().join('')}`"
-            class="text-sm text-gray-600"
+            class="category-link"
           >
             {{ d.toReversed().join('') }}
           </a>
+        </nav>
+
+        <!-- 产品标题 -->
+        <div class="product-title-section">
+          <h2 class="product-title">{{ productModel }}</h2>
         </div>
 
-        <div class="md:order-none order-3">
-          <h2 class="m-0 text-2xl text-gray-900 font-semibold leading-tight">{{ productModel }}</h2>
+        <!-- 产品描述 -->
+        <div v-if="desc" class="product-description">
+          <p>{{ desc }}</p>
         </div>
 
-        <div v-if="desc" class="text-gray-600 leading-relaxed md:order-none order-4">
-          <p class="m-0 mb-4">{{ desc }}</p>
-        </div>
-
-        <div
-          v-if="imageList.length > 1"
-          class="flex gap-3 overflow-x-auto py-2 md:justify-start justify-center md:order-none order-1"
-        >
-          <div
+        <!-- 产品缩略图列表 -->
+        <div v-if="imageList.length > 1" class="thumbnail-list">
+          <button
             v-for="(img, index) in imageList"
             :key="index"
-            class="w-20 h-20 rounded overflow-hidden cursor-pointer border-2 border-solid transition-all duration-200 flex-shrink-0 border-gray-3"
-            :class="{ 'border-blue-500!': img === currentImage }"
+            class="thumbnail-item"
+            :class="{ 'thumbnail-active': img === currentImage }"
             @click="changeImage(img)"
+            :aria-label="`选择图片 ${index + 1}`"
           >
-            <img
-              :src="img"
-              :alt="`${productTitle} - 图片${index + 1}`"
-              class="w-full h-full object-cover rounded"
-            />
-          </div>
+            <img :src="img" :alt="`${productTitle} - 缩略图${index + 1}`" class="thumbnail-image" />
+          </button>
         </div>
       </div>
 
-      <div
-        class="flex-1 min-w-75 max-w-1/2 flex items-start justify-center md:max-w-1/2 max-w-full rounded overflow-hidden"
-      >
-        <img
-          v-if="currentImage"
-          :src="currentImage"
-          :alt="productTitle"
-          class="w-full shadow-none"
-        />
-        <div
-          v-else
-          class="w-full md:h-75 h-60 flex items-center justify-center bg-gray-100 rounded text-gray-500 text-lg"
-        >
-          暂无图片
+      <!-- 产品主图区域 -->
+      <div class="product-image-section">
+        <div class="main-image-container">
+          <img v-if="currentImage" :src="currentImage" :alt="productTitle" class="main-image" />
+          <div v-else class="no-image-placeholder">暂无图片</div>
         </div>
       </div>
     </div>
   </div>
 </template>
+
+<style scoped>
+/* 主容器布局 */
+.product-detail-header {
+  width: 100%;
+  padding: 1rem 0;
+}
+
+.product-container {
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+/* 产品信息区域 */
+.product-info {
+  flex: 1;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 1rem;
+}
+
+/* 产品分类导航 */
+.product-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.category-link {
+  font-size: 0.875rem;
+  color: var(--vp-c-text-2);
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.375rem;
+  transition: color 0.2s ease;
+}
+
+.category-link:hover {
+  color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-bg-soft);
+}
+
+/* 产品标题 */
+.product-title-section {
+  margin: 0;
+}
+
+.product-title {
+  margin: 0;
+  margin-bottom: 2rem;
+  font-size: 1.875rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  line-height: 1.2;
+}
+
+/* 产品描述 */
+.product-description {
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+}
+
+.product-description p {
+  margin: 0;
+}
+
+/* 缩略图列表 */
+.thumbnail-list {
+  display: flex;
+  gap: 0.75rem;
+  overflow-x: auto;
+  padding: 0.5rem 0;
+  scrollbar-width: thin;
+  scrollbar-color: var(--vp-c-divider) transparent;
+}
+
+.thumbnail-item {
+  width: 5rem;
+  height: 5rem;
+  border: 2px solid var(--vp-c-border);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+  background: none;
+  padding: 0;
+}
+
+.thumbnail-item:hover {
+  border-color: var(--vp-c-brand-2);
+  transform: translateY(-1px);
+}
+
+.thumbnail-active {
+  border-color: var(--vp-c-brand-1) !important;
+  box-shadow: 0 0 0 2px rgba(var(--vp-c-brand-1-rgb), 0.2);
+}
+
+.thumbnail-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* 产品主图区域 */
+.product-image-section {
+  flex: 1;
+  min-width: 300px;
+  max-width: 50%;
+}
+
+.main-image-container {
+  position: relative;
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: var(--vp-c-bg-soft);
+}
+
+.main-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-height: 500px;
+  object-fit: contain;
+}
+
+.no-image-placeholder {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--vp-c-text-2);
+  font-size: 1.125rem;
+  background-color: var(--vp-c-bg-soft);
+}
+
+/* 响应式布局 */
+@media (max-width: 768px) {
+  .product-container {
+    flex-direction: column-reverse;
+    gap: 1.5rem;
+  }
+
+  .product-info {
+    min-width: unset;
+    text-align: center;
+  }
+
+  .product-categories {
+    justify-content: center;
+  }
+
+  .thumbnail-list {
+    justify-content: center;
+    order: -1;
+  }
+
+  .product-image-section {
+    max-width: none;
+    min-width: unset;
+  }
+
+  .main-image-container {
+    max-width: 100%;
+  }
+
+  .no-image-placeholder {
+    height: 240px;
+  }
+}
+
+@media (max-width: 480px) {
+  .product-container {
+    padding: 0 0.75rem;
+    gap: 1rem;
+  }
+
+  .product-info {
+    gap: 1rem;
+  }
+
+  .product-title {
+    font-size: 1.5rem;
+  }
+
+  .thumbnail-item {
+    width: 4rem;
+    height: 4rem;
+  }
+
+  .no-image-placeholder {
+    height: 200px;
+    font-size: 1rem;
+  }
+}
+
+/* 可访问性改进 */
+@media (prefers-reduced-motion: reduce) {
+  .thumbnail-item,
+  .category-link {
+    transition: none;
+  }
+}
+
+/* 支持暗色主题 */
+@media (prefers-color-scheme: dark) {
+  .thumbnail-list {
+    scrollbar-color: var(--vp-c-divider) transparent;
+  }
+}
+</style>
