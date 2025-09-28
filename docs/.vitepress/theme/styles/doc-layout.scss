@@ -5,8 +5,11 @@
 
 /* 基础文档布局 */
 .VPDoc {
-  padding: 32px 24px 96px;
+  padding: 32px 0 96px !important;
   width: 100%;
+  .container {
+    padding: 0 16px;
+  }
 }
 
 /* 预留的内容容器样式（备用） */
@@ -24,15 +27,15 @@
   max-width: initial !important;
 }
 
-/* 响应式适配 */
-@media (min-width: 960px) {
-  .VPDoc {
-    padding: 68px var(--content-padding) 0 !important;
-  }
-}
 
 @media (min-width: 768px) {
   .VPDoc {
-    padding: 68px var(--content-padding) 128px;
+    padding: 48px 0 128px !important;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPDoc {
+    padding: 48px 0 0 !important;
   }
 }

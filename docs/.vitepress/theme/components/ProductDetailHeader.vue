@@ -68,63 +68,66 @@ const desc = computed(() => {
 </script>
 
 <template>
-  <div class="flex flex-wrap gap-8 py-4 md:flex-row flex-col-reverse md:gap-8 gap-0">
-    <div
-      class="w-2/5 min-w-75 flex flex-col gap-6 justify-center md:max-w-2/5 max-w-full md:gap-6 gap-2 md:px-0 px-6 md:text-left text-center"
-    >
-      <div class="flex flex-wrap gap-2 md:justify-start justify-center md:order-none order-2">
-        <a
-          v-for="d in categories"
-          :href="`/zh/products/${d.join('/')}`"
-          :title="`斯派莎克${d.toReversed().join('')}`"
-          class="text-sm text-gray-600"
-        >
-          {{ d.toReversed().join('') }}
-        </a>
-      </div>
-
-      <div class="md:order-none order-3">
-        <h2 class="m-0 text-2xl text-gray-900 font-semibold leading-tight">{{ productModel }}</h2>
-      </div>
-
-      <div v-if="desc" class="text-gray-600 leading-relaxed md:order-none order-4">
-        <p class="m-0 mb-4">{{ desc }}</p>
-      </div>
-
+  <div class="product-detail-header">
+    <div class="flex flex-wrap gap-8 py-4 md:flex-row flex-col-reverse md:gap-8 gap-0 mx-auto content-page-auto-width px-4">
       <div
-        v-if="imageList.length > 1"
-        class="flex gap-3 overflow-x-auto py-2 md:justify-start justify-center md:order-none order-1"
+        class="w-2/5 min-w-75 flex flex-col gap-6 justify-center md:max-w-2/5 max-w-full md:gap-6 gap-2 md:px-0 px-6 md:text-left text-center"
       >
+        <div class="flex flex-wrap gap-2 md:justify-start justify-center md:order-none order-2">
+          <a
+            v-for="d in categories"
+            :href="`/zh/products/${d.join('/')}`"
+            :title="`斯派莎克${d.toReversed().join('')}`"
+            class="text-sm text-gray-600"
+          >
+            {{ d.toReversed().join('') }}
+          </a>
+        </div>
+
+        <div class="md:order-none order-3">
+          <h2 class="m-0 text-2xl text-gray-900 font-semibold leading-tight">{{ productModel }}</h2>
+        </div>
+
+        <div v-if="desc" class="text-gray-600 leading-relaxed md:order-none order-4">
+          <p class="m-0 mb-4">{{ desc }}</p>
+        </div>
+
         <div
-          v-for="(img, index) in imageList"
-          :key="index"
-          class="w-20 h-20 rounded overflow-hidden cursor-pointer border-2 border-solid transition-all duration-200 flex-shrink-0 border-gray-3"
-          :class="{ 'border-blue-500!': img === currentImage }"
-          @click="changeImage(img)"
+          v-if="imageList.length > 1"
+          class="flex gap-3 overflow-x-auto py-2 md:justify-start justify-center md:order-none order-1"
         >
-          <img
-            :src="img"
-            :alt="`${productTitle} - 图片${index + 1}`"
-            class="w-full h-full object-cover rounded"
-          />
+          <div
+            v-for="(img, index) in imageList"
+            :key="index"
+            class="w-20 h-20 rounded overflow-hidden cursor-pointer border-2 border-solid transition-all duration-200 flex-shrink-0 border-gray-3"
+            :class="{ 'border-blue-500!': img === currentImage }"
+            @click="changeImage(img)"
+          >
+            <img
+              :src="img"
+              :alt="`${productTitle} - 图片${index + 1}`"
+              class="w-full h-full object-cover rounded"
+            />
+          </div>
         </div>
       </div>
-    </div>
 
-    <div
-      class="flex-1 min-w-75 max-w-1/2 flex items-start justify-center md:max-w-1/2 max-w-full rounded overflow-hidden"
-    >
-      <img v-if="currentImage" :src="currentImage" :alt="productTitle" class="w-full shadow-none" />
       <div
-        v-else
-        class="w-full md:h-75 h-60 flex items-center justify-center bg-gray-100 rounded text-gray-500 text-lg"
+        class="flex-1 min-w-75 max-w-1/2 flex items-start justify-center md:max-w-1/2 max-w-full rounded overflow-hidden"
       >
-        暂无图片
+        <img
+          v-if="currentImage"
+          :src="currentImage"
+          :alt="productTitle"
+          class="w-full shadow-none"
+        />
+        <div
+          v-else
+          class="w-full md:h-75 h-60 flex items-center justify-center bg-gray-100 rounded text-gray-500 text-lg"
+        >
+          暂无图片
+        </div>
       </div>
     </div>
   </div>
 </template>
-
-<style lang="scss" scoped>
-/* 由于已经使用 UnoCSS utility classes，大部分样式已移除 */
-</style>

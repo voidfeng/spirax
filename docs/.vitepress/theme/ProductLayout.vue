@@ -12,8 +12,8 @@ const { frontmatter } = useData()
 </script>
 
 <template>
-  <Layout 
-    :class="{ 
+  <Layout
+    :class="{
       'product-list': frontmatter.pageType === 'list',
       'product-detail': frontmatter.category
     }"
@@ -30,7 +30,7 @@ const { frontmatter } = useData()
 
     <template v-if="frontmatter.category" #doc-top>
       <div class="doc-extend-content-change">
-        <div class="doc-extend-content-change__content container">
+        <div class="doc-extend-content-change__content">
           <ProductDetailHeader />
         </div>
       </div>

@@ -260,3 +260,33 @@
     }
   }
 }
+
+
+// =============================
+// 详情页样(宽度占满) 容器宽度样式
+// =============================
+
+@media (min-width: 480px) {
+  .content-page-auto-width {
+    max-width: 480px;
+  }
+}
+
+@media (min-width: 640px) {
+  .content-page-auto-width {
+    max-width: 640px;
+  }
+}
+
+
+@media (min-width: 960px) {
+  .content-page-auto-width {
+    max-width: 961px;
+  }
+}
+
+@media (min-width: 768px) {
+  .content-page-auto-width {
+    max-width: 700px;
+  }
+}
