@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts" setup>
 import { ref, computed, onMounted, watch } from 'vue'
 import { useData } from 'vitepress'
 
@@ -52,7 +52,6 @@ const category2url = {
   '加湿器,直接喷射式蒸汽加湿器': '',
 }
 
-// 处理图片数据
 const imageList = computed(() => {
   if (!frontmatter.value.imgs) return []
 
@@ -87,14 +86,14 @@ watch(
 )
 
 // 切换显示的图片
-function changeImage(img) {
+function changeImage(img: string) {
   currentImage.value = img
 }
 
 // 获取产品分类
 const categories = computed(() => {
   if (!frontmatter.value.category) return []
-  return frontmatter.value.category.split(';').map(item => item.split(','))
+  return frontmatter.value.category.split(';').map((item:string) => item.split(','))
 })
 
 // 获取产品型号
