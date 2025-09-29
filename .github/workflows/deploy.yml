@@ -43,5 +43,5 @@ jobs:
           port: 22
           source: docs/.vitepress/dist/
           strip_components: 3 # 删除路径中的第一个组件（即 dist 文件夹）
-          target: /www/wwwroot/next.braycn.com/
+          target: /www/wwwroot/next.spiraxvalve.com/
           debug: true # 添加调试信息
