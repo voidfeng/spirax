@@ -35,8 +35,8 @@ export default defineConfig({
     plugins: [
       UnoCSS(),
       La51Plugin({
-        id: '3Mz88un7J63XQmNO',
-        ck: '3Mz88un7J63XQmNO',
+        id: '3N07rAwcxRrXcfpb',
+        ck: '3N07rAwcxRrXcfpb',
         importMode: 'async',
       }),
     ],
