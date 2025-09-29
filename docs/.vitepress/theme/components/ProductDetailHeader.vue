@@ -5,18 +5,18 @@ import { useData } from 'vitepress'
 const { frontmatter, page } = useData()
 
 const category2url = {
-  蒸汽疏水阀: "/Products/Traps/",
-  '蒸汽疏水阀,蒸汽浮球式疏水阀': '/ball/',
-  '蒸汽疏水阀,蒸汽热动力疏水阀': '/thermodynamic/',
-  '蒸汽疏水阀,蒸汽压力平衡式疏水阀': '/balanced-pressure/',
-  '蒸汽疏水阀,蒸汽双金属疏水阀': '/bimetallic/',
+  蒸汽疏水阀: '/Products/Traps/',
+  '蒸汽疏水阀,浮球式疏水阀': '/ball/',
+  '蒸汽疏水阀,热动力疏水阀': '/thermodynamic/',
+  '蒸汽疏水阀,压力平衡式疏水阀': '/balanced-pressure/',
+  '蒸汽疏水阀,双金属疏水阀': '/bimetallic/',
   '蒸汽疏水阀,固定排放温度疏水阀': '/fixed-temperature-discharge/',
-  '蒸汽疏水阀,蒸汽倒吊桶式疏水阀': '/inverted-bucket/',
-  '蒸汽疏水阀,蒸汽疏水阀性能检测系统': '/steam-trap-performance/',
+  '蒸汽疏水阀,倒吊桶式疏水阀': '/inverted-bucket/',
+  '蒸汽疏水阀,疏水阀性能检测系统': '/steam-trap-performance/',
   '蒸汽疏水阀,万向连接疏水阀': '/swivel-connectors/',
   '蒸汽疏水阀,密封型疏水阀': '/sealed-steam-traps/',
-  '蒸汽疏水阀,蒸汽分配及冷凝水收集管': '/manifolds-and-insulation-jackets/',
-  控制系统: '',
+  '蒸汽疏水阀,分配及冷凝水收集管': '/manifolds-and-insulation-jackets/',
+  控制系统: '#',
   '控制系统,控制阀': '/control-valves/',
   '控制系统,电动执行器': '/electric-actuators/',
   '控制系统,气动执行器': '/pneumatic-actuators/',
@@ -26,7 +26,7 @@ const category2url = {
   '控制系统,减压阀': '/pressure-reducing/',
   '控制系统,安全阀': '/safety-valves/',
   '控制系统,自作用温度控制系统': '/self-acting-controls/',
-  管道附件: "/Products/fittings/",
+  管道附件: '/Products/fittings/',
   '管道附件,密封波纹管截止阀': '/stop-valves/',
   '管道附件,球阀': '/ball-valves/',
   '管道附件,止回阀': '/check-valves/',
@@ -39,7 +39,7 @@ const category2url = {
   '管道附件,汽水混合站': '/hosedown-stations/',
   '管道附件,压力表': '/Pressure-gauge/',
   '管道附件,观视镜': '/sight-glasses/',
-  锅炉控制系统: "/Boiler-Control-System/",
+  锅炉控制系统: '/Boiler-Control-System/',
   '锅炉控制系统,给水除氧箱': '/feedtanks/',
   '锅炉控制系统,排空帽': '/vent-heads/',
   '锅炉控制系统,蒸汽喷射器': '/steam-injectors/',
@@ -51,22 +51,22 @@ const category2url = {
   '锅炉控制系统,电导率测量仪': '/conductivity-meters/',
   '锅炉控制系统,闪蒸罐': '/flash-steam/',
   '锅炉控制系统,热回收系统': '/heat-recovery-systems/',
-  冷凝水泵及热量回收: "/Products/crp-and-hr/",
+  冷凝水泵及热量回收: '/Products/crp-and-hr/',
   '冷凝水泵及热量回收,凝结水回收机械泵': '/pressure-powered-pumps/',
   '冷凝水泵及热量回收,电泵': '/electric-pumps/',
-  压缩空气产品: "/Products/air-traps/",
+  压缩空气产品: '/Products/air-traps/',
   '压缩空气产品,压缩空气疏水阀': '/drain-traps/',
-  流量计: "/flowmeter/",
+  流量计: '/flowmeter/',
   '流量计,流量计算机、显示装置和变送器': '/computers-displays/',
   '流量计,Gilflo ILVA流量计': '/Gilflo-ILVA/',
   '流量计,TFA流量计': '/TFA/',
   '流量计,TVA流量计': '/TVA/',
-  加湿器: '',
+  加湿器: '#',
   '加湿器,直接喷射式蒸汽加湿器': '/steam-injection-humidifiers/',
-  换热产品解决方案: '',
+  换热产品解决方案: '#',
   '换热产品解决方案,蒸汽换热机组': '/heat-exchangers/',
   '换热产品解决方案,Quickheat换热机组': '/Quickheat/',
-  洁净蒸汽产品: '',
+  洁净蒸汽产品: '#',
   '控制系统,洁净蒸汽发生器': '/clean-steam-generator/',
   '控制系统,洁净蒸汽阀件': '/clean-steams/',
 }
@@ -131,6 +131,24 @@ const productTitle = computed(() => {
 const desc = computed(() => {
   return frontmatter.value.desc || ''
 })
+
+const getCategoryUrl = (d: string, index: number) => {
+  console.log(d, index)
+  let url = ''
+  for (const key in category2url) {
+    const keys = key.split(',')
+    if (index === 0 && keys[index] === key) {
+      console.log('找到了', key, category2url[key as keyof typeof category2url])
+      url = category2url[key as keyof typeof category2url]
+      break
+    }
+    if (index === 1 && keys[index] === d) {
+      url = category2url[key as keyof typeof category2url]
+      break
+    }
+  }
+  return url
+}
 </script>
 
 <template>
@@ -140,14 +158,16 @@ const desc = computed(() => {
       <div class="product-info">
         <!-- 产品分类导航 -->
         <nav class="product-categories">
-          <a
-            v-for="d in categories"
-            :href="`/zh/products/${d.join('/')}`"
-            :title="`斯派莎克${d.toReversed().join('')}`"
-            class="category-link"
-          >
-            {{ d.toReversed().join('') }}
-          </a>
+          <template v-for="category in categories" :key="category.join('')">
+            <a
+              v-for="(d, index) in category"
+              :href="getCategoryUrl(d, index)"
+              :title="`斯派莎克${d}`"
+              class="category-link"
+            >
+              {{ d }}
+            </a>
+          </template>
         </nav>
 
         <!-- 产品标题 -->
@@ -222,6 +242,7 @@ const desc = computed(() => {
   color: var(--vp-c-text-2);
   text-decoration: none;
   padding: 0.25rem 0.5rem;
+  padding-left: 0;
   border-radius: 0.375rem;
   transition: color 0.2s ease;
 }

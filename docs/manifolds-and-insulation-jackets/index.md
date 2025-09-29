@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: 蒸汽分配及冷凝水收集管
-category: 蒸汽疏水阀,蒸汽分配及冷凝水收集管
+category: 蒸汽疏水阀,分配及冷凝水收集管
 imgs:
   - /d/file/p/f1cd3359ba9f7730af3a831b41b53fa6.jpg
 sidebar: false
