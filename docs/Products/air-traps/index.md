@@ -3,6 +3,7 @@ layout: doc
 title: 压缩空气疏水阀和加湿器
 imgs:
   - /d/file/p/cff429b7e4483c9e2b0779a9826c8c1f.jpg
+  - /d/file/p/18b25888c6c8cc134097b79ebd49d4d5.jpg
 category: 压缩空气产品
 sidebar: false
 aside: false

@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: 球阀
-category: 球阀
+category: 管道附件,球阀
 imgs:
   - /d/file/p/17f953d5ba4b37e9b37b7079d10eb42e.jpg
   - /d/file/p/881b4cc676ebbdf80df9fdb6ebe1a926.jpg
