@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: 排空帽
+category: 锅炉控制系统,排空帽
 imgs:
   - /d/file/p/15efc7f16abb4fa43c8d5afab87a4029.jpg
 ---

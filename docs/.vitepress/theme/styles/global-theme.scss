@@ -161,7 +161,7 @@
 
   &.brand {
     border-color: var(--vp-button-brand-border);
-    color: var(--vp-button-brand-text);
+    color: var(--vp-button-brand-text) !important;
     background-color: var(--vp-button-brand-bg);
     &:hover {
       color: var(--vp-c-white);

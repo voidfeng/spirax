@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: 蒸汽喷射器
+category: 锅炉控制系统,蒸汽喷射器
 imgs:
   - /d/file/p/614797ea544da0302bbfea72b97c1efe.jpg
 ---

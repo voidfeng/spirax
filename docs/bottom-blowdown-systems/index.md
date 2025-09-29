@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: 底部排污系统
+category: 锅炉控制系统,底部排污系统
 imgs:
   - /d/file/p/071aaab97009d7b2bfee6119bb50cedc.jpg
   - /d/file/p/433e73a511f80caea77f84c8c232782f.jpg

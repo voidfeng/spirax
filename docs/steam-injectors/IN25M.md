@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: IN25M蒸汽喷射器
+category: 锅炉控制系统,蒸汽喷射器
 imgs:
   - /d/file/steam-injectors/198f2e9f8a315340d8b89069cf4ce40d.jpg
 ---

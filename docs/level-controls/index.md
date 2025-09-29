@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: 液位控制
+category: 锅炉控制系统,液位控制
 imgs:
   - /d/file/p/3aa2e2082ed715545858a3eeadf671f1.jpg
 ---

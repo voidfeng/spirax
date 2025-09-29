@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: 取样冷却器
+category: 锅炉控制系统,取样冷却器
 imgs:
   - /d/file/p/875d563c735daa7647c1b4deefc1ab30.jpg
 ---

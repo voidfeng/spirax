@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: 热回收系统
+category: 锅炉控制系统,热回收系统
 imgs:
   - /d/file/p/d283d45b51ecb14d4cc2f19ceaeb2bc0.jpg
 ---

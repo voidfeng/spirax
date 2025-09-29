@@ -50,6 +50,23 @@ export const productMenus = [
     ],
   },
   {
+    link: '/Boiler-Control-System/',
+    text: '锅炉控制系统',
+    items: [
+      { link: '/feedtanks/', text: '给水除氧箱' },
+      { link: '/vent-heads/', text: '排空帽' },
+      { link: '/steam-injectors/', text: '蒸汽喷射器' },
+      { link: '/level-controls/', text: '液位控制' },
+      { link: '/tds-blowdown-controls/', text: 'TDS排污控制' },
+      { link: '/bottom-blowdown-systems/', text: '底部排污系统' },
+      { link: '/blowdown-vessels/', text: '排污罐' },
+      { link: '/sample-coolers/', text: '取样冷却器' },
+      { link: '/conductivity-meters/', text: '电导率测量仪' },
+      { link: '/flash-steam/', text: '闪蒸罐' },
+      { link: '/heat-recovery-systems/', text: '热回收系统' },
+    ],
+  },
+  {
     link: '/flowmeter/',
     text: '斯派莎克流量计',
     items: [
@@ -75,23 +92,6 @@ export const productMenus = [
       { link: '/steam-injection-humidifiers/', text: '直接喷射式蒸汽加湿器' },
     ],
   },
-  // {
-  //   link: '/Boiler-Control-System/',
-  //   text: '锅炉控制系统-穆尼阀门',
-  //   items: [
-  //     { link: '/feedtanks/', text: '给水除氧箱' },
-  //     { link: '/vent-heads/', text: '排空帽' },
-  //     { link: '/steam-injectors/', text: '蒸汽喷射器' },
-  //     { link: '/level-controls/', text: '液位控制' },
-  //     { link: '/tds-blowdown-controls/', text: 'TDS排污控制' },
-  //     { link: '/bottom-blowdown-systems/', text: '底部排污系统' },
-  //     { link: '/blowdown-vessels/', text: '排污罐' },
-  //     { link: '/sample-coolers/', text: '取样冷却器' },
-  //     { link: '/conductivity-meters/', text: '电导率测量仪' },
-  //     { link: '/flash-steam/', text: '闪蒸罐' },
-  //     { link: '/heat-recovery-systems/', text: '热回收系统' },
-  //   ],
-  // },
   {
     text: '换热产品解决方案',
     items: [

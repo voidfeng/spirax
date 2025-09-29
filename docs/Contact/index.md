@@ -18,11 +18,11 @@ outline: false
 
 <div class="contact-grid">
 
-### 🏢 销售一部
+### <span class="i-material-symbols:home-repair-service w-6 h-6 inline-block v-sub"></span> 销售一部
 
 <div class="contact-card">
   <div class="contact-item">
-    <span class="contact-icon">📍</span>
+    <span class="i-material-symbols:location-on w-6 h-6 inline-block v-sub"></span>
     <div class="contact-info">
       <strong>地址</strong>
       <p>上海市闵行区浦江高科技园区新骏环路600号</p>
@@ -31,7 +31,7 @@ outline: false
   </div>
 
   <div class="contact-item">
-    <span class="contact-icon">📞</span>
+    <span class="i-material-symbols:call w-6 h-6 inline-block v-sub"></span>
     <div class="contact-info">
       <strong>电话</strong>
       <p><a href="tel:021-51602757">021-5160 2757</a></p>
@@ -39,7 +39,7 @@ outline: false
   </div>
 
   <div class="contact-item">
-    <span class="contact-icon">📠</span>
+    <span class="i-material-symbols:fax-rounded w-6 h-6 inline-block v-sub"></span>
     <div class="contact-info">
       <strong>传真</strong>
       <p>021-6091 1164</p>
@@ -47,7 +47,7 @@ outline: false
   </div>
 
   <div class="contact-item">
-    <span class="contact-icon">✉️</span>
+    <span class="i-material-symbols:mail-sharp w-6 h-6 inline-block v-sub"></span>
     <div class="contact-info">
       <strong>邮箱</strong>
       <p><a href="mailto:13917444407@163.com">13917444407@163.com</a></p>
@@ -55,7 +55,7 @@ outline: false
   </div>
 </div>
 
-### 🕐 营业时间
+### <span class="i-material-symbols:nest-clock-farsight-analog-rounded w-6 h-6 inline-block v-sub"></span> 营业时间
 
 <div class="business-hours-card">
   <div class="hours-item">

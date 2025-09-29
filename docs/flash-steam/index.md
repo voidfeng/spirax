@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: 闪蒸罐
+category: 锅炉控制系统,闪蒸罐
 imgs:
   - /d/file/p/90249ffac615907377b4d59636e9ca3b.jpg
 ---

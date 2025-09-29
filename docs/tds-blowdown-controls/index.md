@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: TDS 排污控制
+category: TDS 排污控制,蒸汽喷射器
 imgs:
   - /d/file/p/1d8b54e93bc580b77d4842d1ee0d00ae.jpg
 ---

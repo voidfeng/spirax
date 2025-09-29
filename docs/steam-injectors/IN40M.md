@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: IN40M蒸汽喷射器
+category: 锅炉控制系统,蒸汽喷射器
 imgs:
   - /d/file/steam-injectors/aa5b6cd3635703e4873919fc3e504673.jpg
 ---
