@@ -133,12 +133,10 @@ const desc = computed(() => {
 })
 
 const getCategoryUrl = (d: string, index: number) => {
-  console.log(d, index)
   let url = ''
   for (const key in category2url) {
     const keys = key.split(',')
     if (index === 0 && keys[index] === key) {
-      console.log('找到了', key, category2url[key as keyof typeof category2url])
       url = category2url[key as keyof typeof category2url]
       break
     }
