@@ -29,19 +29,4 @@ This app enables quick and easy access to both our steam table and saturated ste
 [Click here to find out more](#)
 
   
-
-Copyright © 2015
-
-Mooney Limited
-
   
-
-[苏ICP备15019176号-2](http://www.miitbeian.gov.cn/)
-
--   Investors
--   Privacy Policy
--   Terms of Use
-
-## First for Steam Solutions
-
-ExpertiseSolutionsSustainability

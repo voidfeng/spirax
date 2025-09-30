@@ -37,21 +37,3 @@ This app enables quick and easy access to both our steam table and saturated ste
 
 [Click here to find out more](#)
 
-  
-
-Copyright © 2015
-
-Mooney Limited  
-[版权声明](/banquan.html)
-
-![](/skin/beian-mps.png) [苏公网安备32059002005318号](https://beian.mps.gov.cn/#/query/webSearch?code=32059002005318)  
-[苏ICP备2022038868号-2](https://beian.miit.gov.cn)  
-穆尼机械（苏州）有限公司
-
--   Investors
--   Privacy Policy
--   Terms of Use
-
-## First for Steam Solutions
-
-ExpertiseSolutionsSustainability
