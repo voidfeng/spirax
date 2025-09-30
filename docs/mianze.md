@@ -45,5 +45,3 @@ Mooney Limited
 ## First for Steam Solutions
 
 ExpertiseSolutionsSustainability
-
-var cnzz\_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz\_stat\_icon\_125 Tel: +86 151-6007 4648<br>2185'%3E%3C/span%3E%3Cscript src='" + cnzz\_protocol + "s11.cnzz.com/z\_stat.php%3Fid%3D125 Tel: +86 151-6007 4648<br>2185' type='text/javascript'%3E%3C/script%3E"));
